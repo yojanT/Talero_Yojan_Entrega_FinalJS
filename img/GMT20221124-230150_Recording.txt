@@ -1,0 +1,779 @@
+01:05:54	Alejandro:	buenas tardes!
+01:06:03	Matias Perrone:	Perdon, no entendí en qué parte de la plataforma hay algún contacto para consultas administrativas.
+01:06:41	pipa:	lA ANTERIIOR FUE LA CLASE 00
+01:07:20	pipa:	buenas amador
+01:07:37	[Tutor] José Antonio:	hola hola 👋, mucho gusto gente 🤗
+01:07:51	Nicolas Javier De Minicis:	Hola, buenas tardes!!
+01:08:05	Lucas Labriola:	serian los desafíos?
+01:08:08	Rodrigo Penesi:	buenas tardes
+01:08:36	MATTT:	HOLA
+01:08:51	Franco Ferreyra Bonnin:	Buenas tardes. No tengo cámara, no me toma la externa que me traje al trabajo. Disculpas.
+01:09:23	lucas de pasqua:	argentina ,
+01:09:25	Lisandro:	me anoto un amigo jajajajaajaja
+01:09:27	pipa:	listo
+01:09:30	Lisandro:	best respuesta
+01:09:32	Franco Cirulli:	Listo!
+01:09:32	Ramiro Guitart:	me anoto mi vieja
+01:09:44	Giuliano Muñoz Gassmann:	JAJAJJAJAJAJA
+01:09:44	lucas de pasqua:	poco HTML y css
+01:10:10	MATTT:	LA PREGUNTA 2  TIENE QUE ESTAR LA OPCION _ NO SE NADA
+01:10:13	lucas de pasqua:	me anote por recomendación de un amigo que ya estuvo en el curso
+01:10:13	pipa:	como voy a la plataforma
+01:10:15	pipa:	?
+01:10:27	Facundo Rivera:	disculpen pero no tengo camara
+01:10:51	[Tutor] José Antonio:	recuerden cambiarse el nombre, el mismo que tienen en la plataforma deben tener en zoom , esto es necesario para la asistencia, aquí hay un link de como hacerlo por si no saben https://ayuda.coderhouse.com/
+01:10:55	Franco Cirulli:	Nadie la prende, casi que no es necesario!
+01:11:08	[Tutor] José Antonio:	https://www.businessinsider.com/guides/tech/how-to-change-name-on-zoom?r=MX&IR=T es este link 😅
+01:11:11	Lisandro:	yo solamente tengo el nombre es necesario el apellido tmb?
+01:11:18	Mariano Alejandro Garcia:	de hecho para no recargar la conexión deberían apagar la camara
+01:11:29	Camila Besse:	por las dudas ponerlo Lisandro !
+01:11:36	[Tutor] José Antonio:	debe estar igual al que tienen en la plataforma, letras mayusculas y acentos Lisandro
+01:11:46	Lisandro:	okas
+01:12:39	[Tutor] Matías Ezequiel Espinosa:	SUPER ATENCION!
+01:12:53	Joaquin Gómez:	incluyendo tildes?
+01:13:00	[Tutor] Matías Ezequiel Espinosa:	EXACTAMENTE IGUAL
+01:13:03	[Tutor] José Antonio:	https://www.businessinsider.com/guides/tech/how-to-change-name-on-zoom?r=MX&IR=T aquí tienen el link por si no saben como cambiarlo
+01:13:03	Lucas Tedesco:	ok
+01:13:39	[Tutor] Matías Ezequiel Espinosa:	o les pueden aparecer 3 puntitos
+01:14:15	[Tutor] Matías Ezequiel Espinosa:	Anahi tambien
+01:14:26	Anahí Calvagna:	😊
+01:14:28	pipa:	sigo estando como pipa?
+01:14:33	Ronny Gonzalez:	ya cambie el nombre
+01:14:34	Agustin Garcia:	Listooo!!!
+01:14:35	Lucas Labriola:	si
+01:14:35	Leandro Liquori:	si pipa
+01:14:35	Lisandro Flores:	se
+01:14:37	Lucas Aballay:	si pipa
+01:14:37	Lucas Labriola:	seguís como pipa
+01:14:37	[Tutor] Matías Ezequiel Espinosa:	Pipa tambien
+01:14:38	Benjamín Sepúlveda:	yo en zoom lo tengo con tildes pero en coder no lo puedo editar
+01:14:38	Jerónimo González:	👋🏼
+01:14:39	Mariano Alejandro Garcia:	jajajajjajaa
+01:14:39	[Tutor] José Antonio:	si, como pipa pipa
+01:14:42	pipa:	jajajaja
+01:14:43	Ronny Gonzalez:	correcto ronny gonzalez
+01:15:01	Juan Lobato:	yo solo puse mi apellido materno
+01:15:34	Profesor Coderhouse:	https://docs.google.com/presentation/d/1HwMZy3oW5MUuRE6ls_o-ydQQZ-wwPAwL1YGE5j1-5pc/edit?usp=sharing
+01:16:48	Franco Cirulli:	Lo mejor, digo yo es que no se prenda nada para que las personas que tiene limitación de wifi/pc puedan aprender bien y sin lag ni diley!
+01:17:14	Mariano Alejandro Garcia:	podrán apagar la cámara?
+01:17:31	Franco Cirulli:	La del profe no, pero los estudiantes seria mejor!
+01:17:35	Lucas Labriola:	los docs que pasa usted profe son los mismos que se encuentran en la plataforma?
+01:17:42	pipa:	porque apagarw la cámara?}
+01:18:27	Lisandro Flores:	Messirve profe
+01:18:32	Juan Estellano:	el afterclass se graba?
+01:18:40	Joaquín Gómez:	messirve
+01:18:41	[Tutor] José Antonio:	pueden tener la cámara prendida o apagada, ningún problema, lo que si es que si consume mas ancho de banda para los chicos que no tienen buena calidad de wifi
+01:18:44	Lisandro Flores:	seguramente igual vos tmb podes grabarlo
+01:18:45	Diego Chavez:	si se graba
+01:18:52	[Tutor] José Antonio:	si, si se graba el afterclass  Juan
+01:19:00	Lisandro Flores:	jajaja
+01:19:01	Juan Estellano:	genial!
+01:19:07	Lisandro Flores:	joya profe
+01:19:25	Juan Lobato:	buena idea
+01:19:29	Franco Cirulli:	Muy bien armado este sistema de cursos!
+01:19:40	Diego Chavez:	el proyecto final se puede hacer en equipo ?
+01:19:40	Ailen Vera:	En la clase 0 hicieron presentación o la hicieron antes de las ocho? jajajja
+01:19:50	[Tutor] Matías Ezequiel Espinosa:	Todo individual
+01:20:00	Franco Pereyra:	buenas noches profe disculpe la tardanza
+01:20:13	pipa:	pregunta como activp el auricular del zoom?}
+01:20:28	pipa:	porque se me escucha externo
+01:20:31	Franco Cirulli:	Apreta en la plechita y configuralo de ahí!
+01:20:36	Federico Prieto:	Pipa, fijate ne reactivar audio
+01:20:43	Agustin Garcia:	Como nos anotamos a los after class? o como sabemos que días son
+01:20:46	Mariano Alejandro Garcia:	desplega el menú y elegi por donde queres que sea la salida de audio
+01:20:51	[Tutor] Matías Ezequiel Espinosa:	Donde esta el microfonito Pipa....y cambia tu nombre :D
+01:21:05	Federico Prieto:	en reactivar audio tenes la flechita y ahi fijate
+01:21:20	[Tutor] Matías Ezequiel Espinosa:	traten de no spamear tambien
+01:21:32	pipa:	gracias chicos}
+01:21:35	pipa:	:D
+01:21:36	[Tutor] José Antonio:	los afters les aparecen en la plataforma como una clase también, cuando el after este próximo ahi diría , el profe igual avisa que dia sera
+01:21:46	Federico Prieto:	👌
+01:22:11	[Tutor] Matías Ezequiel Espinosa:	Utilizen las reacciones siempre que se pueda ;)
+01:22:22	Javier Saavedra:	👏
+01:23:31	Lisandro Flores:	Buenas, pregunta, si se falta al afterclass cuenta como ausente?
+01:23:39	[Tutor] Matías Ezequiel Espinosa:	No Lisan
+01:23:43	Lisandro Flores:	Perfect
+01:23:45	Lisandro Flores:	gracias
+01:23:48	Franco Cirulli:	No! Es solo para ayuda si tenes algun problema
+01:23:53	[Tutor] José Antonio:	No Lisandro, el after no cuenta para la asistencia
+01:24:02	Lisandro Flores:	Meramente por los horarios del laburo
+01:24:30	guille faccini:	si yo estoy en la misma con los horarios del lanburo
+01:24:44	[Tutor] Matías Ezequiel Espinosa:	https://drive.google.com/drive/u/0/folders/1Rp3zo58ykfzf0SPyr6v378w_WgWpA26FAbajo esta el workbook y la hoja de ruta
+01:24:51	[Tutor] Matías Ezequiel Espinosa:	Se los mando al grupo
+01:25:11	[Tutor] José Antonio:	👍
+01:25:17	Jairo Davila:	👍
+01:25:22	Leandro Liquori:	👍
+01:25:22	julio bento:	hay grupo de wsp ??
+01:25:32	Joaquín Gómez:	el grupo de la plataforma
+01:25:32	Franco Cirulli:	Julio, no de discord!
+01:25:39	Yannick Daniel:	hicieron grupo en discord
+01:25:43	Ailen Vera:	pueden pasarlo?
+01:25:47	Joaquín Gómez:	a yo no pude entrar todavía al de discord
+01:25:54	Joaquín Gómez:	pasen invitacion
+01:26:19	Yannick Daniel:	https://discord.gg/CYX9EhUX
+01:26:21	Benjamín Sepúlveda:	yo entre pero esta lleno de spam, tipo, vendo cupon de descuento, busco trabajo...
+01:26:28	Lisandro Flores:	perfecto profe
+01:26:40	[Tutor] José Antonio:	pero creo ese discord es para su curso Benjamin
+01:26:41	Franco Cirulli:	Presten atención a la clase, para el que quira unirse al discord esta es la invitación ,los tutores y profesores puedenn unirse! https://discord.gg/aGazmRJp
+01:26:51	[Tutor] Matías Ezequiel Espinosa:	Se los mande al canal de la comisión en la plataforma, perdón la confusión.
+01:26:52	[Tutor] José Antonio:	hecho por los alumnos, no el de coder oficial cx
+01:27:27	Benjamín Sepúlveda:	oh genial, lo siento 😅
+01:27:54	pipa:	como entro al worbuck?}
+01:28:19	Dylan Marsili:	pia
+01:28:26	[Tutor] José Antonio:	https://docs.google.com/presentation/d/1N6aYpo-RZaYCl6BefIBvQwmZ7k-vzpJCIfEg-Wlf2HI/edit#slide=id.g116c40aca8a_0_381
+01:28:30	[Tutor] José Antonio:	este es el workbook
+01:28:56	[Tutor] José Antonio:	igual esta en las filminas que paso  Matías al chat de la plataforma
+01:30:17	Julio Vargas:	finalfinalisimaultima.html
+01:30:45	Ailen Vera:	escuchen eso, no dejen todo para ultimo momento jajaja es horrible
+01:30:57	[Tutor] José Antonio:	asi es Alien, mejor de poquito en poquito
+01:32:00	Franco Cirulli:	La pagina hablara del curso o sera modificada a gusto de cada quien?
+01:32:22	[Tutor] José Antonio:	la pagina es personal, cada quien la puede hacer como quiera
+01:32:34	Enrique Cherot:	Entiendo que hay que compartir el link del repo de GitHub, cada pre entrega es consecutiva? es decir, la segunda pre entrega suma también la primera o son distintas?
+01:32:48	Benjamín Sepúlveda:	pueden ser mas de 5?
+01:33:02	[Tutor] José Antonio:	si, pueden ser mas de 5, minimo de deben ser 5 Benjamin
+01:33:21	Lisandro Flores:	igual ya te digo que al principio 5 es bastante
+01:33:38	[Tutor] José Antonio:	La idea es que cada pre entrega sea una continuación de la anterior Enrique
+01:33:46	Enrique Cherot:	Entiendo
+01:34:00	Ailen Vera:	vengo de diseño ux ui y me intriga como programar estas cosas jajaja
+01:34:38	[Tutor] José Antonio:	ya se vera sobre eso Ailen 👍
+01:34:50	Martin Tascione:	COMO NO LO CONOCES
+01:34:53	Martin Tascione:	JEJEJE
+01:34:54	pipa:	tiene HTML y css
+01:35:01	Franco Cirulli:	Hermosa web
+01:35:26	[Tutor] José Antonio:	que galan el Ed Sheeran
+01:35:36	Ramiro Guitart:	nico domingo
+01:35:42	[Tutor] Matías Ezequiel Espinosa:	Si bien las actividades del workbook no son obligatorias para entregar, hagan de cuenta que lo son, para uds van a ser fundamentales para aprender lo que tienen que aprender para las diferentes entregas obligatorias.Ahi es donde van a aprender lo necesario para incluirlo a las entregas (lo necesario hablando de tener la practica).En la clase veremos teoría y se codea, pero la responsabilidad de afianzar esos conocimientos mediante la practica diaria y constante recae sobre Uds.Si no practican tampoco pretendan ir a su tutor Coderask y que el les haga el trabajo. Recuerden que ellos les van a ayudar a evacuar dudas que tengan.
+01:35:50	Agustin Garcia:	Son de código abiertos ?
+01:35:55	Agustin Garcia:	para verlos mas que nada
+01:36:22	pipa:	el proyecto final esta en algún lado?
+01:36:31	pipa:	para verlo detalladamente
+01:36:41	[Tutor] Matías Ezequiel Espinosa:	Las rubricas?
+01:36:41	Magali Rivarola:	si porfa
+01:36:47	Franco Cirulli:	Para los que tengan miedo de no poder como yo, Si ellos pudieron nosotros tambien!
+01:37:00	Ramiro Guitart:	grande franco!
+01:37:01	MATIAS LEGUIZA:	ESTOY DESDE  0
+01:37:01	Lucas Aballay:	Una pregunta profe, tenemos que instalar todas las extenciones para vsc que salen en el notion? y en el caso de ser asi, de que autor?
+01:37:04	MATIAS LEGUIZA:	_(
+01:37:05	[Tutor] José Antonio:	abran la mente chicos
+01:37:05	Lisandro Flores:	ESOOO!!!!!!!
+01:37:09	Franco Cirulli:	Por eso puse que si podemos!!!
+01:37:09	[Tutor] José Antonio:	mentalidad de crecimiento
+01:37:10	Franco Cirulli:	VAMOS!!
+01:37:14	pipa:	se puedeee
+01:37:16	Federico Prieto:	Yo tambien estoy desde 0, asi q todos podemos
+01:37:17	Lucas Labriola:	mente de tiburon
+01:37:17	Franco Cirulli:	Si argentina gana, la hare el doble mejor
+01:37:18	pipa:	de a poco
+01:37:22	Lisandro Flores:	vamo seleccion
+01:37:26	guille faccini:	yo también de 0
+01:37:28	[Tutor] Matías Ezequiel Espinosa:	Lucas, ya veremos cuales conviene a medida que avancemos
+01:37:31	Naika Rasquin:	También estoy desde cero asi que pa lante
+01:37:37	Ronny Gonzalez:	estoy desde cero pero se que todos podemos.
+01:37:44	pipa:	tengo conocimiento de HTML muy básico
+01:37:45	Lucas Aballay:	perfecto
+01:37:46	MATIAS LEGUIZA:	PACIENCIA ,  ESTOY DESDE  O :(
+01:37:52	Franco Cirulli:	El comentario fue sin ofender!
+01:37:53	Ailen Vera:	🥰
+01:37:56	Juan Lobato:	yo igual cero o casi, pero mi futuro depende esto
+01:38:07	[Tutor] Matías Ezequiel Espinosa:	Recuerden que los mejores arrancaron desde 0. Todo esta al alcance de su compromiso y deseo de aprender.
+01:38:08	Aylen Fernández Genta:	yo tambien desde cero
+01:38:09	Juan Lobato:	venga, todos podremos
+01:38:11	Federico Prieto:	Tal cual Juan jaja
+01:38:18	Lisandro Flores:	jajaja
+01:38:22	Lucas Labriola:	en 2030 tengo que estar en canada
+01:38:31	[Tutor] Matías Ezequiel Espinosa:	🥲
+01:38:37	Franco Cirulli:	Lucas, ¿Gracias al curso? jaja
+01:38:42	Franco Cirulli:	si se puede!
+01:38:46	pipa:	el año que viene nos armamois nuestra empresa
+01:38:47	[Tutor] José Antonio:	es poco a poco gente
+01:39:04	Rodolfo Lissandrello:	JAJAJA Soy Batman
+01:39:07	MATIAS LEGUIZA:	LA OPCION 2 LE FALTO  · ESTOY DESDE  0 "
+01:39:11	Joaquín Gómez:	argentina top 1 lets go gente
+01:39:15	Lisandro Flores:	quien puso me anoto un amigo jajaj un o una crack
+01:39:17	Juan Lobato:	tss, creo que soy el único Mexicano, lol
+01:39:30	pipa:	seria el distinto
+01:39:31	pipa:	ajajja
+01:39:36	Yannick Daniel:	el de me anoto un amigo debe ser un tipazo
+01:39:44	Lisandro Flores:	4real
+01:39:53	Olinda Mayor:	jajaj
+01:42:11	Ronny Gonzalez:	profe puede pasar el link de la app que es como un leon por favor
+01:42:17	[Tutor] Matías Ezequiel Espinosa:	Brave
+01:42:21	[Tutor] Matías Ezequiel Espinosa:	búscalo asi
+01:42:24	Yannick Daniel:	Navegador Brave
+01:42:30	Lisandro Flores:	Se
+01:42:31	[Tutor] José Antonio:	https://brave.com/es/
+01:42:32	Jacob Mora Ramírez:	si
+01:42:39	[Tutor] José Antonio:	aquí esta para Brave https://brave.com/es/
+01:42:44	Lisandro Flores:	Esnecesario para ya tener una idea de que vamos hacer y asi no ir inventando mientras codeamos
+01:42:54	Ronny Gonzalez:	graciass
+01:42:59	Lisandro Flores:	ah respondi cualquiera
+01:44:03	Franco Cirulli:	Se hace un plano! para evitar eso
+01:44:53	pipa:	el stketch ese usa el programa visual no?
+01:45:03	Ramiro Guitart:	balsamiq
+01:45:10	pipa:	ok
+01:45:13	[Tutor] Matías Ezequiel Espinosa:	Lo podes hacer a mano Pipa
+01:45:42	lucas de pasqua:	balsamiq el otro dia estaba andando mal no?
+01:45:44	Franco Cirulli:	Se puede hacer con el programa que vimos en la anterior clase (No recuerdo el nombre)
+01:45:54	Ramiro Guitart:	hay varios
+01:45:55	[Tutor] José Antonio:	asi es balsamiq Franco
+01:45:57	[Tutor] José Antonio:	pero hay varios
+01:46:12	Franco Cirulli:	Gracias jose
+01:48:58	Yannick Daniel:	Figma sigue siendo gratis?
+01:49:04	[Tutor] José Antonio:	no Se Daniel
+01:49:06	Gonzalo Pompei:	ese wireframe se realizo en balsamic o se uso otro?
+01:49:08	[Tutor] José Antonio:	supongo que si
+01:49:12	Ailen Vera:	sip
+01:49:12	[Tutor] Matías Ezequiel Espinosa:	Tienen Balsamiq si nunca usaron uno.Los que se manejen con Figma pueden usar Figma, tambien tienen Whimsical y otros.
+01:49:23	Gonzalo Pompei:	ok
+01:49:23	Ailen Vera:	el año que viene no supuestmente
+01:49:38	Christian Toppetti:	En cual herramienta se hizo ese de recién?
+01:49:40	[Tutor] José Antonio:	😵
+01:49:57	Lisandro Flores:	tiene colorcito
+01:49:59	Camila Besse:	css
+01:50:10	Franco Cirulli:	Me sacaste la palabra de la boca camila jaja
+01:50:13	Diego Chavez:	se pueden usar bootstraps y modificarlos ? o no se permite XD
+01:50:19	Camila Besse:	jajaja perdón Fran
+01:50:22	cristian caballero:	balsamiq es pago y no es barato
+01:50:31	[Tutor] Matías Ezequiel Espinosa:	Tienen una versión trial
+01:50:37	Franco Cirulli:	Cristian puedes tener la versión gratuita
+01:50:54	cristian caballero:	solo un mes me parece
+01:50:57	[Tutor] Matías Ezequiel Espinosa:	no lo vamos a usar mas que para una sola entrega, asi que es mas que suficiente esos 30 días de prueba
+01:51:42	Juan Estellano:	para el mockup que programa usamos?
+01:52:01	Veronica Araque Franco:	las puede repetir por favor
+01:52:16	[Tutor] José Antonio:	balsamiq que es gratis por 30 dias
+01:52:47	[Tutor] José Antonio:	o cualquiera otra, Figma, Whimsical, adobe XD pero esas luego son mas complicadas
+01:53:11	Carla Peiovich:	Profe, puede repetir los tres prototipados. porfavor
+01:53:34	Ailen Vera:	Hay otros para mockup, después los paso por el chat de la plataforma
+01:53:37	[Tutor] Matías Ezequiel Espinosa:	SketchWireframeMockup
+01:53:50	cristian caballero:	lo que tiene balsamiq es que son muy intuitivos, es mas fácil de usar. en cambio las otras son dificiles
+01:53:59	Carla Peiovich:	sii
+01:54:27	pipa:	adobe no esta mas¡?
+01:54:29	Veronica Araque Franco:	gracias
+01:54:56	Carla Peiovich:	jajaja graciass
+01:55:11	pipa:	igual el adobe se actualisa solo?
+01:55:13	[Tutor] Matías Ezequiel Espinosa:	QUe paso Adobe? antes eras chevere
+01:55:33	[Tutor] José Antonio:	se vendio Figma unu
+01:55:33	Benjamín Sepúlveda:	consejo xD, no pirateen, los cracks les pueden robar datos bancarios
+01:56:42	pipa:	pero ver los mejores goles se puede meter todo en un click?
+01:57:24	Ailen Vera:	todo esto hablando de fidelidad baja no?
+01:57:47	Federico Prieto:	que seria el testeo?
+01:58:02	[Tutor] José Antonio:	se habla de diseño en general , pero para ustedes la tarea seria de baja-media fidelidad Ailen
+01:58:06	Ailen Vera:	pruebas con usuarios
+01:58:10	Alejandro Cuadrado:	toda la pagina en comic sans y listo XD
+01:58:12	Federico Prieto:	graciass
+01:59:31	pipa:	tipo grafica que tipo de letra y eso?
+01:59:35	Federico Prieto:	podrias pasar el link de ese video?
+01:59:43	[Tutor] Matías Ezequiel Espinosa:	tipografía es el tipo de letra
+01:59:43	Profesor Coderhouse:	https://rowan-slice-305.notion.site/Desarrollo-Web-CODERHOUSE-COMISON-36430-noche-0e3cbabc220f432899e1974ce88fe0ee
+01:59:47	pipa:	tamaño color etc
+01:59:49	pipa:	?
+01:59:52	Federico Prieto:	Gracias!
+01:59:52	Joaquín Gómez:	tipografía es el estilo de letra creo
+02:00:15	pipa:	seria algo de css eso ya?
+02:00:32	[Tutor] Matías Ezequiel Espinosa:	Y que hay que tener una paleta de colores. No da que la pagina tampoco sea un arcoiris
+02:00:42	Lisandro Flores:	comiendo arroz
+02:01:12	Franco Cirulli:	comos los auriculares chino
+02:01:13	Lisandro Flores:	toma mate posta eso no sabia
+02:01:20	Franco Cirulli:	como*
+02:01:32	pipa:	profe control j la consola puede sr?
+02:01:32	Enrique Cherot:	jeje con f12 (inspector)
+02:01:49	Franco Cirulli:	Yo la uso esa herramienta de ver el codigo de los sitios, los que no usan cloud o alguna protección se puede sacarlo!
+02:02:39	Alejandro Cuadrado:	adobe color puede ayudar
+02:02:56	Benjamín Sepúlveda:	D: no tengo papel o lapiz, 10 minutos me demoro en ver si encuentro
+02:03:08	Jairo Davila:	he visto varios portfolios y aveces menos es mas 👍
+02:03:18	Ronny Gonzalez:	profe , cuantos tipos de tipografia recomienda usar para un buen prototipo
+02:03:38	Lisandro Flores:	ctrl f
+02:04:28	Christian Toppetti:	Se reinicio la pc, pasa algo con el presente?
+02:04:37	Franco Cirulli:	Si vuelves a entrar no!
+02:04:56	pipa:	lo hacemos en un papel?
+02:05:03	Federico Prieto:	Si pipa
+02:05:06	[Tutor] José Antonio:	si pipa
+02:05:16	Federico Prieto:	Voy a hacer algo sobre Messi :)
+02:06:27	Yannick Daniel:	lo hacemos con balsamiq o en papel? porque ese esta hecho por pc
+02:06:34	[Tutor] José Antonio:	en papel Daniel
+02:06:37	[Tutor] José Antonio:	para practicar
+02:06:43	Yannick Daniel:	Perfecto
+02:07:27	Matias Giordano:	Como se controla la asistencia?
+02:07:42	[Tutor] José Antonio:	la tomamos nosotros los tutores sincronicos Matias
+02:07:56	pipa:	yo de turismo}
+02:08:01	Agustin Garcia:	Una consulta a la hora de hacer el sketch puedo indicar los botones como "bt1" "bt2", etc
+02:08:43	Franco Cirulli:	Esperame busco una hoja y papel
+02:08:51	Franco Cirulli:	digo
+02:08:52	Franco Cirulli:	lapisera
+02:08:55	Joaquín Gómez:	no entiendo donde tengo q hacer el sketch en una hoja normal?
+02:09:06	[Tutor] José Antonio:	si , en una hoja de papel
+02:09:10	Joaquín Gómez:	a oka
+02:09:19	[Tutor] José Antonio:	es solo para practicar
+02:10:16	Ronny Gonzalez:	como la sube
+02:10:21	Ronny Gonzalez:	ya la hice
+02:11:36	Ronny Gonzalez:	profe como la comparto
+02:12:00	Ronny Gonzalez:	como la subo
+02:12:03	Matias Perrone:	Es necesario subirla u opcional?
+02:12:04	Ronny Gonzalez:	ya tome la foto
+02:12:07	pipa:	como la comparto
+02:12:09	pipa:	?
+02:12:13	Matias Perrone:	Ok, gracias!
+02:12:20	Franco Cirulli:	esperame sub el mio!
+02:12:28	Franco Cirulli:	Anahí, subilo a la plataforma por el chat
+02:12:43	Micaela Mareco:	Deberíamos agregar acciones que queremos que hagan los botones, imágenes, etc? O está medio de más?
+02:13:08	Anahí Calvagna:	Ah dale, lo subo al chat, gracias!
+02:15:31	Franco Cirulli:	Varios mandaron en el chat!
+02:15:57	Gonzalo Pompei:	no
+02:15:58	Benjamín Sepúlveda:	no
+02:15:58	Enrique Cherot:	No
+02:15:58	Mateo Terren:	No
+02:15:59	Ailen Vera:	no
+02:15:59	Leandro Liquori:	no
+02:16:00	Nicolas Javier De Minicis:	NO
+02:16:00	Agustin Garcia:	no
+02:16:01	Jacob Mora Ramírez:	no
+02:16:01	Diego Chavez:	nop
+02:16:01	Jairo Davila:	no
+02:16:01	Lucas Aballay:	no
+02:16:02	natalia mansilla:	no
+02:16:03	Camila Besse:	no
+02:16:08	Ricardo Crausaz:	no, es etiquetado
+02:16:24	[Tutor] Matías Ezequiel Espinosa:	Pipa: Edita tu nombre en zoom please
+02:16:45	pipa:	por?
+02:16:56	pipa:	no llego mi stecht?
+02:17:03	Naika Rasquin:	Pipa por la asistencia
+02:17:06	[Tutor] José Antonio:	deber ser el mismo nombre en la plataforma como en zoom
+02:17:07	pipa:	oka
+02:17:07	[Tutor] José Antonio:	Pipa
+02:17:37	pipa:	no se como cambiar
+02:17:44	Jacob Mora Ramírez:	xd
+02:17:46	[Tutor] José Antonio:	https://www.businessinsider.com/guides/tech/how-to-change-name-on-zoom?r=MX&IR=T
+02:17:52	[Tutor] José Antonio:	aqui hay un tutorial de como cambiar elnombre
+02:18:05	Leandro Liquori:	entra en los miembros del chat desde zoom en los tres puntitos, cambiar nombre.
+02:18:44	Yannick Daniel:	ahora pasan asistencia?
+02:19:37	Mariano Alejandro Garcia:	no
+02:19:41	Rocio Cosso:	no
+02:19:48	Franco Cirulli:	No,
+02:19:49	Tomas Novas:	no
+02:19:51	Juan Lobato:	todo  bien
+02:19:54	Benjamín Sepúlveda:	muy claro todo
+02:19:55	Veronica Araque Franco:	todo ok por ahora
+02:20:05	Alejandro Hurtado:	Simpre hay que llamarlo Root?
+02:20:34	[Tutor] Matías Ezequiel Espinosa:	lo llamamos index.html. Ni Index.html, ni INDEX.HTML ni inicio.html...index.html
+02:20:50	[Tutor] Matías Ezequiel Espinosa:	se le dice carpeta root (o raíz) porque es la que esta a nivel mas bajo, como una raiz
+02:20:53	Guido:	LISTOOOOO
+02:21:13	[Tutor] José Antonio:	siempre se debe llamar " index.html "   el archivo raíz o principal de html
+02:21:14	Juan Lobato:	jajaja, yo
+02:21:17	Juan Lobato:	sii
+02:21:22	Christian Toppetti:	COMISION
+02:21:25	Lucas Aballay:	comosion
+02:21:26	Matias Roldan:	comision
+02:21:27	Lucas Labriola:	cimision
+02:21:27	Benjamín Sepúlveda:	comision
+02:21:27	Julio Vargas:	comision
+02:21:28	Guido:	comision
+02:21:28	Dylan Marsili:	comisio
+02:21:30	Javier Saavedra:	comision
+02:21:30	Agustin Vera:	comision
+02:21:35	Jairo Davila:	comision
+02:21:49	Lucas Labriola:	perfecto
+02:21:53	Ronny Gonzalez:	comision36430
+02:22:01	Benjamín Sepúlveda:	la mia se llama "xd"
+02:22:06	Franco Cirulli:	la mia se llama coder
+02:22:17	Guido:	yo puse comisión y el numero}
+02:22:31	[Tutor] Matías Ezequiel Espinosa:	archivo root es index.html, perdón me equivoque antes xD
+02:22:55	Franco Cirulli:	me unire de otra computadora!! salgo y entro
+02:23:16	Franco Cirulli:	Porque es la primera que toma el servidor
+02:23:41	Juan Lobato:	como creamos ese index?
+02:23:52	Ramiro Guitart:	en vsc creas el archivo
+02:23:52	Guido:	desde el visual
+02:23:53	Lisandro Flores:	igual que creaste el de ejemplo la otra clase
+02:23:53	Valentín Tur:	le cambias el nombre juan
+02:24:06	Juan Lobato:	va, desde el visual
+02:24:08	Matias Perrone:	Entrando a VSC - New File. Tenes que tener abierta la carpeta raíz desde VSC primero
+02:24:12	Ramiro Guitart:	pero lo nombras index.html
+02:24:17	Juan Lobato:	gracias
+02:24:30	Lucas Labriola:	es lo primero que se ve?
+02:24:32	Benjamín Sepúlveda:	puedes crear un documento de texto y al momento de guardarlo borras la extencion txt y usas html
+02:25:23	Ailen Vera:	puede ser que figure con otro logo? el de Chrome o lo hice mal?
+02:25:31	Ramiro Guitart:	esta bien
+02:25:33	Diego Chavez:	yo lo nombraba como base.html
+02:25:34	Ramiro Guitart:	el usa navegador brave
+02:25:35	Matias Perrone:	Sí, va a depender de tu navegador predeterminado
+02:25:35	Diego Chavez:	XD
+02:25:37	Camila Besse:	si, esta bien. el profe usa brave
+02:25:40	Diego Chavez:	eso creo que va en gustos
+02:25:41	Benjamín Sepúlveda:	esta bioen el logo es el de tu navegador predeterminado
+02:25:43	Ingrid Aguero Tello:	yo tengo como navegador por defecto Chrome, es necesario que lo cambie?
+02:25:43	Dylan Marsili:	es segun tu navegador predeterminado
+02:25:44	Leandro Liquori:	si te equivocas de extensión, luego se puede modificar o si o si ahí que eliminar el archivo y arrancar de 0?
+02:25:44	Ailen Vera:	gracias :)
+02:25:45	Lucas Aballay:	scripts
+02:25:47	Rodrigo Penesi:	scritps
+02:25:48	Gonzalo Pompei:	paginas
+02:25:49	Micaela Mareco:	paginas
+02:25:49	Luis Urán:	pages
+02:25:50	Camila Besse:	pages
+02:25:50	Lucas Aballay:	ahh
+02:25:52	Enrique Cherot:	img
+02:25:56	Rodolfo Garavano:	PAGES
+02:25:57	Magali Rivarola:	jaj
+02:26:01	Camila Besse:	los links
+02:26:09	Lisandro Flores:	scripts
+02:26:13	Lisandro Flores:	ah
+02:26:33	Camila Besse:	los links que va a tener tu pagina
+02:26:35	Benjamín Sepúlveda:	si te equivocas de extencion solo tienes que renombrarla, al final son documentos de texto
+02:26:38	Rodolfo Lissandrello:	yo lo tengo como links
+02:27:00	Andre Abreo:	a mi no me aparece abrir con vsc
+02:27:16	Camila Besse:	abri el vsc y abri la carpeta Andre
+02:27:19	[Tutor] Matías Ezequiel Espinosa:	Su VSC puede verse diferente. Pueden cambiar el theme o tema.
+02:27:50	Ailen Vera:	cuando abro la carpeta de vscode no me aparecen las otras carpetas
+02:27:58	Ailen Vera:	👀
+02:28:18	Ramiro Guitart:	inicio
+02:28:21	Benjamín Sepúlveda:	galeria
+02:28:24	Joaquín Gómez:	no me salen las carpetas
+02:28:24	Valentín Tur:	caracteristicas
+02:28:33	Guido:	como pongo vistas
+02:28:41	Joaquín Gómez:	cuando lo abro con VScode
+02:28:46	Franco Cirulli:	Yo estoy de otra compu en llamada, no hablare por el chat
+02:28:47	[Tutor] Matías Ezequiel Espinosa:	la creas
+02:28:55	[Tutor] José Antonio:	las carpetas se deben crear
+02:28:56	[Tutor] Matías Ezequiel Espinosa:	eso que ven a un lado es su carpeta en el VSC
+02:29:00	Matias Roldan:	como se abre esa columna?
+02:29:01	[Tutor] Matías Ezequiel Espinosa:	deben crearlas
+02:29:03	Joaquín Gómez:	las cree
+02:29:04	Alejandro Cuadrado:	eventualmente el index seria algo como ¨home¨ correcto?
+02:29:08	Yannick Daniel:	no usas el vscode-icons?
+02:29:12	[Tutor] José Antonio:	asi es Alejandro
+02:29:12	Guido:	y en vistas que coloco?
+02:29:29	Camila Besse:	van a ser tus links
+02:29:32	[Tutor] Matías Ezequiel Espinosa:	Despues pondrás los otros HTML, pero tranqui por ahora
+02:29:32	Matias Roldan:	como abris la columna?
+02:29:34	Anahí Calvagna:	Esta bien ue me aparezca con el logo de Google cuando creo el archivo HTML?
+02:29:37	Guido:	no llegue a ver
+02:30:02	Camila Besse:	si, esta bien ana
+02:30:04	[Tutor] Matías Ezequiel Espinosa:	EN la carpeta si, en el visual asi : <> naranja
+02:30:05	Valentín Tur:	si anahi, te lo abre con tu navegador predeterminado
+02:30:06	Juan Lobato:	puede visualizar lo queesta en vistas
+02:30:16	Ivan Fernández:	Creamos esos links y los nombramos tal cual en el ejemplo que dio?
+02:30:21	Anahí Calvagna:	Claro desde la carpeta
+02:30:22	Federico Prieto:	me pasa lo mismo que anahi
+02:30:25	Anahí Calvagna:	Ah genial!
+02:30:29	Anahí Calvagna:	Gracias!
+02:30:31	Matias Perrone:	Perdon, se me cortó un segundo internet. la carpeta .vscode para que es?
+02:30:36	Federico Prieto:	y al abrirlo, me aparece la pagina en blanco
+02:30:43	Guido:	no me sale
+02:30:52	[Tutor] Matías Ezequiel Espinosa:	Esta bien Fede, no has codeado nada aun
+02:31:01	Federico Prieto:	ahh perfecto
+02:31:33	[Tutor] Matías Ezequiel Espinosa:	Alguna duda?
+02:31:37	Jose Cortes Sierra:	predeterminado
+02:31:38	Matias Perrone:	Perdon, se me cortó un segundo internet. la carpeta .vscode para que es?
+02:31:43	Guido:	contactos que mas pongo }
+02:31:44	Guido:	en vistas
+02:31:52	Jose Cortes Sierra:	Para nada
+02:31:53	Ailen Vera:	ahí esta! :)
+02:32:02	Guido:	?
+02:32:14	Jacob Mora Ramírez:	si
+02:32:14	Alejandro Cuadrado:	si
+02:32:15	Maximiliano Casares:	si
+02:32:15	Lucas Labriola:	siii
+02:32:16	Mariano Alejandro Garcia:	lo que vos quieras poner guido
+02:32:16	Lucas Aballay:	sisi
+02:32:17	Camila Besse:	guido , pone los nombres que vos quieras
+02:32:18	Valentín Tur:	lo que quieras guido
+02:32:21	[Tutor] Matías Ezequiel Espinosa:	en vistas van a estar los HTML. Uds les ponen los nombres, pueden ser: contactos.html, faq.html, quienesSomos.html, etc
+02:32:21	gonzalo woitaszen:	si
+02:32:22	Veronica Araque Franco:	si
+02:32:25	Joan Flores Guillen:	si
+02:32:26	Camila Besse:	eso depende los links que quieras tener vos
+02:32:31	Olinda Mayor:	q va en vistas?
+02:32:45	Mariano Alejandro Garcia:	😪
+02:32:49	Olinda Mayor:	ok
+02:32:59	Diego Chavez:	no hay algún atajo en vsc como no se un startproyect?
+02:33:14	Guido:	estructira
+02:33:14	Jose Cortes Sierra:	! enter
+02:33:16	Guido:	estructura
+02:33:55	Guido:	no todas cierran entonces?
+02:34:03	Leandro Liquori:	no
+02:34:03	Dylan Marsili:	!
+02:34:03	Ramiro Guitart:	en el !
+02:34:04	Javier Saavedra:	!
+02:34:04	Thiago Marsili:	!
+02:34:05	Rocío Capelli:	!
+02:34:06	Alejandro Cuadrado:	en el !ç
+02:34:07	Olinda Mayor:	!
+02:34:08	Ailen Vera:	?
+02:34:14	Lucas Labriola:	sip
+02:34:19	Lucas Aballay:	o html:5
+02:34:23	Jairo Davila:	!
+02:34:31	Agustin Garcia:	Una consulta, yo uso mac ya que la pc de torre la uso para ver las clases. A la hora de ejecutar el código no me deja abrirlo desde safari. Tengo que descargar Google Chrome verdad ?
+02:34:32	Benjamín Sepúlveda:	nop, ejemplo, <br>, salta a la siguiente linea
+02:34:41	Jose Cortes Sierra:	Si agustin
+02:34:48	Matias Roldan:	como se abre la columna de al lado?
+02:34:50	Jose Cortes Sierra:	A mi me sirve con google
+02:34:55	Jose Cortes Sierra:	Control b
+02:35:00	Matias Roldan:	gracias!
+02:35:12	Agustin Garcia:	Gracias
+02:36:16	Ronny Gonzalez:	listo
+02:36:20	Ronny Gonzalez:	vamos bien
+02:36:24	Ronny Gonzalez:	copiado
+02:37:30	[Tutor] Matías Ezequiel Espinosa:	La estructura básica que les crea VSC no se toca (las meta ), excepto lo que vayamos viendo.
+02:38:12	Benjamín Sepúlveda:	yo las borro xD
+02:38:24	Juan Estellano:	lenguaje
+02:38:25	Valentín Tur:	lenguaje
+02:38:26	Ailen Vera:	solo aparece para entrar y cerrar HTML?
+02:38:27	Agustin Cabrera:	etiquetas
+02:38:27	Rodolfo Lissandrello:	Idioma
+02:38:30	Camila Besse:	atributos
+02:38:31	Rocío Capelli:	atributo?
+02:38:35	Lucas Labriola:	atributo
+02:38:35	Guido:	cuerpo
+02:38:36	Carla Peiovich:	atributo
+02:38:38	[Tutor] José Antonio:	exacto
+02:38:39	Rodrigo Penesi:	atributo
+02:38:41	[Tutor] José Antonio:	atributo
+02:39:20	Lucas Labriola:	no
+02:39:20	Camila Besse:	no
+02:39:20	Valentín Tur:	no
+02:39:20	Andre Abreo:	no
+02:39:21	Rocío Capelli:	no
+02:39:23	Rodolfo Garavano:	nooo
+02:39:23	natalia mansilla:	no
+02:39:23	Tomas Novas:	no
+02:39:24	Agustin Vera:	no
+02:39:24	Juan Estellano:	nooo
+02:39:24	Guido:	solo porque se cambia el color?
+02:39:25	Lucas Aballay:	no
+02:39:25	Juan Pablo Silveira Gomez:	no
+02:39:27	Alejandro Hurtado:	no
+02:39:27	Erick Enriquez:	 no
+02:39:27	Leandro Saubiette:	no
+02:39:27	Elias Merlo:	no
+02:39:31	Erick Enriquez:	sigue siendo una tributo 
+02:39:32	Juan Estellano:	es simplemente una ayuda para la vision
+02:39:42	Guido:	jajaaaa
+02:39:46	Lucas Labriola:	para que se diferencie mas
+02:40:00	Diego Chavez:	eso es un tema es una extencion
+02:40:03	Benjamín Sepúlveda:	no hay preguntas tontas, tonto el que no pregunta
+02:40:11	Guido:	no esta ceerado el h1}
+02:40:19	Joan Flores Guillen:	yo me puse los colores de ciberpunk
+02:40:34	[Tutor] Matías Ezequiel Espinosa:	Diego, no, podes elegirlo, vienen varios
+02:41:03	Thiago Marsili:	el display del tamaño
+02:41:10	Mathias Carrozzino:	Un dato para los que dividen la pantalla en dos, estando en VSCode pueden teclear Alt+z y todo el contenido de las líneas se ajusta al ancho de pantalla para que puedan leer todo el contenido a la vez sin utilizar el mouse. Les va a ser útil mas adelante.
+02:41:16	Benjamín Sepúlveda:	los temas son extenciones
+02:41:18	Alejandro Hurtado:	Esta parte es mas fácil cuando sabes ingles
+02:41:27	[Tutor] Matías Ezequiel Espinosa:	Buen dato Mathi
+02:42:27	Alejandro Cuadrado:	asumo que ese tipo de errores afectan en parte el tiempo de carga
+02:43:29	Leandro Liquori:	ctrl+s se guarda rapido
+02:43:44	Joaquín Gómez:	quisiera tener la misma facilidad de hacerlo con la que lo explica jsjsj
+02:43:55	[Tutor] José Antonio:	ya lo haras Joaquin
+02:43:57	Enrique Cherot:	click derecho, open with live server
+02:43:58	Benjamín Sepúlveda:	la practica hace al maestro
+02:45:54	Mariano Alejandro Garcia:	son buenas practicas a la hora de codear
+02:46:02	[Tutor] José Antonio:	asi es Mariano
+02:46:16	Camila Besse:	tab
+02:46:18	[Tutor] José Antonio:	mas facil de leer si tienen una correcta identacion
+02:46:19	Jose Cortes Sierra:	tab
+02:46:28	Rodrigo Penesi:	tab
+02:47:12	[Tutor] Matías Ezequiel Espinosa:	Como hizo para tabular todas a la vez? mantienen apretado alt y clickean en los diferentes lugares donde quieran que quieran usar la escritura multilinea
+02:47:33	Lisandro Flores:	jajajaja
+02:47:44	Jose Cortes Sierra:	En Mac como es
+02:47:46	Benjamín Sepúlveda:	a mi me gusta ver html como cajitas, donde html es la cajita mas grande que contiene a las demas cajitas y etas contienen mas cajitas
+02:47:50	Jose Cortes Sierra:	Que no tiene alt
+02:48:04	Andre Abreo:	ME PERDI como se hace para borrar una tab que hice de mas
+02:48:09	Federico Prieto:	SIN QUERER SE ME BORRARON ESOS CODIGOS
+02:48:13	[Tutor] Matías Ezequiel Espinosa:	Eso lo veremos mas adelante Benjamin
+02:48:14	Guido:	cajitas me parace que viste dalto
+02:48:17	Alejandro Cuadrado:	ctrl+z
+02:48:19	Valentín Tur:	control z vuelve hacia atrás
+02:48:21	Elias Merlo:	la configuración para la identacion es de 4 espacios para usar?
+02:48:21	Federico Prieto:	Borre los tabs q hice de mas
+02:48:24	[Tutor] Matías Ezequiel Espinosa:	ctrol+z fede
+02:48:31	Federico Prieto:	y se me borraron todos los codigos
+02:48:35	Federico Prieto:	gracias
+02:49:30	Christian Toppetti:	O sea, que podes cmabiar el tamaño de la fuente de la pestaña si agregas código en head?
+02:49:37	[Tutor] Matías Ezequiel Espinosa:	Comandos rapidosctrol+z --->deschacerctrol+y---->rehacerctrol+c---->copiarctrol+x---->cortarctrol+v---->pegar
+02:49:44	Agustin Cabrera:	Es una mala practica usar comentarios para diferenciar todo ademas del TAB ??
+02:49:57	Mariano Alejandro Garcia:	no, esos comentarios no se muestran
+02:49:58	[Tutor] José Antonio:	es mala practica tener muchos comentarios Agustin
+02:50:23	Agustin Cabrera:	Genial gracias
+02:50:25	Alejandro Hurtado:	Como uno comenta rapido?
+02:50:27	Mariano Alejandro Garcia:	muchos seguro, pero algunos te van a servir a la hora de aprender
+02:50:29	[Tutor] Matías Ezequiel Espinosa:	Comentarios puntuales, concisos y aclaratorios esta bien.
+02:50:52	Jose Cortes Sierra:	Yo no lo descargue y ya estaba
+02:50:56	Ailen Vera:	jajajaj a mi no me figura nada aun
+02:51:21	Guido:	guardaste?
+02:51:34	Jose Cortes Sierra:	Comand s
+02:51:37	Camila Besse:	pusiste algo dentro del body ??
+02:51:38	[Tutor] Matías Ezequiel Espinosa:	<!-- Esto es un comentario -->
+02:51:39	Jose Cortes Sierra:	Y te debe de salir
+02:51:46	Camila Besse:	si no pusiste nada, va a estar vacio
+02:52:00	Benjamín Sepúlveda:	a la hora de aprender usen los comentarios que quieran, asi recuerdan lo que estan haciendo a la hora de estudiar
+02:52:11	[Tutor] Matías Ezequiel Espinosa:	Tambien pueden comentar código seleccionándolo y presionando alt+shift+a
+02:52:17	Ailen Vera:	No había guardado jajja gracias!
+02:52:21	Franco Cirulli:	les recomiendo también el auto guardado para el live server!
+02:52:44	Ronny Gonzalez:	como hago para abrir la pag asi como hizo el profe , ya le puse como nombre "hola ronny"
+02:52:54	Guido:	y body tambnien
+02:53:14	Leandro Liquori:	guardar la pagina y recargar la pagina
+02:53:14	[Tutor] Matías Ezequiel Espinosa:	Asi es, a la hora de aprender para uds usen los comentarios que quieran, pero para las entregas recuerden que demasiados comentarios van a ser evaluados negativamente.
+02:53:36	Lucas Labriola:	que comentarios?
+02:53:45	Camila Besse:	anda a la pagina que creaste Ronny y doble click en el index y listo
+02:53:58	Camila Besse:	a la carpeta , perdon
+02:54:01	Valentín Tur:	o click derecho en vscode, open with live server ronny
+02:54:06	[Tutor] Matías Ezequiel Espinosa:	Los que quieran realizar a su código, no van a ser mostrados en el navegador, son a modo orientativo
+02:54:18	Lucas Labriola:	ahhh ya
+02:54:28	[Tutor] José Antonio:	­para comentar rapido la linea en la que estan es ctrl + / , pero solo funciona en idioma del teclado ingles
+02:56:17	Leandro Liquori:	se pueden poner todos los p que quieras o hay limites
+02:56:21	Ronny Gonzalez:	no hay manera de colocar todo en espa#ol
+02:56:26	Gonzalo Pompei:	si
+02:56:33	[Tutor] José Antonio:	todos los que quieras Leandro
+02:56:33	Yannick Daniel:	una consulta todavia no me figura la asistencia, es normal?
+02:56:40	Tomas Novas:	hay que bajar una extensión de español
+02:57:01	Camila Besse:	te conviene dejarlo en ingles, e ir acostumbrándote a los nombres
+02:57:28	Camila Besse:	haces un 2x1 y aprendemos ingles tambien
+02:57:28	Camila Besse:	jajaj
+02:57:31	Mariano Alejandro Garcia:	vas a tener que trabajar en ingles
+02:58:05	Guido:	entre el body no me toma la etiqueta parrafo
+02:58:15	Mariano Alejandro Garcia:	el código es universalmente en ingles
+02:58:31	Franco Cirulli:	tomas, los lenguajes de desarrollo web la mayoría o todos son en ingles jaja
+02:58:33	Jose Cortes Sierra:	Creo que el espacio es con <br>
+02:58:39	Ronny Gonzalez:	creo que me enrrede en lo de la pag
+02:58:40	Benjamín Sepúlveda:	asi es jose
+02:58:46	[Tutor] José Antonio:	asi es Jose Cortes
+02:59:06	Mariano Alejandro Garcia:	el br no tiene cierre
+02:59:21	Mariano Alejandro Garcia:	para que lo tengan en cuenta
+02:59:24	[Tutor] José Antonio:	Chicos, si su nombre empieza con la letra A – J , llenen este formulario por favor, es por su asistencia, es mientras funciona la plataforma , las otras letras no necesitan llenarlo , gracias y disculpen  https://forms.gle/c1GydJ6KtciEpSzv7
+03:00:18	Carla Peiovich:	a y j  o de la a hasta la j?
+03:00:28	[Tutor] José Antonio:	de la A a la J
+03:00:39	[Tutor] José Antonio:	por eso el A - J
+03:00:40	Germán Alvarracín:	LISTO LA ASISTENCIA
+03:00:43	Anahí Calvagna:	Listo, enviado formulario para asistencia
+03:00:50	Andre Abreo:	listo
+03:00:50	Franco Cirulli:	el apellido tamben?
+03:00:53	Aylen Fernández Genta:	listo
+03:00:55	Franco Cirulli:	o solo nombre
+03:01:05	Benjamín Sepúlveda:	como lo tengas en la plataforma
+03:01:06	[Tutor] José Antonio:	es solo temporal, despues no sera necesario, tal cual aparecen en la plataforma porfavor
+03:01:15	Catalina D´almeida:	listo el form
+03:01:24	Ailen Vera:	A mi me llego, la pongo igual?
+03:01:43	Camila Besse:	un contenedor
+03:01:55	[Tutor] José Antonio:	si te llego la asistencia no es necesario Ailen
+03:02:12	Mariano Alejandro Garcia:	y como me llega la asistencia?
+03:02:36	[Tutor] Matías Ezequiel Espinosa:	ASISTENCIA PASADA ✅AUSENTES ❌:Leyser Almeyda DiazMarllury RomeroMicaela ColinoNicolas PedrosaOrlany ZapataRodrigo Martel CorreaSantiago DrozdSantiago InzaTomas EspinolaYoel Pastor.
+03:02:42	[Tutor] José Antonio:	La asistencia llega sola en la plataforma de coder, pero esta fallando y por eso les pase el formulario solo para las letras desde la A - J
+03:02:45	Christian Toppetti:	Listo el form
+03:02:47	[Tutor] Matías Ezequiel Espinosa:	de mis alumnos -
+03:02:49	Alejandro Cuadrado:	similar a una capa de photoshop?
+03:02:54	[Tutor] José Antonio:	https://forms.gle/c1GydJ6KtciEpSzv7
+03:03:04	Mariano Alejandro Garcia:	es un contenedor
+03:03:06	Agustin Vera:	listo
+03:03:19	Ramiro Guitart:	no entendi
+03:03:25	Ramiro Guitart:	se pasa sola asistencia o debemos hacer algo?
+03:03:25	Leandro Liquori:	donde me fijaba si estaba mi asistencia en la pagina?
+03:03:40	Franco Pedrozo:	Mi asistencia no llego
+03:04:08	Mariano Alejandro Garcia:	bueno profesor, ya son las 22
+03:04:10	Mariano Alejandro Garcia:	me voy yendo
+03:04:12	Mariano Alejandro Garcia:	saludos
+03:04:19	[Tutor] Matías Ezequiel Espinosa:	en la plataforma.Los chicos que están con jose esta teniendo el problemas con la plataforma, hasta que lo arreglen, pasen su nombre en el formulario que les pasó.
+03:04:35	[Tutor] José Antonio:	https://forms.gle/k9Sq2cXoRbDaX5g26
+03:04:35	[Tutor] Matías Ezequiel Espinosa:	MIra lo que falte de clase despues Mariano.
+03:04:40	[Tutor] José Antonio:	la asistencia de las letras A - J no o A - I no les va a llegar la asistencia porque la plataforma esta fallando, por eso deben llenar esta encuesta https://forms.gle/k9Sq2cXoRbDaX5g26
+03:04:51	Christian Toppetti:	Y si no lo haces dentro del main? cual es la diferencia
+03:04:53	Franco Cirulli:	la mia ya llego
+03:05:22	Jose Cortes Sierra:	Como así que llega la asistencia
+03:05:29	Aylen Fernández Genta:	cual es mi tutor?
+03:05:30	Jose Cortes Sierra:	Llene el formulario
+03:05:33	[Tutor] José Antonio:	dentro del main es buena practica, ya que es donde va el contenido principal
+03:05:49	Mathias Carrozzino:	Es conveniente usar dos h1 en la misma pagina?
+03:05:58	[Tutor] Matías Ezequiel Espinosa:	Chicos, a su tutor lo ven en el dashboard principal.
+03:06:03	[Tutor] Matías Ezequiel Espinosa:	un solo h1 por html
+03:06:19	[Tutor] Matías Ezequiel Espinosa:	Tiene un por que.
+03:06:37	Jose Cortes Sierra:	Son 6 h no?
+03:06:38	Ailen Vera:	devueltaa
+03:06:45	Mathias Carrozzino:	ok, tenia esa duda. gracias
+03:06:45	Ailen Vera:	jajaja
+03:07:29	Javier Giannotti:	cual es la función del footer?
+03:07:46	Guido:	cierre de la pagina el footer
+03:07:47	Guido:	?
+03:08:03	Andre Abreo:	y el párrafo (p) que h seria?
+03:08:09	Joaquín Gómez:	donde me fijo si me llego la presencia?
+03:08:10	Ronny Gonzalez:	no me quedo claro como abrir la app como hizo el profe
+03:08:26	Marina Boldrini:	que son los h1 h2 h3?
+03:08:31	Ronny Gonzalez:	me parece que va muy rapido profe
+03:08:38	Yannick Daniel:	son headers
+03:08:42	Mariano Alejandro Garcia:	miren los videos
+03:08:44	Ailen Vera:	Ronny, tenes que ver los videos
+03:08:44	Yannick Daniel:	el 1 es el mas grande
+03:08:46	Mariano Alejandro Garcia:	están ahi
+03:08:47	Yannick Daniel:	hay hasta 6
+03:08:47	[Tutor] José Antonio:	buenas noches gente 👋😴
+03:08:47	Jose Cortes Sierra:	Titles de diferentes tamanos
+03:08:49	Jose Cortes Sierra:	creo
+03:08:52	Mariano Alejandro Garcia:	saludos a todos
+03:08:53	Ailen Vera:	lo explico en la clase 0 y ahora
+03:08:58	Yannick Daniel:	el h1 es el mas grande
+03:08:58	Mariano Alejandro Garcia:	ya son las 22:05
+03:09:10	Rodrigo Penesi:	saludos a todos
+03:09:11	Leandro Liquori:	la tabulación en el vsc es solo por orden o afecta en otra cosa?
+03:09:15	Jose Cortes Sierra:	si
+03:10:07	Ailen Vera:	genial
+03:10:20	Jairo Davila:	profe podría volver a mencionar exactamente la practica que hay que hacer
+03:10:47	Franco Pereyra:	me pueden pasar el link de esa pagina de nuevo?
+03:11:10	Rocío Capelli:	https://rowan-slice-305.notion.site/Desarrollo-Web-CODERHOUSE-COMISON-36430-noche-0e3cbabc220f432899e1974ce88fe0ee
+03:11:31	Juan Estellano:	no entendí muy bien cual es la función del div
+03:11:44	Valentín Tur:	contiene diferentes elementos
+03:11:46	[Tutor] José Antonio:	el div solo es una etiqueta generica
+03:11:55	[Tutor] José Antonio:	que sirve para varias cosas
+03:12:03	Franco Pereyra:	gracias
+03:12:23	Ailen Vera:	muy buena la clase, gracias! saludos
+03:12:34	Nicolas Fernandez:	Gracias!
+03:12:38	Germán Alvarracín:	Muchas gracias!
+03:12:42	Benjamín Sepúlveda:	hay algun tiempo limite para valorar las clases?
+03:12:46	[Tutor] José Antonio:	buenas noches gente 😴
+03:12:49	Veronica Araque Franco:	puede mostrar de nuevo el código por favor
+03:12:49	Ailen Vera:	24 hs
+03:12:54	Benjamín Sepúlveda:	Gracias
+03:12:54	[Tutor] José Antonio:	normalmente solo es un dia Benjamin
+03:12:56	Franco Cirulli:	chau profe, hasta el martes!
+03:12:57	Juan Estellano:	bien gracias
+03:13:00	Martin Tascione:	Saludos
+03:13:01	Nicolas Fernandez:	Perfect
+03:13:02	Enrique Cherot:	Chau buen finde
+03:13:03	Rocio Cosso:	gracias
+03:13:04	Jose Cortes Sierra:	Buena noche jose
+03:13:04	natalia mansilla:	buen finde!
+03:13:05	Valentín Tur:	buenas noches!
+03:13:05	onelio vasquez:	Hasta luego profe
+03:13:06	Guido:	saludoss
+03:13:07	Lisandro Flores:	abrazo profe y buen finde
+03:13:07	Lucas Aballay:	adiós a todos,nos vemos la próxima clase
+03:13:09	Lucas Labriola:	buen finde a todos
+03:13:09	Lucila Allende:	Saludos
+03:13:09	Nicolas Fernandez:	Gracias! Buen finde!
+03:13:10	gonzalo woitaszen:	buen finde
+03:13:11	Bryan Formento:	buen finde profe!
+03:13:12	Facundo Rivera:	hasta luego buen finde
+03:13:12	Matias Roldan:	GRACIAS ABRAZOOS!
+03:13:13	Christian Toppetti:	Buen finde
+03:13:13	Olinda Mayor:	Gracias profe, buenas noches!
+03:13:13	Agustin Natalio:	Buen finde gente
+03:13:13	Yojan Talero:	bunas noches a todos , y buen findesemana
+03:13:14	Tomas Novas:	hasta luego saludos
+03:13:14	Maximiliano Casares:	Gracias, Saludos
+03:13:14	Carlos Martín Rugnia:	buenas noches, hasta el martes
+03:13:15	[Tutor] José Antonio:	buenas buenas gente 😴
+03:13:15	Ronny Gonzalez:	gracias
+03:13:15	Lucas Labriola:	nos vemos profe
+03:13:15	Benjamín Sepúlveda:	Buenas noches a todos :3
+03:13:16	Mikaela Sanchez:	Buenas noches
+03:13:16	Mateo Terren:	buenas noches
+03:13:17	Ronny Gonzalez:	saludos
+03:13:17	Naika Rasquin:	chao gracias
+03:13:18	Joan Flores Guillen:	bye ,saludos
+03:13:19	Tomas Novas:	igualmente
+03:13:22	Franco Pereyra:	adios
+03:13:22	Alejandro Cuadrado:	buenas noches!
+03:13:22	Anahí Calvagna:	Saludos, buen finde!
+03:13:22	Facundo Garcia Brunetti:	hasta luego profe
+03:13:22	Marina Boldrini:	gracias!
+03:13:24	Juan Lobato:	vale, buenas noches
+03:13:25	Jairo Davila:	buenas noches
+03:13:25	Mathias Carrozzino:	Buen finde
+03:13:27	Juan Pablo Silveira Gomez:	chau chau
+03:13:28	Damian Torres:	gracias igualmente profe
+03:13:28	Diego Chavez:	stop recording

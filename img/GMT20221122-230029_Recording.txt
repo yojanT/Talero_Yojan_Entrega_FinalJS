@@ -1,0 +1,891 @@
+01:55:26	Yannick Daniel:	Buenas tardes
+01:55:28	Rodrigo Penesi:	buenas
+01:56:13	Jairo Davila:	buenas tardes
+01:56:44	Franco Cirulli:	Porque es la introducción
+01:56:49	Camila Besse:	clase nivelatoria
+01:56:49	(José) Ailen Vera:	es para presentarnos
+01:56:54	Julio Vargas:	Porque el cero cuenta.
+01:56:55	Lucas Aballay:	porque es la introduccion
+01:56:57	Federico Cescato:	para nivelar a todos
+01:57:01	ozapata:	Para conocer la plataforma
+01:57:02	Agustin Vera:	porque es una clase introductora
+01:57:02	Rocio Cosso:	se va a explicar la dinámica del curso
+01:57:02	Lucas Labriola:	clase de nivelación?
+01:57:12	Juan Estellano:	Será donde se explican y descargan las herramientas de trabajo?
+01:57:16	Fede Prieto:	es para presentarnos, conocer desde 0 todo
+01:57:19	Joaquin Gómez:	porque es la clase introductora
+01:57:42	Enrique Cherot:	Porque por ejemplo en los arrays de JS se inicia desde el número 0
+01:57:47	Jairo Davila:	por que aca vamos a ver una visión general de lo que es el curso ?
+01:57:58	Matias Giordano:	Porque en esta clase no se profundiza en contenido aun
+01:58:08	Lisandro:	Para ver tmb con que programas vamos a trabajar
+01:58:13	54116:	el primer paso del html
+01:58:14	Christian Toppetti:	Las variables empiezan en 0?
+01:58:18	carla:	porque las medidas se incian en cero
+01:58:20	ViajandoAndo:	para aclarar dudas del manejo del curso
+01:58:21	Ricardo Crausaz:	array empieza de 0 en }js
+01:58:30	ozapata:	Como asi?
+01:58:41	ozapata:	Como asi lo que dice Enrique?
+01:59:10	Enrique Cherot:	cuando contas elementos dentro de un array por ejemplo no empezas del 1 sino del 0
+01:59:47	[Tutor] José Antonio:	asi es Ricardo , los indices de un array se empiezan a contar desde 0 pero no se asusten por eso, eso aplica mas para el curso de de js
+02:00:29	(José) Ailen Vera:	Aun no figura la carpeta de drive
+02:00:45	Juan Hernandez.:	Hola, buenas tardes.
+02:01:03	ozapata:	jajajajjajajaja esta bueno
+02:01:08	Franco Cirulli:	jajajja
+02:01:20	Camila Besse:	https://drive.google.com/drive/u/0/folders/1Rp3zo58ykfzf0SPyr6v378w_WgWpA26F
+02:01:30	(José) Ailen Vera:	Gracias!
+02:01:46	ozapata:	Como se divide la pantalla?
+02:01:51	Franco Cirulli:	Apretene en Carpeta y les lleva al link directo!
+02:01:55	Profe José Amador:	https://docs.google.com/presentation/d/1j5nQMeAecGDCDzXNmuh9Ty4iOxKv2vMgviZFv58NrnY/edit?usp=sharing
+02:02:15	(José) Ailen Vera:	aah mira, la actualizaron a la plataforma jaja gracias!
+02:03:08	Nicolas Fernandez:	Consulta, las herramientas es indistinto el sistema operativo?
+02:04:03	[Tutor] José Antonio:	Hola Nicolas, las herramientas están tanto para windows como MacOs , algunas veces difieren las formas de instalarlas pero funcionan igual
+02:04:40	Nicolas Fernandez:	Perfect y el traspaso de archivos sabes si se hace correcto? Te consulto porque depende el dia estoy en una o en otra
+02:04:41	Lisandro:	En cada página te dice maso menos como instalar los respectivos programas.
+02:05:27	[Tutor] José Antonio:	no entendí a que te refieres con traspaso de archivos Nicolas , no se si puedas reformular la pregunta
+02:05:59	Nicolas Fernandez:	Si me envio un archivo guardado en mac a otra pc y lo abro en windows, a veces en algunas herramientas se guarda de manera diferente
+02:06:29	pipa:	un enlace encima de otr
+02:06:34	pipa:	otro la etiqueta es a
+02:06:46	pipa:	o un enlace solo}
+02:08:22	André:	Ques es más importante la estética de la pagina o que sea practica para el usuario?
+02:09:40	Jairo Davila:	es mas importante entonces la funcionabilidad del sitio wed !
+02:09:43	ViajandoAndo:	la estetica es como para la presentacion de la pagina y que se vea bien ?
+02:09:53	Lisandro:	Claro tiene que ser bonita y dinamica
+02:09:54	pipa:	la estética es css
+02:09:56	Nicolas Fernandez:	UX primero siempre
+02:10:03	André:	por eso mismo preguntaba... eso mismo funcional perfecto
+02:10:12	iPhone de Tomas:	¿Que es más importante al momento de diseñar una página web ?
+02:10:14	pipa:	HTML es estructura
+02:10:32	[Tutor] José Antonio:	asi es pipa, mas adelante se hablara de eso
+02:12:31	Lisandro:	El sketch seria lo que hariamos en balsamiq?
+02:13:15	Juan Estellano:	que tipo de diferencias tiene html 5 del 4 por ejemplo?
+02:14:04	[Tutor] José Antonio:	asi es Lisandro, aunque en vez de sketch se le conoce mas como wireframe
+02:14:19	Lisandro:	Gracias
+02:14:28	pipa:	perdón la pregunta que seria sketch
+02:14:46	ViajandoAndo:	que lenguaje es mas importante HTML 4 o 5
+02:14:59	Franco Cirulli:	Supongo que 5, es el mas actual
+02:15:02	[Tutor] José Antonio:	actualmente se usa mas html 5
+02:15:21	Lucas Aballay:	sketch seria un boceto
+02:15:50	pipa:	grACIAS LUCAS
+02:18:37	JOSE CORTES SIERRA:	Cual es la diferencia de escode y sublime text?
+02:18:45	JOSE CORTES SIERRA:	vscode*
+02:19:02	pipa:	yo practique con el sublime 3 es bastante buenk
+02:19:03	pipa:	bueno
+02:19:11	ViajandoAndo:	el color de cada etiqueta influye en algo ?
+02:19:15	Franco Cirulli:	Tienes mas aspectos, mas funcionalidades y demas, creo yo.
+02:19:18	Camila Besse:	por lo general en coder siempre usan vsc jajaja
+02:19:24	pipa:	}ajjaajaja
+02:19:35	[Tutor] José Antonio:	pues, que sublime text luego te manda un mensaje para que lo compres y vscode no, además de que vscode cuenta con extensiones que ayudan con el codear
+02:19:55	JOSE CORTES SIERRA:	gracias
+02:20:06	Joaquin Gómez:	no influye el color, vos podes cambiar la temática a gusto viajandoando
+02:20:20	ViajandoAndo:	gracias
+02:20:20	[Tutor] José Antonio:	hoy en dia se volvió mas popular vscode, es el que se sugiere se utilice, pero igual podrían usar algún otro
+02:21:36	pipa:	sublime tex 3 no se usa mas_
+02:21:45	Franco Cirulli:	No, mas vscode
+02:21:57	Camila Besse:	salio el sublime text 4
+02:22:00	pipa:	soy dalto usa el tex 3
+02:22:22	Franco Cirulli:	Debe tener preferencia en el.
+02:22:46	Mathias Carrozzino:	Yo usaba Sublime Text y me pase a VSCode, sus funciones son superiores sin duda. Principal punto a favor son sus extensiones que te facilitan todo.
+02:22:48	Franco Cirulli:	Los 2 son muy buenos, no digo que son malos
+02:23:13	pipa:	los dos me sirven los lenguajes se pueden utilizar igual
+02:23:22	(José) Ailen Vera:	excelente
+02:23:37	Benjamín Sepúlveda:	yo uso vim xD
+02:23:52	pipa:	hay 75 mil programas jajaajaj
+02:24:04	Nicolas Fernandez:	Wordpress lleva un código propio?
+02:24:31	Lisandro:	Por las extensiones
+02:24:41	pipa:	cada uno trae mas herramientas que el otro verdad?
+02:24:46	Lisandro:	El vsc es como un juego todo modeado jaja
+02:25:09	Matías Ezequiel Espinosa:	quizá alguna pequeña diferencia, pero no d eterminante
+02:25:37	Camila Besse:	si , hasta podríamos usar el block de notas jajaja
+02:25:43	Lisandro:	sep
+02:25:48	pipa:	pero tranquilamente se puede usar sublime para crear una pagina?}
+02:25:50	Matías Ezequiel Espinosa:	anduve con mala conexión, perdón chicos, recién hace minutos pude entrar
+02:25:55	Lisandro:	si pipa
+02:26:23	Gonzalo Pompei:	no
+02:26:23	Enrique Cherot:	No
+02:26:24	Valentin Tur:	no
+02:26:25	Camila Besse:	no
+02:26:25	Jacob Mora:	no
+02:26:26	Jairo Davila:	no
+02:26:26	LEANDRO SAUBIETTE:	no
+02:26:26	Lucas Tedesco:	no
+02:26:27	Benjamín Sepúlveda:	nop
+02:26:29	Lucas Aballay:	ni idea
+02:26:29	Juan Pablo Silveira Gomez:	no
+02:26:30	Bautista Umpierrez:	no
+02:26:33	André:	si
+02:26:34	Gabriela Bousquet:	no se
+02:26:36	Enrique Cherot:	Porque no tiene funciones por ejemplo
+02:26:36	Fede Prieto:	No se la verdad
+02:26:37	André:	?
+02:26:37	Ricardo Crausaz:	no
+02:26:37	florencia santangelo:	si
+02:26:39	Juan Hernandez.:	no se
+02:26:40	Marina Boldrini:	no se
+02:26:40	ViajandoAndo:	no se
+02:26:40	Rodrigo Martel correa:	nose
+02:26:42	Agustin Vera:	nose
+02:26:45	Rodrigo Penesi:	nose
+02:26:50	gonzalo woitaszen:	no se
+02:26:51	natalia:	nose
+02:26:51	Naika Rasquin:	no se
+02:26:52	Enrique Cherot:	no se pueden ejecutar funciones por ejemplo
+02:26:52	leandro liquori:	CSS si es un lenguaje de programación, HTML no
+02:26:58	Ramiro Guitart:	no se
+02:27:01	Lisandro:	son un lenguaje de marcado de etiquetas o algo asi
+02:27:02	Matías Ezequiel Espinosa:	no son
+02:27:14	(José) Ailen Vera:	ahí nacio JavaScript(?
+02:27:21	Jairo Davila:	el que si es de programación es el js
+02:27:23	Rodrigo Penesi:	js seria el lenguaje
+02:27:31	Juan Estellano:	cual seria la definición de lenguaje de programación?
+02:27:31	Gabriela Bousquet:	css que es?
+02:27:51	Gonzalo Pompei:	lenguaje de estilo grafico
+02:27:53	Nicolas Fernandez:	CSS = hojas de estilo en cascada (por su sigla en ingles)
+02:27:55	Jairo Davila:	JS que es con el que le damos la interactividad
+02:28:14	Franco Cirulli:	Después de este curso si me sigue gustando, hare el de JavaScript
+02:28:15	[Tutor] José Antonio:	css (Cascading Style Sheets) o hojas de estilo en cascada, mas adelante se vera por que se dice que es en cascada
+02:28:44	Lisandro:	sep
+02:28:50	Thiago Marsili:	una pregunta como toman asistencia
+02:28:55	ViajandoAndo:	si , lo puede repetir por favor
+02:28:55	(José) Ailen Vera:	buen ejemplo jajajaja crack
+02:29:03	Federico Cescato:	excelente referencia
+02:29:07	ROCIO CASARES:	Exelente definición
+02:29:09	Thiago Marsili:	ok gracias
+02:29:11	Federico Cescato:	entendi perfecto
+02:29:15	ViajandoAndo:	el ejemplo de los huesos
+02:29:15	Lucas Aballay:	se entendio bastante bien
+02:29:39	Lautaro Rudaz:	La asistencia es automática, o va nombrando uno por uno a los alumnos?
+02:30:01	[Tutor] José Antonio:	la asistencia la tomamos los tutores sincronicos , no es automatica
+02:30:17	(José) Ailen Vera:	si no me equivoco, te tenes que poner el nombre de tu tutor adelante y ellos te ponen el presente
+02:30:54	[Tutor] José Antonio:	asi solia ser Antes José , ahora ya no es necesario eso, solo es necesario que tengas el mismo nombre aquí que el que tienes en la plataforma de coder
+02:31:17	Lautaro Rudaz:	Perfecto
+02:31:22	Lautaro Rudaz:	Muchas gracias
+02:31:32	pipa:	aaa
+02:31:32	ViajandoAndo:	perfecto
+02:31:35	pipa:	perdon francp
+02:31:39	pipa:	ahora?
+02:31:44	Franco Cirulli:	Ahora esta bien
+02:31:48	pipa:	perdonnn
+02:32:05	Franco Cirulli:	No pasa nada, yo tambien me equivoque después.
+02:32:23	JOSE CORTES SIERRA:	La aplicación web se puede hacer con javascript?
+02:32:37	Franco Cirulli:	Jose, si creo que si
+02:32:51	[Tutor] José Antonio:	para sitios dinámicos si, para sitios estáticos solo se usa html y css
+02:33:22	JOSE CORTES SIERRA:	gracias
+02:33:34	Franco Cirulli:	para poner archivos en el link que no dice .html, son de javascript?
+02:33:48	Camila Besse:	depende la terminación
+02:34:26	[Tutor] José Antonio:	asi es, depende de la extension, archivos .html son html, .css son archivos css y asi, para archivos js se usa .js
+02:34:32	Camila Besse:	los archivos que terminen en .js son de javascript
+02:35:27	Franco Cirulli:	Que lenguaje usan las paginas que no tiene ningun .lenguaje al final?
+02:35:35	ViajandoAndo:	y htts que vendria a ser ?
+02:36:20	[Tutor] José Antonio:	es un protocolo de internet Viajando, permite la transferencia de información en la web
+02:36:43	ViajandoAndo:	ok ya gracias
+02:37:09	Jairo Davila:	si
+02:37:10	Camila Besse:	sisi
+02:37:23	[Tutor] Matías Ezequiel Espinosa:	no sé preocupen su no entienden la mayoría de los conceptos. Es un pantallazo general que vemos ahorita para que entiendan algunas cosas
+02:37:38	pipa:	aa porque me estoy mareando ajjaa
+02:38:18	[Tutor] José Antonio:	no, yo solo estoy respondiendo lo que preguntan sus compañeros pero a lo largo del curso se iran viendo todos estos conceptos, no es necesario saberlos ahora mismo
+02:38:46	Lisandro:	jaja no
+02:38:49	pipa:	yo no
+02:38:50	JOSE CORTES SIERRA:	Yo no
+02:38:51	Juan Hernandez.:	yo
+02:38:51	Camila Besse:	ni ideaaaaaa
+02:38:52	Camila Besse:	jajaja
+02:38:54	iPhone de Tomas:	Yo
+02:38:54	[Tutor] José Antonio:	ni idea 😂
+02:38:55	Cecilia Catalina Britez:	cero
+02:38:55	ROCIO CASARES:	0
+02:38:55	Naika Rasquin:	no jajaj
+02:38:58	pipa:	sisi
+02:38:58	Benjamín Sepúlveda:	yo pero no se manejar xD
+02:39:01	Fede Prieto:	ni idea
+02:39:05	[Tutor] Matías Ezequiel Espinosa:	Solo se que si hace ruido es la cadena jaja
+02:39:19	Cecilia Catalina Britez:	jajaja
+02:39:29	pipa:	si ponemos un codio mal hackeamos la nasa
+02:39:30	pipa:	ajajajaja
+02:39:52	Benjamín Sepúlveda:	pero si andan en bici, es notable saber esas cosas, recomiendo andar en bici :3
+02:40:00	pipa:	no se andar en bici
+02:40:06	Nicolas Fernandez:	=/
+02:40:39	ViajandoAndo:	si yo en googlecoloco ese codigo o numero me manda a la plataforma de coderhouse ?
+02:41:03	Lisandro:	claro pero es mas facil quie te acuerdes de la pagina antes que toda una ip
+02:41:22	[Tutor] José Antonio:	asi es Lisandro
+02:41:33	Lisandro:	<3
+02:42:03	ViajandoAndo:	ok , y si coloco el numero sin un punto me va a arrogar un error ?
+02:42:07	Lisandro:	claro seriamos nuestros abuelos con la agenda y los numeros de telefono
+02:42:23	Lautaro Rudaz:	ponen nombres mas accesibles
+02:42:23	Lisandro:	simpifica eso
+02:42:26	Lautaro Rudaz:	jajaja
+02:42:29	Lisandro:	claro jaja
+02:42:35	Camila Besse:	se apiada de nosotros jaajaj
+02:42:39	Rodolfo Bautista Garavano:	Para eso existen los servidores DNS
+02:42:48	pipa:	se puede ir a cualquier ppagina web con una dirección ip de la misma poniendo el numuero?
+02:42:49	Lisandro:	sep
+02:42:58	[Tutor] Matías Ezequiel Espinosa:	es como decirle la dirección de su casa a sus amigos en vez del número de lote etc
+02:43:13	pipa:	sin escribirle el nombre
+02:43:19	pipa:	solo la ip
+02:45:02	Christian Toppetti:	y el puerto que vendría a ser?
+02:45:05	Lisandro:	creo que si pipa nunca lo hice
+02:45:16	ViajandoAndo:	es como enviar un mensaje te texto
+02:45:24	[Tutor] Matías Ezequiel Espinosa:	en caso de que no se lo muestre siempre les devuelve el por qué, a veces un 404 porque no se encontro
+02:46:39	[Tutor] Matías Ezequiel Espinosa:	algo así. hay un emisor que genera un request o solicitud y te devuelve esa búsqueda,
+02:46:56	LEANDRO SAUBIETTE:	Christian, el puerto es como si fuera la puerta por donde va esa solicitud eñ que se utiliza normalmente es el puerto 80
+02:47:07	Camila Besse:	al estilo matrix
+02:47:58	Christian Toppetti:	claro
+02:48:12	pipa:	podemos escribir código servidor en HTML?
+02:48:22	Lucas Labriola:	clarisimo
+02:48:22	LEANDRO SAUBIETTE:	no pipa
+02:48:23	JOSE CORTES SIERRA:	Si
+02:48:23	Julio Vargas:	si
+02:48:23	Franco Cirulli:	Si
+02:48:24	Camila Besse:	si si !! :)
+02:48:24	Valentin Tur:	sisi se entendió
+02:48:25	Alejandro:	si
+02:48:26	Nicolas Fernandez:	sep
+02:48:26	Ingrid Aguero:	si
+02:48:27	Joaquin Gómez:	ai
+02:48:27	Bryan Formento:	si
+02:48:28	Ricardo Crausaz:	si
+02:48:29	[Tutor] José Antonio:	amm no, podemos en js pero en html no
+02:48:30	Juan Pablo Silveira Gomez:	si
+02:48:31	Lucas Aballay:	asi es
+02:48:31	Marina Boldrini:	si
+02:48:34	Jairo Davila:	si
+02:48:36	André:	si se entendio
+02:48:38	Joaquin Gómez:	si*
+02:48:38	Veronica Araque:	si
+02:48:47	LEANDRO SAUBIETTE:	el HTML es solo interpretado por el cliente = mavegador
+02:48:56	pipa:	perfecto
+02:49:01	Christian Toppetti:	o sea, el server guarda el html y se lo manda a el cliente cuando lo pide
+02:49:16	LEANDRO SAUBIETTE:	exacto christian
+02:49:17	[Tutor] José Antonio:	asi es Christian
+02:49:20	Camila Besse:	sigamos sigamos
+02:49:26	Santiago Torres:	sigamos
+02:49:27	Naika Rasquin:	sigamos}
+02:49:27	Nicolas Fernandez:	Sigamos!
+02:49:28	Valentin Tur:	sigamo
+02:49:29	Federico Cescato:	sigamos
+02:49:30	Joaquin Gómez:	seguimos
+02:49:31	Rocío Capelli:	sigamos
+02:49:31	Nicolas Fernandez:	Go Go!
+02:49:32	Agustin:	sigamos
+02:49:32	pipa:	sigamos
+02:49:32	Sergio Ariel Riveros:	Termine
+02:49:33	Julio Vargas:	Sigamos.
+02:49:34	Veronica Araque:	sigamos
+02:49:34	Jairo Davila:	sigamos
+02:49:34	gonzalo woitaszen:	sigamos
+02:49:35	Ingrid Aguero:	termina las diapo
+02:49:36	[Tutor] Matías Ezequiel Espinosa:	400 slides
+02:49:36	Luis Arturo Ojeda:	Prefiero seguir
+02:49:36	Nicolas Fernandez:	Go Go!
+02:49:37	natalia:	sigamos
+02:49:37	[Tutor] Matías Ezequiel Espinosa:	jajaj
+02:49:37	florencia santangelo:	SIGAMOS
+02:49:38	Matías Perrone:	Después el break
+02:49:39	Cecilia Catalina Britez:	sigamoooo
+02:49:39	Benjamín Sepúlveda:	continuemos!
+02:49:39	JOSE CORTES SIERRA:	dale
+02:49:39	ViajandoAndo:	el terminar las diapos
+02:49:40	Marcelo Meneses:	break
+02:49:40	Joan Flores Guillen:	seguir
+02:49:41	pipa:	pero tengo un hambre igual jajaa
+02:49:42	Tomas Novas:	sigamos
+02:49:43	Franco Cirulli:	sigamo
+02:49:44	Jacob Mora:	Sigaaan
+02:49:44	Lucas Aballay:	continue joven
+02:49:45	Javier Saavedra:	dale duro
+02:49:47	Juan Pablo Silveira Gomez:	seguimos
+02:49:48	Mikaela Sanchez:	seguimos
+02:49:48	Dylan Marsili:	sigamos
+02:49:52	Erick Enriquez:	sigamos
+02:49:53	Mathias Carrozzino:	seguimos
+02:49:54	Rodrigo Penesi:	sigamos
+02:49:54	Juan Hernandez.:	sigamos
+02:50:03	Lucas Labriola:	a seguirr
+02:50:38	Rodrigo Martel correa:	yo por ahora estoy en movil para la próxima clase si o si mi computador
+02:50:58	Lucas Labriola:	se me crashea todo con el Edge 🤣
+02:51:12	pipa:	Firefox es rápido pero se buguea mucho
+02:51:13	Magali Rivarola:	opera gx sirve?
+02:51:25	Camila Besse:	brave
+02:51:31	Rodolfo Bautista Garavano:	Yo uso brave
+02:51:32	Nicolas Fernandez:	Edge lo usa alguien? jaja
+02:51:36	pipa:	brave es nuevo?
+02:51:40	Profe José Amador:	https://brave.com/es/
+02:51:47	Lucas Aballay:	yo uso brave actualmente, es bastante bueno
+02:51:47	[Tutor] José Antonio:	brave ya tiene años
+02:51:48	André:	tengo que bajarme esos 5 navegadores o puedo usar los 2 que tengo?
+02:51:59	Lautaro Rudaz:	cual recomienda usted?
+02:52:04	pipa:	el explorer murió definitivamente?
+02:52:06	Lucas Labriola:	que diferencias hay?
+02:52:07	Lautaro Rudaz:	de todos ellos
+02:52:09	Camila Besse:	brave es genial !! tiene bloqueo de anuncios en YouTube entre otras cosas
+02:52:12	[Tutor] José Antonio:	el mas fácil o común es chrome
+02:52:18	[Tutor] José Antonio:	yo uso firefox
+02:52:23	Juan Pablo Silveira Gomez:	y Edge?
+02:52:26	ViajandoAndo:	las que trabajan com MAC tienen alguna ventaja o desventaja ?
+02:52:34	Juan Hernandez.:	jaja, estan buenas la analogias para ejemplificar
+02:52:43	Alejandro:	Edge es buenisimo para descargar cualquiera de los otros XD
+02:52:51	pipa:	tengo el 3}
+02:52:56	[Tutor] José Antonio:	asi como dice Alejandro cx
+02:52:56	Benjamín Sepúlveda:	mac tiene ventaja, si estas desarrollando apps para IOS, porque necesitas firmarlas
+02:53:13	[Tutor] José Antonio:	mac es mejor para el desarrollo de software, mas rápido y fluido
+02:53:17	pipa:	puedo usar el sublime igualemte?
+02:53:19	Profe José Amador:	https://code.visualstudio.com/download
+02:53:38	pipa:	tengo las dos
+02:53:48	pipa:	code
+02:54:00	pipa:	dale perfecto
+02:54:00	Franco Cirulli:	Yo tambien, pero me gusta visual studio, es mejor para mi gusto
+02:54:05	Lucas Aballay:	hay de descargar esos 3 archivos?
+02:54:13	pipa:	yo pensé que el visual era viejito y el sublime no
+02:54:50	Profe José Amador:	https://balsamiq.cloud/
+02:54:53	Juan Estellano:	yo ya lo descargue Balsamiq, puedo usarlo desde ahi o es mejor desde la pagina web?
+02:55:12	[Tutor] José Antonio:	desde cualquier lugar es igual, no te preocupes Juan
+02:55:13	pipa:	para que sirve la pagina de recién ?
+02:55:23	Lucas Aballay:	okey ahora lo instalo
+02:55:31	Agustín Cabrera:	se puede usar figma ??
+02:55:34	Profe José Amador:	https://balsamiq.cloud/
+02:55:43	Lisandro:	Ya lo tengo bajado al balsamiq
+02:55:57	Lisandro:	ajajaj que genio
+02:55:57	Nicolas Fernandez:	Adobe XD, le erre cuando empecé jajajajaja
+02:56:08	Lautaro Rudaz:	Voy a necesitar ayuda de un tutor o del profe en mi caso con el Balsamiq
+02:56:13	Nicolas Fernandez:	Si si, digo por Figma jajaja
+02:56:13	Juan Hernandez.:	yo apenas voy conociendo e
+02:56:13	Matias Alan Leguiza:	HOLA  o tengo sublime
+02:56:17	Joaquin Gómez:	para que sirve balsamiq?
+02:56:26	Nicolas Fernandez:	le erré y aprendi XD, ahora mudandome a Figma jajaja
+02:56:30	pipa:	ya abri el link
+02:56:37	Federico Cescato:	Entonces si tengo el visual studio no hace falta descargar el sublime?
+02:56:46	Federico Cescato:	Gracias
+02:56:50	Lautaro Rudaz:	Porque yo estoy cursando nuevamente este curso y la prueba del Balsamiq se me venció. Ya probé instalarlo nuevamente y tampoco me deja
+02:56:53	Juan Hernandez.:	aparte de Visual Studio, que mas descargamos?
+02:56:55	Lautaro Rudaz:	Hay alguna solución?
+02:57:29	Franco Cirulli:	Win + R tambien
+02:57:35	Lucas Labriola:	win + r
+02:57:53	Franco Cirulli:	Win + R - cmd
+02:58:14	Javier Saavedra:	instale el visual studio code 1.73.1 para win64, esta bien?
+02:58:21	Camila Besse:	sisi
+02:58:25	JOSE CORTES SIERRA:	Es mejor Mac o windows para programar?, o da igual
+02:58:27	Camila Besse:	Si, Javi
+02:58:35	Javier Saavedra:	Gracias
+02:58:56	Antonela vistalli:	en mac me abrio con este mensaje:
+02:59:07	Gonzalo Pompei:	Y el bash de git? es una consola también?
+02:59:10	Antonela vistalli:	Last login: Thu Oct 27 11:51:53 on console
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+AR0FVFGQ38SQ05N:~ avistalli$
+02:59:14	[Tutor] José Antonio:	si, también Gonzalo
+02:59:19	Antonela vistalli:	que tengo que hacer?
+02:59:20	ViajandoAndo:	se me salio del zoom
+02:59:23	Gonzalo Pompei:	ok grax
+02:59:29	ViajandoAndo:	solo unos segundos
+02:59:30	Lucas Labriola:	buenísimo dalee
+02:59:37	JOSE CORTES SIERRA:	Y para el futuro y en general programa que es mejor ? Mac o windows
+02:59:50	Juan Estellano:	21:15 no seria?
+03:00:10	Valentin Tur:	ok
+03:00:15	André:	ok
+03:00:25	Fede Prieto:	el balsamiq tengo que crearme una cuenta?
+03:00:33	Fede Prieto:	Porque dice que hay que pagar
+03:00:49	[Tutor] Matías Ezequiel Espinosa:	no fede
+03:01:00	Antonela vistalli:	perdon, por las dudas consulto de nuevo. al abrir terminal en mi mac me aparecio este mensaje, y queria saber si tenia que hacer algo:
+Last login: Thu Oct 27 11:51:53 on console
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+AR0FVFGQ38SQ05N:~ avistalli$
+03:01:12	JOSE CORTES SIERRA:	Listo jose, muchas gracias
+03:01:28	Camila Besse:	Anto, no tengo mac asique no te puedo ayudar con ese mensaje
+03:01:40	Joaquin Gómez:	vamos a aprender como por ejemplo programar algo sobre el software?
+03:01:43	Lucas Aballay:	listo ya esta instalado, lo voy a dejar ahí para configuarlo juntos
+03:01:58	Onelio Vasquez:	Eres un ejemplo para nosotros!!
+03:01:59	Agustin:	Tengo una Mac air del 2015 rinde hacer todo desde ahí ?
+03:02:07	[Tutor] Matías Ezequiel Espinosa:	Me mataste ahí Anto...jamás tuve Mac 😣
+03:02:19	Joaquin Gómez:	a okok
+03:02:25	Camila Besse:	Igual anto el mensaje lo que dice es para actualizar la cuenta .. no mucho mas
+03:02:33	Romina Gentile:	balsamic cloud es pago? o hay otras opciones? por ahora puse la prueba de 30 dias
+03:02:58	Gabriela Bousquet:	en algún momento deja de ser chino básico?
+03:03:29	[Tutor] Matías Ezequiel Espinosa:	Romi, no vas a necesitar la más que unos días.
+03:03:54	Matias Roldan:	hacemos cuenta en balssamic?
+03:04:00	[Tutor] Matías Ezequiel Espinosa:	si buscan balsámiq 3 también pueden descargarlo, después les subo por plataforma algún link
+03:04:02	Lisandro:	Es como todo al inicio parece caos y desp sigue pareciendo caos pero mas conocido jaja
+03:04:03	pipa:	no se andar en bici ni se manejar un triunfador ajjajajaja
+03:04:07	Matias Roldan:	perfecto!
+03:04:08	Gabriela Bousquet:	me das esperanzas jaajaja
+03:04:08	Camila Besse:	profe, das otros cursos en coder ?
+03:04:20	Matias Roldan:	ok
+03:04:49	Lisandro:	Como es vivir  en USA profe
+03:05:08	Matias Roldan:	que es phyton?
+03:05:11	Lisandro:	claro
+03:05:11	pipa:	sus contras profe?
+03:05:14	Franco Cirulli:	De que pais es usted?
+03:05:25	[Tutor] José Antonio:	un lenguaje de programación de propósito general
+03:05:49	Jairo Davila:	por que siempre e escuchado que la vida le sonríe mas a los que aprenden python
+03:05:50	[Tutor] Matías Ezequiel Espinosa:	ciencia de datos es la bomba...paso dato
+03:05:51	Matias Roldan:	ok gracias!
+03:05:59	Camila Besse:	como tratan a los venezolanos allá ?
+03:06:31	[Tutor] Matías Ezequiel Espinosa:	python se pide mucho también chicos
+03:06:35	pipa:	al cuanto tiempo puedo laburar de esto?}
+03:06:35	Lisandro:	toma mate
+03:06:36	Lucas Labriola:	cononoces la app MIMO? para aprender Python
+03:06:39	Lisandro:	pensaba al reves
+03:06:44	Lisandro:	que python era mas compicado
+03:06:46	Franco Cirulli:	En coder house no ahí curso de python?
+03:06:49	ViajandoAndo:	Tambien tengo 7 a#os aca
+03:06:54	[Tutor] Matías Ezequiel Espinosa:	no Lisan
+03:06:54	[Tutor] José Antonio:	depende pipa, a algunos les toma 3 meses, 6 meses o hasta un año
+03:06:57	Benjamín Sepúlveda:	Python es mas preciso, ej, una calculadora con js vs una con python, la con js puede dar mal calculos
+03:07:03	Franco Cirulli:	Yo tambien pensaba que era mas complicado
+03:07:53	pipa:	pregunta Python tiene todos los lenguajes juntos ?
+03:07:55	Juan Estellano:	Yo estoy cursando el de Fullstack Developer, tiene salida laboral luego de compeltado el curso? o debería reforzar con algún curso mas?
+03:08:04	Julio Vargas:	No hablemos hoy de futbol por favor...😭
+03:08:09	[Tutor] José Antonio:	no pipa, python es un lenguaje solito
+03:08:12	pipa:	una vergüenza hoy
+03:08:20	Lisandro:	posta me siento el meme de homero "debi parecer un idiota"
+03:08:21	André:	Recien vuelvo del braek.. yo quería python pero me decía que el curso requeria este primero. igual que react también quiero aprender
+03:08:46	pipa:	java seria el mas complicado?
+03:08:58	Rodrigo Penesi:	tengo la misma duda de juan
+03:09:07	Franco Cirulli:	Yo iba a hacer el full stack, pero estaba mucho mas caro y dura 1 año, y me parecia mejor hacer este, porque no tengo la logica todavia
+03:09:17	Franco Cirulli:	Lo queria hacer por partes
+03:09:34	Camila Besse:	este no es el de full stack ?
+03:09:40	[Tutor] José Antonio:	yo creo tomaste la mejor decision Franco cx
+03:09:40	carla:	yo lo mismo que franco
+03:09:41	Lucas Labriola:	este es full stack
+03:09:41	Franco Cirulli:	No se si me lo acuerde jaja pero dale
+03:09:44	Lucas Labriola:	ahhh
+03:09:57	Benjamín Sepúlveda:	yo también estoy en tu situación franco xD
+03:10:01	Juan Hernandez.:	aqui andamos ya
+03:10:07	Nicolas Fernandez:	Ya te hiciste fan del mate, que python ni que js
+03:10:10	Nicolas Fernandez:	jajaja
+03:10:11	Franco Cirulli:	Ahh la gente tambie nesta aca en full stack, es que estan separados los cursos
+03:10:20	[Tutor] Matías Ezequiel Espinosa:	donde aprendan un lenguaje van a ver qué cuando vean otros hay una lógica y ciertas cosas como :bucles, funciones, etc, UE también lo verán en otro lenguaje pero con una sintaxis quizá diferente pero la idea es la misma.
+03:10:29	André:	Lo que pasa que me entreveré de tanto autodidacta.... comencé este año a tratar de estudiar solidty, web3 y todo de blockchain y acá estoy de vuelta a 0 para tratar de aprender todo bien
+03:10:32	Rodrigo Penesi:	back end tambien
+03:10:32	Benjamín Sepúlveda:	backend
+03:10:38	Juan Estellano:	son 4 modulos
+03:10:47	olinda:	de donde eres profe? no sè si ya lo dijo
+03:10:51	Franco Cirulli:	Una perosona que es venezolana, vive en USA y tomando mate 😇
+03:10:55	Camila Besse:	es este.. JavaScript, react y backend
+03:11:00	Christian Toppetti:	Frontend para que serviria
+03:11:11	Lucas Labriola:	me asuste pensé q me confundi xd
+03:11:23	Profe José Amador:	https://balsamiq.cloud/
+03:11:27	Franco Cirulli:	Jaja no tranqui, es el mismo
+03:11:34	Camila Besse:	frontend seria todo lo que puede ver el usuario !!
+03:11:36	florencia santangelo:	este es el inicio de las carreras de frontend y fullstack
+03:11:36	Franco Cirulli:	nomas que tienes todos pagos y los haces en mas tiempo!
+03:11:36	leandro liquori:	Frontend es lo que el usuario ve en la pagina web
+03:11:54	[Tutor] Matías Ezequiel Espinosa:	Traten de ver qué les gustan los datos, si la experiencia de usuario, si el maquetado web, y ahí se orientan a algo.
+muchas veces es mejor que se especialicen en algo a que sean generalistas, como un médico.
+03:12:19	Christian Toppetti:	Básicamente html & css entonces?
+03:12:22	Nicolas Fernandez:	los que usamos otros programas lo hacemos igual? XD Figma, etc
+03:12:42	[Tutor] José Antonio:	solamente para los que quieren usar balsamiq Nicolas
+03:12:51	Nicolas Fernandez:	Perfect, gracias
+03:13:13	Magali Rivarola:	no puedo entrar a mi cuenta de google
+03:13:22	Franco Cirulli:	Create una cuenta con gmail
+03:13:25	Franco Cirulli:	Directamente.
+03:13:32	Lucas Tedesco:	me tira error
+03:13:37	Benjamín Sepúlveda:	a mi me mando a otra pagina
+03:13:37	Lucas Tedesco:	Oops. An internal error occurred…Don't worry, a simple page reload should get you right back to work. In the meantime, our engineers have been notified (incident number is rep-02f85dbe-56c6).
+03:13:42	Magali Rivarola:	a esa no puedo entrar
+03:13:46	pipa:	donde voy a mi primer proyecto?
+03:13:47	Matias Alan Leguiza:	lo podes hacer de vuelta
+03:13:53	Benjamín Sepúlveda:	lucid.app
+03:13:57	Antonela vistalli:	volvi tarde
+03:14:04	Antonela vistalli:	podes de nuevo xfa?
+03:14:29	Benjamín Sepúlveda:	error mio ajajja
+03:14:54	pipa:	a que numero de clase?
+03:15:00	pipa:	estoy medio mareado
+03:15:04	Jacob Mora:	ya estoy}
+03:15:05	Valentin Tur:	ya
+03:15:06	Micaela Mareco:	Listo!
+03:15:06	Tomas Novas:	listo
+03:15:07	Bryan Formento:	estoy
+03:15:09	Marina Boldrini:	listo
+03:15:09	Ivan Fernandez:	Ya estoy
+03:15:10	Juan Hernandez.:	listo
+03:15:10	Enrique Cherot:	estamos
+03:15:11	Veronica Araque:	listo
+03:15:13	aylen fernandez genta:	listo
+03:15:13	André:	estoy
+03:15:14	ROCIO CASARES:	Hecho
+03:15:16	Ingrid Aguero:	listo
+03:15:16	Franco Cirulli:	Nada que ver esto pero yo me quiero unir al discord, me pide información por gmail pero no se el número de comición, como lo saco?
+03:15:17	Matias Roldan:	listo
+03:15:18	Lucas Aballay:	ya estoy
+03:15:18	Ailen Vera:	toy
+03:15:19	Fede Prieto:	listo
+03:15:19	Ramiro Guitart:	estoy
+03:15:22	Magali Rivarola:	luego puedo hacer la clase de nuevo?
+03:15:24	gonzalo woitaszen:	listo
+03:15:24	Lucila Allende:	Listo
+03:15:27	Boldrini Luciano:	YA ESTOY
+03:15:28	Magali Rivarola:	no me deja entrar
+03:15:36	Alejandro:	listo
+03:15:41	Rodrigo Penesi:	si las clases quedan grabadas
+03:15:44	pipa:	me parece que no me acuerdo la passs
+03:15:44	Juan Hernandez.:	intenta con tu correo que registraste en tu registro de coder house
+03:15:47	pipa:	me mueroo
+03:15:47	[Tutor] José Antonio:	las clases quedan grabadas, cualquier cosa pueden verla de nuevo
+03:15:47	Franco Cirulli:	estoy
+03:15:48	Leandro Canosa:	listo
+03:15:50	Antonela vistalli:	listooo
+03:15:57	Lucas Labriola:	estoy
+03:15:58	Leyser Almeyda:	estoy
+03:16:04	pipa:	no estoy
+03:16:06	florencia santangelo:	vaaaaamo pipa
+03:16:07	Camila Besse:	listoo
+03:16:08	Agustin Natalio:	estoy
+03:16:09	leandro liquori:	listo!
+03:16:10	Federico Cescato:	listo estoy
+03:16:10	Rodolfo Bautista Garavano:	ESTOY
+03:16:10	Mathias Carrozzino:	estoy
+03:16:12	Juan Pablo Silveira Gomez:	estoy
+03:16:13	Rodrigo Penesi:	estoy
+03:16:13	JOSE CORTES SIERRA:	estoy
+03:16:14	Joaquin Gómez:	estoy
+03:16:14	Benjamín Sepúlveda:	ready
+03:16:15	Fede Prieto:	esperemos a pipa y tamos
+03:16:15	Carlos Martín Rugnia:	listo
+03:16:16	Naika Rasquin:	listo
+03:16:16	Jairo Davila:	listo
+03:16:17	Ricardo Crausaz:	listo
+03:16:21	ViajandoAndo:	aun no entra
+03:16:25	ViajandoAndo:	no estoy
+03:16:25	Elias Merlo:	listo
+03:16:27	Lucas Tedesco:	abro first project?
+03:16:29	olinda:	estoy
+03:16:40	Franco Cirulli:	Nada que ver esto pero yo me quiero unir al discord, me pide información por gmail pero no se el número de comición, como lo saco?
+03:16:41	Christian Toppetti:	si lucas
+03:16:41	Camila Besse:	si luki
+03:16:46	Lucas Tedesco:	gracias
+03:17:09	Benjamín Sepúlveda:	comicion 36430
+03:17:15	Germán De Cuba:	Estoy
+03:17:15	[Tutor] José Antonio:	la comisión es 36430 Franco
+03:17:21	Franco Cirulli:	Gracais
+03:17:38	Juan Hernandez.:	que es la comicion?
+03:17:38	florencia santangelo:	alguien podría  mandarme la invite al discord?
+03:17:39	Franco Cirulli:	Gracias*
+03:17:44	ViajandoAndo:	listo
+03:17:55	[Tutor] Matías Ezequiel Espinosa:	ASISTENCIA PASADA ✅
+
+AUSENTES ❌:
+
+ Luis uran
+Malluri Romero
+ Maximiliano casares
+Nicolás kamiyama
+ Nicolás Pedrosa
+Orlany zapata
+ Ronny Gonzalez
+ Santiago Drozd
+ Santiago Inza
+ Yoel Pastor
+
+Si están acá, hablénme por privado.
+03:17:55	Franco Cirulli:	Juan, creo que numero de indentificación
+03:17:56	Lucas Tedesco:	ese error es el que me da a mi con google
+03:18:02	Lucas Tedesco:	con edge entre sin problemas
+03:18:03	Camila Besse:	la comisión es la clase , nuestra clase
+03:18:08	[Tutor] José Antonio:	en la pagina principal de la plataforma coderhouse , en inicio dice un mensaje para entrar a discord
+03:18:15	pipa:	entre recien
+03:18:53	Alejandro:	Tambien funciona de forma responsive?
+03:18:56	florencia santangelo:	👍🏽
+03:19:06	[Tutor] José Antonio:	que cosa Alejandro, Balsamiq?
+03:19:10	Alejandro:	si
+03:19:43	[Tutor] José Antonio:	no, si quieres hacer una vista de mobile debes hacerlo tu mismo , debes hacer todas las vistas 1 por 1 cx
+03:19:49	JOSE CORTES SIERRA:	En la app no me salen errores
+03:19:52	Alejandro:	entendido
+03:20:03	Camila Besse:	lo hacen a propósito para que descargues la app jajaja
+03:20:08	Juan Estellano:	capaz es mejor descargar el programa
+03:20:29	Ingrid Aguero:	a mi no me salta ese error
+03:20:47	Juan Pablo Silveira Gomez:	browser de llama
+03:20:47	Franco Cirulli:	El programa te da el codigo?
+03:20:54	Franco Cirulli:	O solo es una muestra en hoja?
+03:21:24	[Tutor] José Antonio:	solo es una muestra en hoja, el boceto, no te da el código, con figma si da un código equivalente pero no es confiable, luego salen errores
+03:22:37	Antonela vistalli:	si selecciono texto trae una leyenda
+03:22:42	Antonela vistalli:	hay que prestarle atencion?
+03:23:07	[Tutor] Matías Ezequiel Espinosa:	podes editarla si no me equivoco Anto
+03:23:21	Alejandro:	el Famoso sketch
+03:23:31	pipa:	esto es parecido a escribir el código en subvlime 3 o visual ?
+03:23:40	[Tutor] José Antonio:	no pipa, es muy diferente
+03:23:44	[Tutor] Matías Ezequiel Espinosa:	no pipa
+03:23:45	ViajandoAndo:	y hay puedo cambiar los colores Tambien ?
+03:23:54	ozapata:	Puedo ver las clases las veces que quiera?
+03:23:56	[Tutor] Matías Ezequiel Espinosa:	es como hacer un boceto de como querés que se vea
+03:24:00	Franco Cirulli:	Ah dale, esta buena para crear idea
+03:24:02	pipa:	seria parecido a css?
+03:24:07	leandro liquori:	Es para crear el boceto que luego quisiéramos crear en visual studio
+03:24:09	[Tutor] Matías Ezequiel Espinosa:	si , podes
+03:24:09	Joel Dominguez:	Seria como dibujarlo en una hoja
+03:24:12	Fede Prieto:	es como un CSS?
+03:24:14	[Tutor] José Antonio:	asi es Joel
+03:24:19	[Tutor] José Antonio:	no, no es como css
+03:24:24	pipa:	la prueba piloto de como quedaría la pag?}
+03:24:30	florencia santangelo:	esta es la etapa de diseño, o para mostrar un boceto a un cliente
+03:24:30	[Tutor] José Antonio:	asi es pipa
+03:24:38	[Tutor] Matías Ezequiel Espinosa:	es como co.o quedaría con estilos y todo
+03:24:39	pipa:	biennnn
+03:24:43	Mar:	wireframes?
+03:24:49	[Tutor] José Antonio:	exacto Mar
+03:24:50	[Tutor] Matías Ezequiel Espinosa:	si flor, exacto
+03:24:56	[Tutor] Matías Ezequiel Espinosa:	si Mar
+03:25:14	pipa:	entonces ants de crear uso el programa blasamic
+03:25:24	pipa:	va de tipear las etiquetas en visual?
+03:25:39	leandro liquori:	claro
+03:25:43	[Tutor] José Antonio:	para darte una idea nadamas, pero no siempre es necesario hacer el boceto antes de codear
+03:25:47	[Tutor] Matías Ezequiel Espinosa:	sin este boceto no tendría sentido sobre la marcha mientras codean ir pensando como quiero que se vea mí página, por eso realizó un boceto previo
+03:26:09	Joaquin Gómez:	donde encuentro para poner un texto?
+03:26:10	pipa:	seria como un machete de la pagina voy entendiendo
+03:26:50	Benjamín Sepúlveda:	Intente unirme al discor hace una semana, llene el formulario, pero hoy, aun no mne deja entrar u.u
+03:26:54	pipa:	ese titulo es un h1?
+03:27:01	ViajandoAndo:	y si yo quiero poner otra pagina al momento de clipqear ?
+03:27:02	pipa:	el primero
+03:27:07	Lucas Tedesco:	en edge no hay error actualmente
+03:27:11	[Tutor] José Antonio:	quizas porque es el primer dia Benjamin, quizas después ya puedas
+03:27:37	magali rivarola:	es necesaria la camara?
+03:28:02	ViajandoAndo:	hacer otra pagina cuando de un clip digamos
+03:28:03	Franco Cirulli:	magali no
+03:28:05	Soledad Toro:	Ya el chat de coder/ plataforma no se usa?
+03:28:08	ViajandoAndo:	no se si me entiendes
+03:28:23	[Tutor] José Antonio:	si se usa Soledad , al menos el chat general del curso si
+03:28:29	Ailen Vera:	entonces se puede usar figma para el boceto
+03:28:36	[Tutor] José Antonio:	si Alien
+03:28:40	ViajandoAndo:	ok ya perfecto
+03:28:46	ViajandoAndo:	gracias
+03:28:57	pipa:	se puede cambiar el idioma
+03:28:58	pipa:	¨?
+03:29:02	Romina Gentile:	desde donde se guarda? no lo encuentro
+03:29:21	ViajandoAndo:	cual es mas recomendada y que tenga mas herramientas ?
+03:29:27	Romina Gentile:	listo!
+03:29:30	Jairo Davila:	va bien pero es un poco incomodo si no tienes 2 pantallas
+03:31:16	florencia santangelo:	profe podríamos proceder en la clase?
+03:31:22	ViajandoAndo:	ok , entiendo gracias.
+03:31:43	Ailen Vera:	👀
+03:31:48	Fede Prieto:	Etendido
+03:31:49	pipa:	estructura:html
+03:31:58	Veronica Araque:	entendido
+03:32:11	ozapata:	Me parece que van bien, no hace falta mas rápido por favor
+03:32:51	Ramiro Guitart:	podrian pasar link de descarga de vsc
+03:33:08	Naika Rasquin:	https://code.visualstudio.com/download
+03:33:18	Benjamín Sepúlveda:	https://code.visualstudio.com/
+03:33:20	[Tutor] José Antonio:	https://code.visualstudio.com/download
+03:34:02	pipa:	ya descargado
+03:34:10	olinda:	36430
+03:34:11	Julio Vargas:	Es otro el numero de comisión, no 34360
+03:34:14	Agustin Vera:	36430
+03:34:34	[Tutor] José Antonio:	es mejor entender la clase que seguir el ritmo sin entender que se esta haciendo
+03:34:36	Franco Cirulli:	Yo eso pensaba, porque en la practica propia no te acordas todo
+03:34:44	Ramiro Guitart:	gracias
+03:35:28	Benjamín Sepúlveda:	por las rutas?
+03:35:51	Lisandro:	Los espacios son malos (?
+03:35:54	Thiago Marsili:	el visual no acepta espacios
+03:36:05	Nicolas Fernandez:	36430
+03:36:06	Franco Cirulli:	creo que puede dar problema ejemplo al conectar un css o js, si pones el nombre de la carpeta c s s
+03:36:29	Lucas Labriola:	para asignar nombre a las variables?
+03:36:42	[Tutor] José Antonio:	lo ideal es no tener espacios, es mejor con guion bajo _
+03:37:33	pipa:	solo comisión numuero y _=
+03:37:37	pipa:	?
+03:37:55	Nicolas Fernandez:	letras, numeros y _ en vez de espacio
+03:37:56	[Tutor] José Antonio:	no tiene que llamarse comisión necesariamente, es solo un ejemplo cx
+03:37:58	Lucas Labriola:	perfecto
+03:38:00	Nicolas Fernandez:	la Ñ es un caracter especial
+03:38:02	Nicolas Fernandez:	xD
+03:38:05	André:	mayúscula y minúscula importan?
+03:38:16	pipa:	no tengo la letra esa jaja
+03:38:46	Diego Chavez:	yo ya uso VSC
+03:39:03	Juan Estellano:	no me aparece para abrirlo directo con click derecho
+03:39:14	Franco Cirulli:	Traslada la carpeta
+03:39:15	Matias Alan Leguiza:	me tengo q descargar visual?
+03:39:17	[Tutor] Matías Ezequiel Espinosa:	eso lo establecen en la instalación
+03:39:32	[Tutor] Matías Ezequiel Espinosa:	Juan
+03:40:17	[Tutor] Matías Ezequiel Espinosa:	Mejor si Mati
+03:42:18	Juan Estellano:	a mi directamente no me aparece ninguna carpeta .vscode
+03:42:25	Enrique Cherot:	a mi tampoco
+03:43:03	Nicolas Fernandez:	root
+03:43:17	Lucas Labriola:	No se me crea la carpeta .vscode
+03:43:34	Nicolas Fernandez:	en mac no se crea
+03:43:37	Nicolas Fernandez:	por las dudas
+03:44:02	Matias Roldan:	NEW FILE?
+03:44:12	Enrique Cherot:	sip
+03:44:23	[Tutor] José Antonio:	no se preocupen, pueden crear una carpeta cualquiera, dar clic derecho sobre ella y dar en la opción que dice "abrir en vscode"
+03:44:33	pipa:	NUEVO ARCHIVO/NEW FILE
+03:45:07	Nicolas Fernandez:	al de arriba le decia
+03:45:12	Nicolas Fernandez:	que no se creaba la carpeta vscode
+03:45:20	natalia:	jose pero si no me aparece la opción de vscode?
+03:45:23	Lucas Labriola:	no tengo mac xd
+03:45:24	Micaela Mareco:	Profe, perdón,puede mostrar de nuevo como puso la primer linea que dice ejemplo1.html? porque me dice no valido cuando lo pongo
+03:45:52	Ivan Fernandez:	A mi no me crea la carpeta .vscode
+03:46:00	natalia:	buenisimo
+03:46:09	Enrique Cherot:	quizá es por la versión pero no afecta en nada lo de .vscode
+03:46:27	Juan Hernandez.:	ya abri mi carpteta, pero no me sale .vscode
+03:46:37	[Tutor] José Antonio:	no pasa nada Juan
+03:46:39	Nicolas Fernandez:	quizas se crea como carpeta oculta, no es relevante la carpeta .vscode
+03:46:53	hannah:	y para borrar esas carpetas?
+03:46:56	Ivan Fernandez:	Genial, gracias
+03:46:59	Lucas Labriola:	buenismo
+03:47:00	Lucas Aballay:	ahhh perfecto porque a mi tampoco me salia
+03:48:04	Juan Hernandez.:	muy bien, ya pude crear los files en a la altura
+03:48:06	Ramiro Guitart:	puede mostrar nuevamente como genero el documento html?
+03:48:13	pipa:	yo tambien
+03:48:14	ViajandoAndo:	profesor puede salir dandole click a la x y volver a entrar
+03:48:27	Lucas Labriola:	vamooos
+03:48:34	ViajandoAndo:	solo para ver si lo hicimos bien
+03:48:38	florencia santangelo:	joya
+03:48:42	Federico Cescato:	Perfecto
+03:48:44	florencia santangelo:	golazo
+03:48:50	pipa:	img es de css?
+03:48:57	pipa:	o HTML?
+03:49:00	[Tutor] José Antonio:	no img es de imágenes pipa
+03:49:08	pipa:	ok
+03:49:09	Enrique Cherot:	img son imagenes
+03:49:17	Enrique Cherot:	los recursos que vas a utilizar
+03:49:31	Veronica Araque:	La interfaz del visual me aparece diferente al que usted esta explicando
+03:49:48	leandro liquori:	porque el lo tiene mas personalizado
+03:49:48	[Tutor] José Antonio:	asi es Veronica, es que el profe tiene un tema instalado que modifica el color
+03:49:58	ViajandoAndo:	es como desglosar mas inf dentro de otra carpeta
+03:50:08	Enrique Cherot:	esta chiteado jajaja
+03:50:20	Veronica Araque:	me refiero a la estructura, no al color
+03:50:31	Federico Cescato:	Tiene hacks
+03:50:40	Ramiro Guitart:	clapeucius
+03:50:46	Jacob Mora:	Perfecto
+03:50:47	pipa:	eso se instala dentro del programa no?
+03:50:52	Franco Cirulli:	yo tengo un color distinto medio violeta jaja
+03:50:52	Enrique Cherot:	si
+03:51:26	Enrique Cherot:	que bueno que utilicen Notion
+03:51:33	Benjamín Sepúlveda:	Gracias profe, yo aun no entiendo bien como usar notion, es una buena oportunidad
+03:51:36	pipa:	yo negro con bordo medio extraño ajjaa
+03:52:07	florencia santangelo:	ok, gracias profesor
+03:52:14	JOSE CORTES SIERRA:	Donde esta el link de notion?
+03:52:27	[Tutor] José Antonio:	en el chat general de la plataforma Jose
+03:52:27	Alejandro:	en el chat de la app de coder
+03:52:29	Franco Cirulli:	yo todo eso lo tengo
+03:52:30	Lucas Tedesco:	no estoy autorizado a entrar
+03:52:32	natalia:	que genialidad , gracias
+03:52:32	Lucas Tedesco:	You do not have access to José Amador's Notion. Please contact an admin to add you as a member.
+03:52:35	Franco Cirulli:	Y tambien se como funcionan
+03:52:42	Martin Tascione:	podrias enviar el link?
+03:52:44	Damian Torres:	no nos deja entrar al notion.so
+03:52:45	[Tutor] José Antonio:	bien por ti Franco
+03:52:46	Christian Toppetti:	Se necesita autorización
+03:52:49	Fede Prieto:	No estoy autorizado a entrar
+03:52:52	pipa:	esto esta en balsamic??
+03:52:55	Lucas Labriola:	no estoy autorizado
+03:52:57	Ingrid Aguero:	no me deja entrar
+03:53:03	Martin Tascione:	ahh okey
+03:53:03	[Tutor] José Antonio:	el profe lo va a poner publico
+03:53:05	Franco Cirulli:	Martin, esta en el chat de plataforma
+03:53:13	Fede Prieto:	No pipa, anda al chat de coderhouse
+03:53:16	Martin Tascione:	si, perdona no habia notado eso
+03:53:21	Profe José Amador:	https://www.notion.so/Desarrollo-Web-CODERHOUSE-COMISON-36430-noche-0e3cbabc220f432899e1974ce88fe0ee
+03:53:44	florencia santangelo:	mil disculpas, pero me tengo que retirar. Ya son las 22
+03:54:03	cristian caballero:	entre pero no me deja ver
+03:54:05	Enrique Cherot:	HTML : 5
+03:54:11	[Tutor] José Antonio:	buenas noches gente, para los que ya se van 😴
+03:54:26	Diego Chavez:	arma el esqueleto
+03:54:30	JOSE CORTES SIERRA:	En Mac es con tab creo
+03:54:38	Jacob Mora:	Worales :o
+03:54:41	pipa:	es como un tip?
+03:54:50	leandro liquori:	la famosa estructura HTML
+03:54:51	Diego Chavez:	es un atajjo de vsc
+03:54:53	pipa:	para no escribir todas las eetgoqietas
+03:55:00	pipa:	etiquetas uy
+03:55:01	leandro liquori:	es un atajo
+03:55:05	Juan Hernandez.:	tenemos que salvarlo, o no necesariamente?
+03:55:07	Nicolas Fernandez:	admiraci[on
+03:55:12	pipa:	control s
+03:55:15	pipa:	para guardar
+03:55:20	Enrique Cherot:	vos guardalo
+03:55:30	Ramiro Guitart:	buenas noches
+03:55:37	[Tutor] José Antonio:	tienes que salvarlo para ver los cambios en el navegador
+03:55:54	[Tutor] José Antonio:	buenas noches gente, que descansen  para los que ya se van 😴
+03:56:29	pipa:	cuantassssssssssssssssss
+03:56:37	Franco Cirulli:	Una sola
+03:56:38	Franco Ferreyra Bonnin:	¿cuando tendremos la clase grabada para repasar?
+03:56:45	Franco Cirulli:	Todas
+03:57:01	pipa:	a donde se sube?
+03:57:04	Alejandro:	soy flojo, prefiero el ¨!¨ jajaja
+03:57:11	[Tutor] José Antonio:	a la plataforma pipa
+03:57:16	pipa:	perfecgto
+03:57:22	natalia:	yo pude profe , pero el .vcode y la listita no me sale todavía.
+03:57:23	Valentin Tur:	genial profe
+03:57:32	Mikaela Sanchez:	la asistencia como se pasa
+03:57:33	Juan Hernandez.:	perfecto
+03:57:34	Mikaela Sanchez:	'?
+03:57:37	Ramiro Guitart:	ya la pasaron
+03:57:37	pipa:	esta en coder house la plataforma?
+03:57:38	Franco Cirulli:	Bueno ¿Terminamos?
+03:57:39	Alejandro:	cual es el video para ver en Notion? el primero nada mas?
+03:57:42	[Tutor] José Antonio:	esta clase no tiene Asistencia, la próxima ya cuenta
+03:57:49	Mikaela Sanchez:	ok gracias
+03:57:50	Antonela vistalli:	porque las dos sentencias aplican a lo mismo?
+03:57:54	Jairo Davila:	gracias profe fue claro todo 😎
+03:57:57	Lucas Tedesco:	seguimos sin acceso al link de coder
+03:57:59	Valentin Tur:	los 2 primeros ale
+03:58:01	Christian Toppetti:	Perecto
+03:58:02	Antonela vistalli:	o mejor dicho hacen lo mismo
+03:58:02	Juan Hernandez.:	De hecho me llego correo con la asistencia
+03:58:15	Marina Boldrini:	buenisimooooo!!! gracias!!!
+03:58:16	[Tutor] José Antonio:	valoren la clase gente
+03:58:18	olinda:	gracias profe! buenas noches
+03:58:21	Rocio Cosso:	Hasta el jueves!!!
+03:58:25	Nicolas Fernandez:	Perfect
+03:58:25	Lucas Labriola:	nos vemos profe!
+03:58:26	Enrique Cherot:	buenísimo
+03:58:27	Lucas Labriola:	cuidese
+03:58:27	Naika Rasquin:	Excelente clase
+03:58:28	Franco Cirulli:	Dale Gracias, Muy bueno, Nos vemos jueves a las !
+03:58:28	Micaela Mareco:	Nos vemos profe!
+03:58:29	natalia:	gracias , nos vemos profe
+03:58:29	Valentin Tur:	graciasss, buenas noches
+03:58:30	Enrique Cherot:	que terminen lindo!
+03:58:30	pipa:	buenas noches
+03:58:31	Lucas Aballay:	genial profe, nos vemos la próxima clase, saludos
+03:58:31	Naika Rasquin:	Gracias
+03:58:32	Sergio Ariel Riveros:	Nos vemos la próxima
+03:58:32	florencia santangelo:	gracias jose
+03:58:32	Matias Roldan:	gracias!
+03:58:32	[Tutor] José Antonio:	buenas noches gente, que descansen 😴
+03:58:33	pipa:	gracias profeeeee
+03:58:33	Rocío Capelli:	saludos!!
+03:58:33	ROCIO CASARES:	Muchas gracias
+03:58:33	Christian Toppetti:	Buenas noches
+03:58:34	Matías Perrone:	Gracias!! Saludos
+03:58:35	André:	gracias bye
+03:58:35	Ivan Fernandez:	Hasta el jueves!
+03:58:35	Lucas Tedesco:	Saludos gracias por la clase
+03:58:36	Tomas Novas:	Hasta el jueves, saludos!
+03:58:36	gonzalo woitaszen:	buenas noches!
+03:58:37	pipa:	mjuy buena ondaaa
+03:58:37	Lucila Allende:	Saludos
+03:58:37	Nicolas Fernandez:	nos vemos profe!
+03:58:37	Franco Ferreyra Bonnin:	😉
+03:58:37	Martin Tascione:	hasta la proxima!
+03:58:38	Alejandro:	perfecto, gracias y buenas noches!
+03:58:38	Onelio Vasquez:	Muchas gracias profe!!!!!
+03:58:39	Matias Roldan:	buenas noches!
+03:58:39	leandro liquori:	Buenas noches gente!
+03:58:40	Juan Hernandez.:	5 para mi, pero va
+03:58:41	Facundo Rivera:	gracias saludo
+03:58:42	Fede Prieto:	Buenas noches gente!
+03:58:44	Jairo Davila:	buenas noches a todos !!!
+03:58:44	LEANDRO SAUBIETTE:	adiós!! Gracias
+03:58:45	Valentin Tur:	😎
+03:58:45	[Tutor] José Antonio:	hasta el jueves 😴
+03:58:46	Facundo Garcia:	Saludos profe ! hasta la próxima clase
+03:58:48	Benjamín Sepúlveda:	Buenas noches a todos, un gusto aprender junto a ustedes
+03:58:48	Juan Pablo Silveira Gomez:	buenazo, nos vemos el jueves
+03:58:49	Agustin Vera:	hasta el jueves ,gracias
+03:58:50	Onelio Vasquez:	Buenas noches!!
+03:58:51	ViajandoAndo:	gracias
+03:58:51	Veronica Araque:	buenas noches
+03:58:52	Joan Flores Guillen:	Bye
+03:58:52	Lucas Aballay:	adiós a todos
+03:58:53	Santiago Torres:	Nos vemos!
+03:58:53	Julio Vargas:	Nos vemos!
+03:58:54	Carlos Martín Rugnia:	buenas noches, hasta la proxima
+03:58:54	Dylan Marsili:	Buenas noches a todes!
+03:58:55	Mateo Terren:	buenas noches
+03:58:55	Juan Estellano:	abrazo profe
+03:58:56	ViajandoAndo:	hasta el jueves
+03:59:01	Rodrigo Martel correa:	buenas noches!
+03:59:05	florencia santangelo:	adios
+03:59:08	Franco Cirulli:	Adios

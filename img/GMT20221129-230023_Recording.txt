@@ -1,0 +1,863 @@
+01:23:02	Lucas Labriola:	buenas noches
+01:23:05	franco ferreyra bonnin:	como le va hoy profe?
+01:23:53	Lucas Labriola:	descárguense la aplicación de coderhouse que ahí tienen que tocar PRESENTE, es mas facil
+01:24:44	Elizabeth Rivarola:	dónde aparece presente en la app?
+01:24:56	Andre Abreo:	una duda me surgió yo hice el wireframe pero solo de la página inicio de mi sitio web? las sub paginas hay q hacer también el wireframe?
+01:27:01	[Tutor] José Antonio:	si Andre, debe ser minimo 5 wireframes ya que son minimo 5 archivos html que se piden, pero aun falta para la entrega , todavía no hay porque hacerlo, en la misma clase se dira cuando ya se habilite la primera pre entrega o tarea a entregar
+01:28:17	Andre Abreo:	eso error creo q es porque se confundieron el head con el header
+01:30:47	Diego Chavez:	en todas las vistas
+01:32:13	Guido:	head es como un encabezado invicilble?
+01:32:23	Christian Toppetti:	Las actividades hay que subirlas al chat?
+01:32:30	[Tutor] José Antonio:	No Guido
+01:32:56	Ingrid Aguero Tello:	puede ser que el chat de la plataforma no esté funcionando?
+01:33:00	[Tutor] José Antonio:	no Christian, no tienen porque subirlas, las pueden hacer pero no hay necesidad de subirlas, son solo para que ustedes practiquen cx
+01:33:12	Fede Prieto:	a mi tampoco me anda el chat de la plataforma
+01:33:46	[Tutor] José Antonio:	La plataforma suele fallar de vez en cuando, hay que tenerle paciencia xc
+01:34:02	Guido:	las ordenadas también aparecen coon puntos np¡?}
+01:34:13	[Tutor] Matías Ezequiel Espinosa:	y por de vez en cuando significa bastante
+01:34:25	Yannick Daniel:	esta al revez
+01:34:33	Valentin Tur:	no Guido con numeros
+01:34:41	[Tutor] Matías Ezequiel Espinosa:	si yannick xD
+01:34:56	[Tutor] José Antonio:	si, asi es Yannick, esta al revez, listas ul vienen con puntitos y listas ol vienen con numeros
+01:35:16	[Tutor] Matías Ezequiel Espinosa:	ul: unordered listol: ordered list
+01:35:18	Guido:	como es la tecla de llave de ciere?
+01:35:27	Carla Peiovich:	}
+01:35:31	Agustin Garcia:	} esa guido
+01:35:36	[Tutor] Matías Ezequiel Espinosa:	alt+125
+01:35:46	Joaquín Gómez:	no entendi
+01:35:47	Guido:	aa yo uso alt 62 o 60 esta bien?
+01:36:01	Yannick Daniel:	eso es para los <> los alt 60 y 62
+01:36:08	Yannick Daniel:	ellos hablan de las llaves {}
+01:36:09	Agustin Garcia:	también podes hacer <!--
+01:36:44	Carla Peiovich:	yo tmp entendí lo de los comentarios
+01:37:06	[Tutor] Matías Ezequiel Espinosa:	que no entendiste?
+01:37:12	Bautista Umpierrez:	pPara Mac como es?
+01:37:24	Guido:	eso azukl es ubn atributo?}
+01:37:42	Valentin Tur:	un comentario
+01:37:44	Yannick Daniel:	no, es una aclaracion para uno mismo
+01:37:44	[Tutor] Matías Ezequiel Espinosa:	lo que abaj ode header no
+01:37:52	Guido:	ok
+01:38:05	[Tutor] Matías Ezequiel Espinosa:	es un comentario. No es procesado por el editor de texto y no aparece visualmente en tu pagina
+01:38:46	Erick Enriquez:	Para Mac como es para colocar el comentario?
+01:38:51	Carla Peiovich:	yp no entiendo como ponerlo. Entiendo q no aparezca visualmente en la pag
+01:39:02	Agustin Garcia:	erick pone <!--
+01:39:07	[Tutor] José Antonio:	es igual , independientemente del teclado me parece Erick
+01:39:12	Olinda Mayor:	por qué un lista ordenada va dentro de una lista desordenada?
+01:39:25	[Tutor] José Antonio:	en teclado ingles es con la combinación de teclas ctrl + /
+01:39:38	Erick Enriquez:	Gracias!
+01:40:58	[Tutor] Matías Ezequiel Espinosa:	tambien pueden usar: ul>li*4, les crea un ul con 4li dentro
+01:41:24	ozapata:	APLAUSOS! Me encanto la explicación
+01:41:37	Matias Giordano:	header entonces vendría a ser el encabezado de la pagina no?
+01:41:44	[Tutor] Matías Ezequiel Espinosa:	si matt
+01:41:44	[Tutor] José Antonio:	asi es Matias
+01:41:45	Jairo Davila:	para cambiar los numero por letras como se tiene declarar
+01:42:00	Jairo Davila:	para que sea a , b, c, d
+01:42:01	Llanos Reynaga leandro:	hola
+01:42:03	[Tutor] Matías Ezequiel Espinosa:	allí ubicarías lo que iria por lo general en el encabezado
+01:42:20	Guido:	sisi
+01:42:21	Valentin Tur:	si
+01:42:21	Lucas Labriola:	entendidooo
+01:42:22	Lucas Aballay:	si
+01:42:23	Jose Cortes Sierra:	si
+01:42:23	Ailen Vera:	siii
+01:42:24	Christian Toppetti:	Si
+01:42:24	Agustin Garcia:	si
+01:42:24	Elizabeth Rivarola:	si
+01:42:27	Joaquín Gómez:	si señor
+01:42:27	Germán Alvarracín:	si, se entendió
+01:42:27	Gonzalo Pompei:	si
+01:42:29	ozapata:	20 puntos
+01:42:32	Matias Perrone:	👍
+01:42:32	Jairo Davila:	👍
+01:42:32	Rodrigo MARTEL:	si
+01:42:33	guille faccini:	see
+01:42:34	[Tutor] Matías Ezequiel Espinosa:	vamooooo
+01:42:38	Jose Cortes Sierra:	Como se hace para poner en vez de números otra cosa?
+01:42:41	lucas de pasqua:	sep
+01:42:50	Jose Cortes Sierra:	Como a,b,c
+01:43:02	[Tutor] José Antonio:	eso es con css Jose
+01:43:27	[Tutor] José Antonio:	mas adelante cuando se vea css ya te comparto como
+01:43:36	Jose Cortes Sierra:	Okay gracias
+01:43:39	Juan Estellano:	por que el h1 y el li que están contenidos en el div tienen el mismo espaciado?
+01:43:51	Santiago Torres:	Una consulta, como tengo que hacer para entrar al after class? Es simplemente quedarme aquí en el zoom?
+01:44:10	Lisandro:	section es otro tipo de contenedor verdad?
+01:44:10	Enrique Cherot:	es otro día Santiago
+01:44:17	Enrique Cherot:	fíjate que es el 5/12
+01:44:21	[Tutor] José Antonio:	el afterclass se vera como una clase normal en la plataforma de coder Santiago, el profe dira que dia sera y asi te aparecera ese dia
+01:44:22	Enrique Cherot:	y tenes el link
+01:44:23	Juan Estellano:	ahh perfecto}
+01:45:06	cristian caballero:	nav
+01:45:09	Santiago Torres:	Muchas gracias Enrique y Jose
+01:45:22	Christian Toppetti:	Que es una navegación?
+01:45:52	Matias Perrone:	como el inicio y todo eso?
+01:45:54	[Tutor] José Antonio:	es la etiqueta nav
+01:46:01	Camila Besse:	ul>li
+01:46:09	Anahí Calvagna:	Anda mail mi wifi y se me cierra zoom a cada rato, aviso por el tema del presente
+01:46:12	Franco Pedrozo:	como hago para volver para atrás si borre sin querer?
+01:46:13	[Tutor] José Antonio:	es donde viene "inicio" "contacto" "menu" etc
+01:46:22	[Tutor] José Antonio:	ctrl + z Franco
+01:46:27	Franco Pedrozo:	gracias!
+01:46:31	Alejandro Cuadrado:	inception 🤯
+01:46:36	Matias Perrone:	Gracias José
+01:46:51	[Tutor] José Antonio:	👍
+01:46:55	Enrique Cherot:	a
+01:46:59	cristian caballero:	a
+01:47:03	Guido:	a
+01:47:09	Fede Prieto:	Na me re perdi
+01:47:53	[Tutor] José Antonio:	hemos visto listas , las cuales son <ul> o <ol> , las cuales llevan dentro <li> para sus elementos
+01:48:08	[Tutor] José Antonio:	y ahorita estamos viendo las listas aplicadas dentro de la etiqueta <nav>
+01:48:17	ozapata:	anchor es igual a href?
+01:48:40	Fede Prieto:	si pero me perdi en como va el orden de las cosas
+01:48:41	Guido:	que hrfef es el atributo
+01:48:47	Guido:	la etiqueta es la a
+01:48:50	[Tutor] José Antonio:	las anchor llevan el atributo href que es donde pones el link o enlace a otra pagina
+01:48:55	[Tutor] José Antonio:	Asi es Guido
+01:48:59	Diego Chavez:	esto lo suben a algún colaboratory??
+01:49:07	Diego Chavez:	para que quede como ejemplo ?
+01:49:12	Christian Toppetti:	que otros atributos podes usar para un anchor además de href?
+01:49:13	[Tutor] Matías Ezequiel Espinosa:	fede, ul, dentro li, dentro de cada li un a
+01:49:14	Rodrigo MARTEL:	como puso el anchor
+01:49:17	ozapata:	Puedes repetir disculpa
+01:49:28	Valentin Tur:	con la <a> rodrigo
+01:49:30	[Tutor] José Antonio:	para poner el anchor se utiliza la etiqueta <a>
+01:49:32	Lucas Labriola:	es verdad jaja
+01:49:33	Martin Tascione:	Yo también me perdi
+01:49:42	[Tutor] Matías Ezequiel Espinosa:	donde se perdieron?
+01:49:43	Jose Cortes Sierra:	Me gusta mucha la explicacion
+01:49:43	Guido:	yo también me perdi pero esta etiqueta la conosco
+01:49:50	Joaquín Gómez:	me perdi yo tambien
+01:49:51	Martin Tascione:	Se me complica seguir el hilo, luego veré de nuevo el material
+01:49:52	Naika Rasquin:	yo también me perdi
+01:50:05	[Tutor] José Antonio:	de hecho, lo ideal es ver la clase y tratar de entender
+01:50:06	ozapata:	repetir como lo conecto para ser navegable
+01:50:07	Fede Prieto:	es que no se el orden de las cosas, ni lo de la <a>
+01:50:08	Naika Rasquin:	exacto tocara ver la grabación
+01:50:14	Fede Prieto:	y despues lo otro ni lo entendi
+01:50:15	[Tutor] José Antonio:	despues la deben ver de nuevo para ir copiando
+01:50:28	Guido:	estoy mas perdido que lost ahajajajja
+01:50:29	Ailen Vera:	href que es?
+01:50:32	[Tutor] José Antonio:	si quieren ver la clase, entender y seguir el ritmo con el codigo no se puede
+01:50:41	Valentin Tur:	un atributo ailen
+01:50:46	[Tutor] Matías Ezequiel Espinosa:	href: hypertext reference: hipervinculo
+01:50:47	Fede Prieto:	jajajja somos 2 en lost
+01:50:47	[Tutor] José Antonio:	href es un atributo de la etiqueta a
+01:50:51	Guido:	el atributo del enlace
+01:50:55	Naika Rasquin:	es mejor ver la clase con atención y luego ver la grabación y hacer el código
+01:51:02	Franco Cirulli:	Hola, pido mil disculpa me retrase, después veo varias veces esta clase, mil disculpas!!!!
+01:51:03	[Tutor] José Antonio:	exacto como dice Naika
+01:51:06	Lisandro:	todavia no comprendo para que puntualmente sirve la etiqueta nav
+01:51:07	leandro liquori:	varia algo la mayúscula y la minuscula
+01:51:09	leandro liquori:	?
+01:51:09	Rodrigo MARTEL:	no me sale el anchor
+01:51:14	Ailen Vera:	gracias!
+01:51:24	Valentin Tur:	es solo la <a> rodri
+01:51:25	leandro liquori:	es decir, el sistema lo toma igual si en un lado esta en mayúscula y otro en minúscula ?
+01:51:26	Fede Prieto:	ya despues veo la clase entonces
+01:51:34	Rodrigo MARTEL:	ya me salio jaja
+01:51:37	Fede Prieto:	no entiendo nada
+01:51:41	Martin Tascione:	Entiendo el código, me pierdo con el los ejemplos
+01:51:45	Enrique Cherot:	Che Fede, que no entendes?
+01:51:47	[Tutor] José Antonio:	la etiqueta nav solo se usa para tener mas semantica, para que tenga mas siginificado
+01:51:47	Lucas Labriola:	el link
+01:51:49	Alejandro Cuadrado:	tienda.html
+01:51:51	Jose Cortes Sierra:	tienda.html
+01:51:51	Christian Toppetti:	TIENDA.HTMLK
+01:51:51	Matias Roldan:	la pagina
+01:51:52	[Tutor] José Antonio:	que ahi ira el nav
+01:51:53	Guido:	tienda.html
+01:51:54	[Tutor] Matías Ezequiel Espinosa:	nav significa que dentro de esa etiqueta va a haber algo navegable.  La etiqueta por si no hace nada, es semántica, o sea, que su nombre noos orienta de que deberá o que encontraremos dentro
+01:51:56	Agustin Garcia:	ruta
+01:51:56	Julio Vargas:	VISTAS
+01:52:01	Agustin Cabrera:	vistas/tienda.html
+01:52:02	[Tutor] Matías Ezequiel Espinosa:	nav significa que dentro de esa etiqueta va a haber algo navegable.  La etiqueta por si no hace nada, es semántica, o sea, que su nombre noos orienta de que deberá o que encontraremos dentro
+01:52:05	Diego Chavez:	chicos, sigan mirando después la repasan tranquilos no se preocuppen
+01:52:11	Franco Cirulli:	Hola jose, pido mil disculpa me retrase, después veo varias veces esta clase, mil disculpas!!!!
+01:52:20	[Tutor] Matías Ezequiel Espinosa:	no pasa nada franco
+01:52:20	Diego Chavez:	siempre toca mirar las clases otra vez
+01:52:21	[Tutor] José Antonio:	no pasa nada Franco
+01:52:28	[Tutor] Matías Ezequiel Espinosa:	mando de nuevo por si se les fue
+01:52:29	[Tutor] Matías Ezequiel Espinosa:	nav significa que dentro de esa etiqueta va a haber algo navegable.  La etiqueta por si no hace nada, es semántica, o sea, que su nombre noos orienta de que deberá o que encontraremos dentro
+01:52:30	Lisandro:	digamos que nav sirve como para ordenar puntualmente dar nocion de que ahi dentro hay enlaces?
+01:52:44	[Tutor] Matías Ezequiel Espinosa:	si lisan
+01:52:48	Rodrigo MARTEL:	ya somos hay que ver otra ves las calses
+01:52:50	Lisandro:	Gracias <3
+01:52:52	[Tutor] Matías Ezequiel Espinosa:	son semanticas
+01:53:02	[Tutor] Matías Ezequiel Espinosa:	la semántica se encarga del significado de las cosas
+01:53:04	Yannick Daniel:	hacia el html de contacto
+01:53:05	Agustin Garcia:	hacia contacto
+01:54:05	Matias Perrone:	Es decir que la carpeta imágenes debería estar dentro de la carpeta raíz del proyecto, correcto?
+01:54:12	Lisandro:	claro
+01:54:15	[Tutor] José Antonio:	si Matias
+01:54:23	Matias Perrone:	👍
+01:55:01	Lisandro:	los absolutos estan fuera del servidor y los relativos estan dentro
+01:55:11	[Tutor] Matías Ezequiel Espinosa:	fuera de tu proyecto
+01:55:20	Lisandro:	eso
+01:55:37	[Tutor] Matías Ezequiel Espinosa:	aca atención, esto es fundamental
+01:55:50	Matias Perrone:	Pones tienda.html después del =?
+01:55:54	Enrique Cherot:	pones /
+01:55:59	cristian caballero:	vistas/tienda.html
+01:56:01	Enrique Cherot:	y te lleva
+01:56:09	[Tutor] Matías Ezequiel Espinosa:	miren ahora como lo ahce el profe
+01:56:12	[Tutor] Matías Ezequiel Espinosa:	hace
+01:56:51	Franco Cirulli:	eso seria para una dirección de carpeta
+01:57:24	[Tutor] Matías Ezequiel Espinosa:	La regla es que tienen que observar siempre donde están posicionados y a donde quieren ir. Depende de si esta en una carpeta dodne debemos ingresar o una de la que debemos salir, veremos el como
+01:57:27	Enrique Cherot:	Pregunta, a mi me funciona también sólo con "/"
+01:57:33	Enrique Cherot:	cambia en algo?
+01:57:48	[Tutor] Matías Ezequiel Espinosa:	podes hasta no ponérselo, pero mejor usen ./
+01:58:20	[Tutor] Matías Ezequiel Espinosa:	La regla es que tienen que observar siempre donde están posicionados y a donde quieren ir. Depende de si esta en una carpeta dodne debemos ingresar o una de la que debemos salir, veremos el como. VSC es muy intuitivo
+01:58:20	Lisandro:	puede ser que funcione no solamente con "./"
+01:58:29	[Tutor] Matías Ezequiel Espinosa:	si, pero usen ./
+01:58:38	Lisandro:	oka
+01:59:04	[Tutor] Matías Ezequiel Espinosa:	li*3
+01:59:11	Agustin Garcia:	Si colocamos <a href= "vistas/tienda.html"> no seria lo mismo ?
+01:59:15	Ailen Vera:	me hace acordar a cuando fb andaba mal jajajaja esos links feos que habia
+01:59:15	Christian Toppetti:	Porque tiene que ir adentro de una lista?
+01:59:35	Joaquín Gómez:	siempre se leen las carpetas de abajo para arriba?
+01:59:39	[Tutor] Matías Ezequiel Espinosa:	si agustin, pero usamos ./
+01:59:58	[Tutor] Matías Ezequiel Espinosa:	no necesariamente Joaco
+02:00:05	Joaquín Gómez:	a oka
+02:00:06	Agustin Garcia:	me podrían explicar cual seria la diferencia ? Gracias
+02:00:30	leandro liquori:	me recuerda como hacer para que el click este en varios renglones
+02:00:38	[Tutor] Matías Ezequiel Espinosa:	no hay diferencia xD, los acepta a ambos, pero es mas de uso común el ./
+02:00:39	leandro liquori:	y escribir al mismo tiempo en varias lineas
+02:00:50	[Tutor] Matías Ezequiel Espinosa:	alt+click donde quieras escribir
+02:00:58	[Tutor] Matías Ezequiel Espinosa:	escritura multilinea
+02:01:06	Lisandro:	consulta, el nav puede ir en el footer en caso de que quiera poner links ahi tmb
+02:01:08	Ailen Vera:	si quisiéramos agrandar la tipografía donde va el h1?
+02:01:12	Agustin Garcia:	Perfecto gracias
+02:01:15	Ailen Vera:	el h1 es un ejemplo
+02:01:23	Lucas Labriola:	OKKK
+02:01:24	[Tutor] José Antonio:	pero cual es la pregunta Ailen
+02:01:26	Ailen Vera:	aah listo perdón jajajaja
+02:01:28	ozapata:	Por que uno en mayusculas y otros no?
+02:01:35	ozapata:	Aah ok, ok
+02:01:36	Diego Chavez:	css es la esteica !!
+02:01:40	Agustin Cabrera:	escribirlo todo en un solo reglon estaria mal ?
+02:01:47	[Tutor] José Antonio:	que cosa Agustin_
+02:01:50	[Tutor] José Antonio:	?
+02:01:51	Agustin Cabrera:	lo siento mas prolijo a nivel visual 
+02:01:55	ozapata:	Ahhhh okis
+02:02:00	Agustin Cabrera:	a cada linea de enlace 
+02:02:02	Lucas Labriola:	clarisimo
+02:02:07	Diego Chavez:	despues le das las forma con css
+02:02:07	[Tutor] Matías Ezequiel Espinosa:	se hacen en una lista los links porque son un conjunto de secciones de nuestra pagina que tienen el mismo fin que es ayudarnos a navegar. Lo que hacemos es listarlos, por eso van dentro de una lista
+02:02:11	Joaquín Gómez:	una pregunta tenemos que tener todos esos tipos de carpetas? vistas, imgs, etc
+02:02:15	[Tutor] José Antonio:	ah ya, si , van en una sola linea, pero eso se hace con css
+02:02:23	[Tutor] Matías Ezequiel Espinosa:	si joaco
+02:02:23	Diego Chavez:	herencia ?
+02:02:25	Lisandro:	consulta, el nav puede ir en el footer en caso de que quiera poner links ahi tmb
+02:02:27	Joaquín Gómez:	oka
+02:02:31	[Tutor] Matías Ezequiel Espinosa:	esta bueno que jerarquicen el contenido
+02:02:43	[Tutor] Matías Ezequiel Espinosa:	a medida que crezca el proyecto sino va a ser un quilombo
+02:02:56	Lisandro:	no va funcionar
+02:02:57	Lisandro:	no
+02:02:57	Valentin Tur:	no
+02:02:58	Ingrid Aguero Tello:	no
+02:02:58	Juan Estellano:	no
+02:02:59	Alejandro Cuadrado:	no
+02:02:59	Gonzalo Pompei:	no
+02:03:00	Juan Estellano:	}esta mal la ruta
+02:03:01	Lisandro:	es diferente
+02:03:02	Leandro Saubiette:	si
+02:03:02	Diego Chavez:	no
+02:03:02	Ramiro Guitart:	NO
+02:03:03	Dylan Marsili:	No
+02:03:04	ozapata:	no
+02:03:05	Veronica Araque Franco:	NO
+02:03:09	Lisandro:	no es lo mismo ir para Adelante que ir para atras
+02:03:11	Dylan Marsili:	xq estamos en la misma carpeta
+02:03:15	Lisandro:	referido al codeo
+02:03:15	cristian caballero:	falta para volver al inicio
+02:03:20	Fede Prieto:	Perdon Mati, yo no entiendo casi nada de lo q vimos en esta clase.
+02:03:23	Matias Perrone:	Ademas falta uno para ir a inicio (index.html)
+02:03:25	Alejandro Cuadrado:	404 🥺
+02:03:33	Lisandro:	../
+02:04:05	[Tutor] Matías Ezequiel Espinosa:	si mati
+02:04:30	[Tutor] Matías Ezequiel Espinosa:	.. (salgo)
+02:04:40	Leandro Saubiette:	Para dar solucion a esta problemática se puede utilizar la ruta empezando con “/“. Por ej /vistas/…
+02:04:41	[Tutor] Matías Ezequiel Espinosa:	/ entro a
+02:04:49	Yannick Daniel:	para que sirve la etiqueta <nav>?
+02:04:50	[Tutor] Matías Ezequiel Espinosa:	tambien leandro
+02:04:50	Leandro Saubiette:	Siempre entraría por la raiz
+02:04:52	Christian Toppetti:	cada . vendría a ser una jerarquía mas arriba?
+02:05:02	Olinda Mayor:	osea ../ te lleva  a la carpeta raíz?
+02:05:16	[Tutor] Matías Ezequiel Espinosa:	nav significa que dentro de esa etiqueta va a haber algo navegable.  La etiqueta por si no hace nada, es semántica, o sea, que su nombre noos orienta de que deberá o que encontraremos dentro
+02:05:17	Alejandro Cuadrado:	se puede utilizer../ para todos o no es una Buena practica?
+02:05:17	Juan Estellano:	../ te muestra todos los archivos existentes en la carpeta?
+02:05:17	[Tutor] José Antonio:	no, te saca un nivel Olienda, un nivel menos
+02:05:22	Camila Besse:	../
+02:05:23	Lisandro:	profe consulta no deberian estar siempre todos los enlaces en todas las paginas o eso depende de cada uno
+02:05:27	Valentin Tur:	solo escribir el nombre
+02:05:27	Rocío Capelli:	borrar tienda
+02:05:29	Dylan Marsili:	sacar vistas/
+02:05:31	[Tutor] Matías Ezequiel Espinosa:	Olinda: sale de esa carpeta
+02:05:40	Olinda Mayor:	ah ok, gracias
+02:05:43	Diego Chavez:	eso es herencia de templates
+02:05:47	Diego Chavez:	creo que se ve mas adelante
+02:06:04	Alejandro Cuadrado:	se puede utilizar../ para todos o no es una Buena practica?
+02:06:27	Franco Cirulli:	Creo que no, te puede llegar a dar errores por diferentes carpetas (Creo yo)
+02:06:33	[Tutor] Matías Ezequiel Espinosa:	nono ale
+02:06:50	[Tutor] Matías Ezequiel Espinosa:	.. es para ir un nivel atras
+02:07:07	[Tutor] José Antonio:	exacto, un solo ./ es para ir al siguiente nivel
+02:07:09	Alejandro Cuadrado:	entendido, tiene sentido
+02:07:19	Sergio Ariel Riveros:	Profe, disculpe, no me quedó claro el xq copio y pegó en otro html
+02:07:22	[Tutor] Matías Ezequiel Espinosa:	ctrol c copiar
+02:07:24	[Tutor] José Antonio:	./ = subo un nivel ../regreso un nivel
+02:07:26	[Tutor] Matías Ezequiel Espinosa:	ctrol v pegar
+02:07:33	Camila Besse:	por que hay que enlazar todos los links
+02:07:46	[Tutor] Matías Ezequiel Espinosa:	porque sino cami te queda encerrada en una pagina
+02:07:50	[Tutor] Matías Ezequiel Espinosa:	y como salis de ahi?
+02:07:50	Rodrigo MARTEL:	como se guarda
+02:07:55	[Tutor] Matías Ezequiel Espinosa:	ctrol+s
+02:07:56	[Tutor] José Antonio:	ctrl + s
+02:07:58	Camila Besse:	sisi, le decía a un compañero que pregunto xq copio y pego
+02:08:05	[Tutor] Matías Ezequiel Espinosa:	ah jajja ok xD
+02:08:32	Joaquín Gómez:	no entendi voy a tener que ver esta parte otra vez
+02:08:36	[Tutor] Matías Ezequiel Espinosa:	intenso hoy, no?
+02:08:43	Lucas Labriola:	Me lleva a todos menos a equipo
+02:08:44	Guido:	mas que intenso perdido
+02:08:45	Fede Prieto:	Si mATI
+02:08:46	Lucas Labriola:	desde inicio
+02:08:52	Franco Pedrozo:	pregunta, quien seria el tutor Christian Fernandez Juncal? porque es el que me asignaron y no lo veo
+02:08:58	[Tutor] Matías Ezequiel Espinosa:	tranca, esta clase es asi, despues véanla tranqui
+02:09:03	Agustin Garcia:	Si quiero usar como enlace una imagen, eso ya entra en css ?
+02:09:06	Naika Rasquin:	el profe va volando
+02:09:07	Ingrid Aguero Tello:	veo que no soy la unica que se perdió jaja
+02:09:09	Fede Prieto:	No entendi nada y me perdi en todo
+02:09:12	Rodrigo MARTEL:	me sale ee
+02:09:14	Anahí Calvagna:	Si profe, a mi me anda mal el wifi y también estoy un poco pedida
+02:09:16	[Tutor] José Antonio:	ese debe ser tu tutor corrector Franco
+02:09:18	Rodrigo MARTEL:	me sale error
+02:09:21	[Tutor] Matías Ezequiel Espinosa:	ya lo veremos agus
+02:09:25	Fede Prieto:	Ya despues vere la clase 100 veces o y pedire ayuda
+02:09:27	leandro liquori:	puede mostrar todos los HTML nuevamente por favor?
+02:09:44	Agustin Cabrera:	<li><a href="./vistas/equipo.html">EQUIPO</a></li> 
+
+escribirlo asi e un reglon estaria mal ??? 
+02:09:47	Camila Besse:	hay grupo de whatsapp al final ?
+02:09:58	Joaquín Gómez:	me imagino el html de los que crean contenido en wikipedia
+02:09:59	[Tutor] José Antonio:	creo tienen un grupo de discord
+02:10:01	[Tutor] José Antonio:	Camila
+02:10:14	Leandro Saubiette:	Consulta, es correcto utilizar el h1 dentro del header?
+02:10:17	[Tutor] José Antonio:	aunque es mas facil un grupo de whatsapp
+02:10:26	Franco Cirulli:	Camila https://discord.gg/aGazmRJp
+02:10:29	Yannick Daniel:	si tenemos un grupo de discord
+02:10:30	Franco Cirulli:	ese es el grupo de discord
+02:10:33	guille faccini:	armemos un grupo de wpp
+02:10:35	Franco Cirulli:	Privado de la clase
+02:10:40	Juan Estellano:	gente les recomiendo que vean las diapositivas antes de empezar la clase, sino los agarra desprevenidos
+02:10:43	Thiago Marsili:	este visual lo van a subir a la plataforma?
+02:10:44	Fede Prieto:	Sii Guille
+02:10:45	guille faccini:	o telegram
+02:10:46	Erick Enriquez:	Yo apoyo la idea del grupo de wpa 
+02:10:52	Guido:	yo también
+02:10:53	[Tutor] José Antonio:	exacto Juan
+02:10:53	Erick Enriquez:	como dice Guille 
+02:10:54	Fede Prieto:	Apoyo la idea de wsp
+02:10:56	Rodrigo Penesi:	wspp
+02:10:58	ozapata:	WhatsApp tambien
+02:11:01	[Tutor] José Antonio:	no spamen D:
+02:11:06	Diego Chavez:	https://discord.gg/XGCD8vaN
+02:11:08	Diego Chavez:	discord
+02:11:10	Joaquín Gómez:	yo apoyo la idea del grupo de wpp porque hay gente que no sabe usar discord
+02:11:13	ozapata:	+541128061694
+02:11:15	Thiago Marsili:	este visual lo van a subir a la plataforma?
+02:11:20	Maria luz Arduh:	eso hagamos grupo de wspp
+02:11:23	Rodrigo Penesi:	3584298362
+02:11:28	Camila Besse:	por discord podríamos dejar nuestros números asi no interrumpimos la clase
+02:11:37	Joaquín Gómez:	si eso
+02:11:39	Fede Prieto:	pasen x Discord los numeros
+02:11:39	[Tutor] José Antonio:	asi como dice Camila cx
+02:11:42	Fede Prieto:	No por aca
+02:11:44	[Tutor] Matías Ezequiel Espinosa:	ASISTENCIA PASADA
+02:11:45	guille faccini:	joyaa
+02:11:46	Guido:	no se usar discord
+02:11:55	Jerónimo González:	Perdón.Se me desconectó un instante, pero me cambié de disposiivo
+02:11:56	Joaquín Gómez:	joya
+02:11:56	Rodrigo Penesi:	no estoy en mi pc
+02:12:02	Franco Cirulli:	Discord seria menos privado, mas abierto, mas funcione, canales que no molesta a las peronas.
+02:12:11	Lucas Tedesco:	Despues del ./ me aparecen las carpetas pero no logro crear los links de contacto, equipo, etc. me dice que no existe
+02:12:12	Lucas Labriola:	Profe, como hago para ir de equpo a inicio nuevamente
+02:12:15	ozapata:	Presente Orlany Zapata
+02:12:51	Agustin Garcia:	Lucas capaz que te falto un punto
+02:12:56	Carla Peiovich:	pueden pasar el link de discordd porfavorrr
+02:13:16	Mikaela Sanchez:	como se pasa la asistencia?
+02:13:28	Naika Rasquin:	Whatsapp  también
+02:13:32	Agustin Garcia:	cuando estas dentro de una de las carpetas ingresas solamente como "contacto.html "
+02:13:34	Camila Besse:	https://discord.gg/XGCD8vaN
+02:13:52	Juan Estellano:	que seria una información que tiene sentido
+02:14:13	ozapata:	exacto, que tipo de información?
+02:14:16	Lucas Tedesco:	por ejemplo pongo../ y el nombre que quiero, y ahi creo un nuevo link_
+02:14:20	Enrique Cherot:	por ejemplo las páginas donde están las cotizaciones del dolar
+02:14:25	Enrique Cherot:	es una tablaç
+02:14:33	Juan Estellano:	grande enrique
+02:17:08	Elizabeth Rivarola:	no me deja entrar al discord y me llegó un mail de que eliminaron mi celular de mi cuenta ¿¿¿¿
+02:17:13	Elizabeth Rivarola:	pueden sacar lo de la verificación?
+02:17:45	Guido:	negrita es css?
+02:17:59	Alejandro Cuadrado:	la data sintetizada de Wikipedia es una table correcto?
+02:18:10	Christian Toppetti:	los atributos se lo podes agregar a cualquier etiqueta?
+02:18:35	Franco Cirulli:	(No relacionado) La gente que quiere unirse al grupo de WPP este es https://chat.whatsapp.com/DQZmm3yLQCwAuRSEXsxYSE
+02:18:38	Alejandro Cuadrado:	donde tienes por ejemplo edad y pais de nacimiento y todo eso
+02:18:48	Yannick Daniel:	https://chat.whatsapp.com/DQZmm3yLQCwAuRSEXsxYSE
+02:18:49	[Tutor] José Antonio:	si Christian, pero normalmente cada etiqueta tiene ciertos atributos
+02:18:52	Yannick Daniel:	grupo whatsapp
+02:19:19	Matias Perrone:	Tienen que ir obligatoriamente una linea, una tabla, una linea, una tabla y así?
+02:19:33	Matias Perrone:	O puedo codear todas las líneas y luego todas las tablas?
+02:20:10	ozapata:	puedo sumar filas sin tener que ingresar manualmente?
+02:20:29	Camila Besse:	con css y JavaScript
+02:20:34	Lucas Labriola:	no me andan esos comandos xd
+02:20:57	Lisandro:	se puede meter dato o datos via links en las columnas y que se actualicen automaticamente
+02:20:59	Lisandro:	?
+02:21:17	Lisandro:	oka
+02:21:21	Gonzalo Pompei:	por que no me lo sugiere el atrubuto cunado escribo cell
+02:21:22	Lisandro:	perfect messirve
+02:21:26	Joaquín Gómez:	messirve
+02:21:47	Alejandro Cuadrado:	primero vemos y despues, profe… rompi todo XD
+02:21:51	[Tutor] José Antonio:	no siempre te debe sugerir Gonzalo
+02:21:55	Gonzalo Pompei:	ok
+02:21:56	Juan Hernandez Lobato:	😂
+02:21:58	Lisandro:	oka
+02:21:59	Lisandro:	jaja
+02:22:00	Jacob Mora Ramírez:	xd
+02:22:02	Joaquín Gómez:	tenemos alguna clase para responder dudas sobre nuestro proyecto?
+02:22:05	Juan Hernandez Lobato:	esta bien profe
+02:22:08	Joaquín Gómez:	o hacer revision
+02:22:08	Romina Gentile:	consulta, para realizar un calendario usaríamos lo mismo? por ej para tomar turnos
+02:22:10	Diego Chavez:	i las de apoyo
+02:22:13	ozapata:	latigo!
+02:22:14	Diego Chavez:	si**
+02:22:20	Diego Chavez:	el lunes creo que es
+02:22:28	Gonzalo Pompei:	Gracias Jose
+02:22:41	Enrique Cherot:	y no se le puede poner el border y padding dentro de el atributo Style?
+02:23:07	[Tutor] José Antonio:	si enrique, pero eso es css , se vera mas adelante
+02:23:49	Christian Toppetti:	Si o si el header en TODOS los html?
+02:23:51	Thiago Marsili:	este visual lo van a subir a la plataforma?
+02:23:53	[Tutor] Matías Ezequiel Espinosa:	SI
+02:23:56	Christian Toppetti:	que pasa si no
+02:24:17	Julio Vargas:	No me tomo ni recomendó los atributos cellspacing ni cellpading.
+02:24:20	Joaquín Gómez:	si no lo tenemos estamos atrasados nomas 
+02:24:32	[Tutor] Matías Ezequiel Espinosa:	en si nada, pero se supone que en cada pagina tenes una parte de encabezado, una de contenido principal y una de pie de pagina
+02:24:35	ozapata:	si por favor
+02:24:38	Jairo Davila:	no puedo colocar el border
+02:24:40	ozapata:	un break
+02:24:47	guille faccini:	si dale asi me fumo un puchin
+02:24:48	Lucas Labriola:	no me deja colocar el border
+02:24:48	Ramiro Guitart:	gracias
+02:24:53	Valentin Tur:	oka
+02:24:54	ozapata:	10 minutos porfa
+02:24:54	Thiago Marsili:	a mi no me pusieron la asistencia
+02:24:54	Yannick Daniel:	perfecto
+02:24:55	Lucas Labriola:	no me toma el atributo
+02:24:55	ozapata:	ok
+02:25:01	Andre Abreo:	consulta por lo que he visto en las web los menus no borra la pagina donde estas situado. Está bien eso o lo hacemos como lo acabamos de ver borrando la pagina donde estamos del menu?
+02:25:04	Rodolfo Garavano:	Profe podría dejar su pantalla en proyecto?
+02:25:19	Olinda Mayor:	los HTML de vistas siempre van dentro de un nav?
+02:25:34	Carla Peiovich:	a mi no me toman la asistencia hace dos clases
+02:25:40	Carla Peiovich:	estuve presente en las dos
+02:25:48	Carla Peiovich:	y tengo el nombre igual que en coder
+02:25:52	Valentin Tur:	es automatico carla
+02:25:52	ozapata:	Si por favor, repita los nombres de la asistencia, porque me enfoco en la clase y no en el chat
+02:25:54	ozapata:	por favor
+02:25:59	Jairo Davila:	no me toma el atributo border
+02:26:08	Mikaela Sanchez:	Mikaela Sanchez
+02:26:22	Ailen Vera:	profe le puedo preguntar algo?
+02:26:24	ozapata:	Orlany Zapata presente!!
+02:26:24	leandro liquori:	En el vsc que los atributos esten en minúscula o mayúscula afecta en algo?
+02:26:31	Ailen Vera:	o después no importa
+02:26:32	[Tutor] Matías Ezequiel Espinosa:	no necesitan pasarlo por aca, ténganlo bien puesto en zoom
+02:26:35	Thiago Marsili:	Thiago Marsili Presente
+02:26:42	[Tutor] Matías Ezequiel Espinosa:	ozapata, cámbiate el nombre
+02:26:44	Enriquej:	Marllury Romero aqui
+02:26:45	Carla Peiovich:	ya se que es automatico, hice otros cursos en coder. pero nose porque no me toma
+02:26:51	Christian Toppetti:	Christian Toppetti - presente
+02:26:54	[Tutor] Matías Ezequiel Espinosa:	marllury igual
+02:26:58	ozapata:	POr que me lo debo cambiar?
+02:26:58	Christian Toppetti:	en la plataforma no me aparece el presente
+02:27:02	Enrique Cherot:	Se supone que si estás ahí se cambia para el "Inicio"
+02:27:08	[Tutor] Matías Ezequiel Espinosa:	porque no figuras asi en la plataforma
+02:27:12	ozapata:	bueno al terminar la clase veo como se hace
+02:27:27	Mathias Carrozzino:	Jairo no te preocupes en dar estilo a la tabla ahora, eso de da con CSS mas adelante. El profe lo hace para que se note la tabla simplemente.
+02:27:31	Andre Abreo:	ah si eso los he visto
+02:27:38	ozapata:	es decir que no tengo asistencias anteriores?
+02:28:11	Alejandro Hurtado:	Es necesario poner el nave en todos los .html?
+02:28:36	Enrique Cherot:	Si vas a poner un link, si
+02:28:36	Lucas Aballay:	se puede compartir el index.html para que otros puedan usarlo desde el navegador?
+02:28:45	[Tutor] Matías Ezequiel Espinosa:	preguntale a tu tutor, pero si el bot de la plataforma no te toma porque no tenes bien puesto el nombre y despues cuando te buscamos manualmente debemos adivinar si sos o no, posiblemente se cometa algún error
+02:28:59	Lucas Aballay:	nonono decía para que veas como funciona
+02:29:01	Mathias Carrozzino:	Si Alejandro es la manera que va a tener el usuario para navegar en las diferentes partes de tu web.
+02:29:07	Christian Toppetti:	coderhosue me notifico la asistencia pero me aparece solo 1
+02:29:09	Fede Prieto:	Profe pdrias bajar el codigo para abajo? Yo me perdi y asi puedo ver por debajo como sale?
+02:29:21	Guido:	en el body se úede tener un nav?
+02:29:51	Bryan Formento:	jose, una consulta, a la hora de armar el HTML a nivel de armado del sitio digamos, es mejor hacerlo con una tabla para sectorizar el sitio? o eso no va a ser necesario por el css?
+02:30:02	Lucas Labriola:	dentro de proyecto.html habría que reemplazar la ruta de proyecto por otra no??
+02:30:27	leandro liquori:	son ilimitados los nav dentro del HTML?
+02:30:29	Lucas Tedesco:	pongo ./contacto por ejemplo o ../contacto y no me crea el item tipo el <>index en naranja como en el ejemplo del profe
+02:30:45	Joaquín Gómez:	ya arrancaron?
+02:30:46	Veronica Araque Franco:	por favor alquien que me pueda indicar cual es el otro atributo además de el border y el cellspacing
+02:30:47	Christian Toppetti:	si quiero hacer la lista de navegación horizontalmente
+02:31:06	Enrique Cherot:	Chris con Css lo podes hacer
+02:31:12	Juan Estellano:	cuando decis información tabulable, a que te referis exactamente
+02:31:22	Christian Toppetti:	Gracias enrique
+02:31:29	Enrique Cherot:	igual cuando te enseñen Bootstrap
+02:31:31	Enrique Cherot:	te olvidas
+02:31:31	Juan Estellano:	tabulable es que tenga sentido ponerlo en una tabla?
+02:31:32	Bryan Formento:	perfecto, mas que claro, gracias!
+02:31:34	Enrique Cherot:	jajaja
+02:32:05	[Tutor] Matías Ezequiel Espinosa:	De mis alumnos asignados, nombres de la A a la JASISTENCIA PASADA ✅AUSENTES ❌:Benjamin SepúlvedaCarolina IglesiasEstephano OrbegosoGisel Cuevas
+02:32:31	Lucas Labriola:	perfecto graciass
+02:32:42	Joaquín Gómez:	que es el beneficio que obtenemos despues de la clase 6?
+02:32:43	[Tutor] José Antonio:	ASISTENCIA PASADA,alumnos no encontrados: Lautaro GabrielliLissandro FloresMariano Alejandro GarciaMarllury RomeroNicolas FernandezNicolás Pedrosa Orlany ZapataRom BaragiolaRomina GentileRonny GonzalezSantiago DrozdScarlet GuerraSoledad Toro-Tomas Espinola-Yoel Pastorsi no tienen el mismo nombre en zoom como en la plataforma, deben tener el mismo nombre, si si tienen el mismo nombre, mandanme un msj para ponerles la asistencia
+02:32:44	Ailen Vera:	pero no entiendo, siempre se pone ../ para salir para atrás?
+02:32:47	Joaquín Gómez:	o es secreto
+02:32:48	Veronica Araque Franco:	gracias
+02:32:51	[Tutor] José Antonio:	si Ailen
+02:32:58	Jairo Davila:	profe se me rompe cuanto estoy en tienda y quiero ir a proyecto
+02:33:03	Ailen Vera:	todos los links pueden llevar el ../?
+02:33:14	Ailen Vera:	para que se puedan saltear entre ellos?
+02:33:19	Bryan Formento:	Jairo, seguramente la ruta a donde apunta el href no sea correcta
+02:33:21	Juan Estellano:	listo profe, entendí perfectamente
+02:33:50	Bryan Formento:	deberías tener algo como a href=./vistas/tienda.html
+02:33:55	Guido:	puedo meter párrafos entre tablas?
+02:33:59	Maria Mazzoni:	para maquetar
+02:34:01	Guido:	perdón si mi pregunta fue media rara
+02:34:32	Christian Toppetti:	poner un hyperlink en una tabla tampoco es la idea no?
+02:34:37	Diego Chavez:	es form_as_p    form_as_table?
+02:35:54	Jacob Mora Ramírez:	xdd
+02:36:05	Lucas Labriola:	no me toma los atributos de border y cellespacing
+02:36:16	Lucas Labriola:	ah ok
+02:37:17	[Tutor] José Antonio:	ASISTENCIA PASADA,alumnos no encontrados: Lautaro GabrielliLissandro FloresMarllury RomeroNicolas FernandezNicolás Pedrosa Orlany ZapataRom BaragiolaRomina GentileRonny GonzalezSantiago DrozdScarlet GuerraSoledad ToroTomas EspinolaYoel Pastorsi no tienen el mismo nombre en zoom como en la plataforma, deben tener el mismo nombre, si si tienen el mismo nombre, mandanme un msj para ponerles la asistencia
+02:37:22	Lisandro:	no me la counter strike, tarde una banda en el super
+02:37:26	Lisandro:	Lisandro Flores presente
+02:37:33	Guido:	counter?
+02:37:36	Guido:	jajajaj
+02:37:45	Rodrigo Penesi:	gc?
+02:37:46	ozapata:	Orlany Zapata. Presente!
+02:37:53	[Tutor] José Antonio:	y porque tienes solo Lissandro aquí? 🧐
+02:38:04	[Tutor] José Antonio:	deben tener el mismo nombre que en la plataforma,
+02:38:11	[Tutor] José Antonio:	mandanme mensaje privado por su asistencia
+02:38:22	Enriquej:	Marllury Romero presente
+02:38:30	Enrique Cherot:	profe le quedo una <a
+02:38:42	Agustin Garcia:	hay dos <a, te va a dar error supongo
+02:39:08	ozapata:	En mi caso cambiare el nombre al terminar la clase, me confunde la plataforma y no quiero desconectarme sin querer.... Soy Orlany Zapata
+02:39:29	ozapata:	Por favor colocarme asistente
+02:40:28	[Tutor] Matías Ezequiel Espinosa:	Bueno, chicos, para la clase que viene, miren el onboarding. Los videos introductorios. Eso esta explicado ahi.
+02:40:43	[Tutor] Matías Ezequiel Espinosa:	Eso y el uso de todo, de como valorar etc.
+02:41:06	franco ferreyra bonnin:	no me toma los atributos de border y cellspacing
+02:41:18	Christian Toppetti:	A que te referís con elemento en linea
+02:41:20	[Tutor] Matías Ezequiel Espinosa:	guardaste?
+02:41:20	franco ferreyra bonnin:	por que será?
+02:41:28	Elizabeth Rivarola:	donde está el onboardin?
+02:41:37	Elizabeth Rivarola:	g
+02:41:44	[Tutor] Matías Ezequiel Espinosa:	recién explico, son los que ocupan el espacio de su propio contenido
+02:41:52	Lisandro Flores:	abajo
+02:41:53	Matias Perrone:	Al lado
+02:41:53	Lucas Labriola:	Abajo
+02:41:54	Enrique Cherot:	al lado
+02:41:55	Andre Abreo:	no abajo
+02:41:56	Ricardo Crausaz:	si
+02:41:56	Valentin Tur:	al lado
+02:41:57	Lucas Aballay:	quizás abajo
+02:41:57	leandro liquori:	Debajo
+02:41:58	Elizabeth Rivarola:	debajo
+02:41:58	Gonzalo Pompei:	al lado
+02:42:00	Christian Toppetti:	depende como funcione
+02:42:01	Christian Toppetti:	jaja
+02:42:02	Enrique Cherot:	hay espacio al lado
+02:42:02	guille faccini:	al lado
+02:42:02	Dylan Marsili:	abajo
+02:42:02	Boldrini Luciano:	ABAJO
+02:42:03	Alejandro Cuadrado:	creo que al lado
+02:42:05	Guido:	en ningún lado
+02:42:08	Elizabeth Rivarola:	JAJJA
+02:42:10	[Tutor] José Antonio:	cx
+02:42:11	Lisandro Flores:	toma mate
+02:42:14	Alejandro Cuadrado:	porque es una linea no?
+02:42:14	Enrique Cherot:	ja
+02:42:14	ozapata:	jajajajaj
+02:42:16	Lisandro Flores:	jajajaj
+02:42:17	Valentin Tur:	porque no es en bloque
+02:42:18	Yannick Daniel:	porque la referencia es la misma
+02:42:21	Elizabeth Rivarola:	pelao
+02:42:24	Lucas Aballay:	aaahh
+02:42:30	Agustin Garcia:	Es igual que Wikipedia, al inspeccionar podes hacer cambios pero al actualizarlo vuelve a la normalidad no ?
+02:42:41	Lisandro Flores:	y asi culmina mi Carrera como desarrollador web
+02:42:42	Elizabeth Rivarola:	sí
+02:42:43	Matias Perrone:	Podes usar el <br>
+02:42:50	Guido:	ajjajaja
+02:42:56	Enrique Cherot:	ojo con lo de Br
+02:42:57	Lisandro Flores:	nose
+02:42:57	Enrique Cherot:	abajo
+02:42:57	Yannick Daniel:	al lado
+02:42:58	Lisandro Flores:	jajaja
+02:42:58	Agustin Garcia:	al lado
+02:42:58	Guido:	abajo
+02:42:58	Juan Hernandez Lobato:	a lado
+02:42:59	Lucas Labriola:	AL LADO
+02:43:01	Enrique Cherot:	abajo
+02:43:01	guille faccini:	al lado
+02:43:02	Valentin Tur:	al lado
+02:43:02	Dylan Marsili:	abajo
+02:43:02	Camila Besse:	al lado
+02:43:03	Juan Estellano:	abajo
+02:43:04	Lucas Labriola:	next to
+02:43:05	Alejandro Cuadrado:	si no dan los pixels debe sere abajo
+02:43:06	Dylan Marsili:	abajo
+02:43:07	Elizabeth Rivarola:	JAJAJAJAJ
+02:43:09	Lisandro Flores:	JAJAJAJAJAJAJAJA
+02:43:10	Enrique Cherot:	porque no entra en el screen
+02:43:11	guille faccini:	lptm
+02:43:11	ozapata:	jajajajaja
+02:43:12	leandro liquori:	porque no hay mas espacio
+02:43:13	aylen fernandez genta:	me perdi jajajaj
+02:43:14	Lisandro Flores:	TROLEADOS.HTML
+02:43:14	Juan Estellano:	porque es resopnsive seria?
+02:43:17	Guido:	porque no se ve la etiqueta br?
+02:43:24	Fede Prieto:	Ayelen, somos 2 jajajaj
+02:43:25	[Tutor] Matías Ezequiel Espinosa:	la responsividad es otra cosas
+02:43:28	Enrique Cherot:	nah responsive es otra cosa
+02:43:30	aylen fernandez genta:	ahhhh
+02:43:32	aylen fernandez genta:	ahora si
+02:43:34	Lucas Labriola:	porque respeta el espacio
+02:43:35	Lucas Labriola:	esooo
+02:43:38	Camila Besse:	por que ocupa el ancho del navegador
+02:43:42	[Tutor] José Antonio:	inline es que todos van en la misma linea
+02:43:46	[Tutor] José Antonio:	si hay espacio
+02:43:51	Alejandro Cuadrado:	me siento como cuando emboco un resultado en la penca XD
+02:43:53	franco ferreyra bonnin:	no me toma los atributos de border y cellespacing
+02:43:57	Lisandro Flores:	AHHHHHHHH ta eso me perdi desp lo vuelvo a ver
+02:43:58	aylen fernandez genta:	jajajajaj
+02:44:03	Ricardo Crausaz:	elemento de linea ocupa solo el espacio que necesita, los elementos de bloque ocupan todo el espacio el ancho de la ventana
+02:44:04	Lucas Labriola:	no pasa nada franco
+02:44:05	[Tutor] Matías Ezequiel Espinosa:	la etiqueta br solo hace que se salte una linea (break), por eso no se ve
+02:44:07	leandro liquori:	depende de la disponibildad de espacio va a estar al lado o abajo
+02:44:21	Ailen Vera:	Franco, dijieron que eso lo vemos en css
+02:44:30	Ailen Vera:	no es importante ahora.
+02:44:38	[Tutor] Matías Ezequiel Espinosa:	en el chat de la plataforma les paso el enlace del onboarding
+02:44:41	Alejandro Cuadrado:	eso se convierte en bloque?
+02:44:42	Lautaro Rudaz:	para poner un div al lado de otro, es decir, como elemento de linea, cual es la manera mas pratica de hacerlo?
+02:44:45	Enrique Cherot:	uno abajo de otro
+02:44:49	Elizabeth Rivarola:	van a aparecer debajo del otro
+02:44:50	franco ferreyra bonnin:	Graxiasssssssssss
+02:44:54	Mathias Carrozzino:	el div lo "transforma" en un elemento en bloque
+02:44:56	Gonzalo Pompei:	pasa a ser en bloque por el conteneodr padre
+02:45:36	Lisandro Flores:	AHHHHHHHHHHHHHHHHHHHH YA ENTENDI
+02:45:39	Andre Abreo:	ahhhhhh ahora si aprendi porque cuando ponía el nombre del alumno me aparecia abajo y no en la misma fila
+02:45:40	Lisandro Flores:	vamo
+02:45:43	Joaquín Gómez:	una pregunta los anuncion en una pagina a que pertenecerian a js, css o el html
+02:45:45	Joaquín Gómez:	o niguno
+02:45:49	Juan Hernandez Lobato:	la importancia del div
+02:45:55	Alejandro Cuadrado:	claro, temenos una linea, dentro de un bloque
+02:46:02	Lisandro Flores:	psa lo mismo con section¿?
+02:46:14	Rocío Capelli:	ahora le encontré sentido al div
+02:46:31	guille faccini:	see yo tambiie jaja
+02:46:38	Alejandro Cuadrado:	el formulario debe tener ambas no?
+02:46:38	Joaquín Gómez:	por fin entiendo para que sirve el div
+02:46:40	[Tutor] Matías Ezequiel Espinosa:	https://laurachuburu.com.ar/elementos-de-linea-y-de-bloque/#:~:text=Una%20etiqueta%20de%20l%C3%ADnea%20es,aunque%20aparentemente%20tenga%20lugar%20suficiente).info
+02:47:09	[Tutor] José Antonio:	https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/ aquí hay otro de inline , block
+02:47:39	Guido:	me pasan de vuelta  el link de la info de coder
+02:47:40	Guido:	?
+02:48:34	Fede Prieto:	Guido, fijate x wsp el grupo
+02:48:36	Gonzalo Pompei:	inline-block
+02:48:42	[Tutor] Matías Ezequiel Espinosa:	De mis alumnos asignados, nombres de la A a la JASISTENCIA PASADA ✅AUSENTES ❌:Benjamin SepúlvedaCarolina IglesiasEstephano OrbegosoGisel Cuevas
+02:48:47	Guido:	no estoy en el gripo}
+02:48:52	Lautaro Rudaz:	Me pasan el link de wsp? Por favor
+02:48:56	[Tutor] Matías Ezequiel Espinosa:	Oka profe
+02:49:06	Dylan Marsili:	https://chat.whatsapp.com/DQZmm3yLQCwAuRSEXsxYSE
+02:49:11	Lautaro Rudaz:	Muchas gracias
+02:49:32	Ingrid Aguero Tello:	no esta funcionando el chat de la plataforma profe
+02:50:08	Valentin Tur:	ok
+02:50:18	Franco Pereyra:	https://chat.whatsapp.com/DQZmm3yLQCwAuRSEXsxYSE
+02:50:42	Lucas Labriola:	ok
+02:51:11	lucas de pasqua:	a soy re colgado no sabia que había un grupo jajaja
+02:51:26	Dylan Marsili:	también hay de discord
+02:51:44	Dylan Marsili:	WhatsApp: https://chat.whatsapp.com/DQZmm3yLQCwAuRSEXsxYSE
+02:51:45	Lautaro Rudaz:	si tienen el link del discord, joya
+02:51:49	Lautaro Rudaz:	jajajaja
+02:51:49	Elizabeth Rivarola:	https://discord.gg/AgSYra6D
+02:51:54	Lautaro Rudaz:	Graciass
+02:52:08	Elizabeth Rivarola:	😁
+02:52:32	Lucas Labriola:	🤡
+02:52:32	Lisandro Flores:	Cuanto dijo?!
+02:52:42	Dylan Marsili:	1600
+02:52:50	Lisandro Flores:	#surrender
+02:52:52	Alejandro Cuadrado:	te falto un 0
+02:52:55	Alejandro Cuadrado:	jajaja
+02:53:02	Alejandro Cuadrado:	10600 🤪
+02:53:04	Ramiro Guitart:	vot surrender
+02:53:13	[Tutor] Matías Ezequiel Espinosa:	un poco de lagrimas y a seguir
+02:53:21	Juan Hernandez Lobato:	vaya que un monitor adicional ayudaria mucho durante la clase
+02:53:21	Alejandro Cuadrado:	no no, aca no se rinde nadie!
+02:53:26	Lisandro Flores:	jajaja lo Bueno del profe es que es crudo pero lo hace con gracia
+02:53:35	Elizabeth Rivarola:	https://discord.gg/AgSYra6D
+02:53:47	Guido:	method y ennctype son atributos también?
+02:53:49	Dylan Marsili:	WhatsApp: https://chat.whatsapp.com/DQZmm3yLQCwAuRSEXsxYSEDiscord:https://discord.gg/AgSYra6D
+02:54:05	Ivan Fernandez:	el form siempre va a ir dentro de body?
+02:54:11	Christian Toppetti:	el header esta afuera del body?
+02:54:13	Guido:	todo va dentro del body
+02:54:14	[Tutor] José Antonio:	siempre Ivan
+02:54:30	leandro liquori:	pongo form y me salta solo con action
+02:54:31	Lautaro Rudaz:	Si Christian
+02:54:34	[Tutor] José Antonio:	si Chrisitan
+02:54:43	Joaquín Gómez:	no me acuerdo como era el comando algun tutor que me lo esccriba
+02:54:45	Joaquín Gómez:	pls
+02:54:56	Joaquín Gómez:	el que estamos viendo ahora+
+02:55:03	Lautaro Rudaz:	no. El header está dentro del body
+02:55:08	Lautaro Rudaz:	el head fuera
+02:55:10	Ailen Vera:	form?
+02:55:19	[Tutor] José Antonio:	cual comando Joaquin?
+02:55:19	Joaquín Gómez:	gracias
+02:55:31	Joaquín Gómez:	no lo leia se ve borroso por mi internet
+02:55:41	Diego Chavez:	es para obtener datos
+02:55:43	Joaquín Gómez:	el form jose
+02:55:51	Matias Perrone:	Uso el comando form y el único atributo que me aparece es action
+02:56:17	Diego Chavez:	estas usando html5?
+02:56:46	leandro liquori:	me pasa igual
+02:57:03	Rodrigo Penesi:	ami tambien
+02:57:14	Agustin Cabrera:	disculpen donde paso el presente ?
+02:57:14	Joaquín Gómez:	a mi no me aparece ningun atributo
+02:57:37	Christian Toppetti:	el método GET lo manda por la URL la data ?
+02:57:42	Juan Fajardo:	lo pueden añadir colocando el nombre del atriubuto
+03:00:40	Agustin Garcia:	abre otra pestaña
+03:00:56	Ailen Vera:	#??
+03:01:37	Ailen Vera:	ah listo, gracias
+03:03:51	Alejandro Cuadrado:	desde ahi mismo es que se agrega una limitante por ejemplo cuando tu clave a juro tiene que tener un simbolo? o que no puedes colocar numeros en nombre
+03:03:54	Christian Toppetti:	eso es lo que detecta el navegador para autocompletar mail/contraseña etc?
+03:07:07	Matias Perrone:	Si le sacas el name entonces ni siquiera esa información llega al servidor?
+03:07:27	[Tutor] Matías Ezequiel Espinosa:	Ahi te respondio
+03:07:35	Matias Perrone:	👍
+03:08:13	Camila Besse:	placeholder ?
+03:09:52	[Tutor] Matías Ezequiel Espinosa:	No le hace foco
+03:09:59	[Tutor] Matías Ezequiel Espinosa:	sin eso
+03:10:08	Luis Urán:	Eso funciona con la tabulación tambien?
+03:10:17	Guido:	id es el atributo=?
+03:10:21	Guido:	de name?
+03:10:24	Christian Toppetti:	y el atributo name del imput para que es?
+03:10:38	[Tutor] José Antonio:	id es su identificador y si, id es un atributo
+03:10:53	Jose Cortes Sierra:	Para que era el fieldset?
+03:11:33	[Tutor] José Antonio:	para agrupar todo dentro de un cuadrito
+03:11:39	[Tutor] José Antonio:	Jose Cortes
+03:11:56	[Tutor] José Antonio:	required
+03:12:24	Jose Cortes Sierra:	okay
+03:13:25	Ailen Vera:	increible
+03:13:44	[Tutor] José Antonio:	debe ser con elnombre , con el name
+03:13:46	Agustin Garcia:	con el tema de la edad y la fecha de nac, al ingresar que tengo 24 pero en la fecha de nac pongo que naci en el 2022 por lo que veo lo toma como bien, como lo validamos
+03:13:49	[Tutor] José Antonio:	id es para cuando ya se usa js
+03:14:45	Diego Chavez:	es para la base de datos ?
+03:14:55	Orlany Zapata:	wuaoo!
+03:15:12	Santiago Torres:	Y en un input de password se puede especificar minimo, máximo y también que requiera simbolos, mayus y minus?
+03:15:22	guille faccini:	que buena clase loco
+03:15:26	Diego Chavez:	si
+03:15:45	Joaquín Gómez:	desde el minuto 1
+03:16:01	Diego Chavez:	se e puede dar parámetros
+03:16:09	Diego Chavez:	al input
+03:17:39	Alejandro Cuadrado:	== $0 es simplemente un indicador de donde estamos paradops no?
+03:18:56	Orlany Zapata:	No entendí el 100% de la clase, pero estuvo genial! Me sentí mucho mas comoda, mucho mas aterrizada en relación a lo que se habla… Felicitaciones José sigue así! Muy buena metodología
+03:19:36	[Tutor] José Antonio:	👏
+03:20:34	Camila Besse:	valor
+03:20:40	Alejandro Cuadrado:	como estan vinculados masculino y femenino?
+03:21:19	[Tutor] José Antonio:	por el for type radio
+03:21:22	[Tutor] José Antonio:	Alejandro
+03:21:37	cristian caballero:	se puede poner hombre y mujer en el mismo div??
+03:22:28	Christian Toppetti:	o sea, el dato que manda es gender, después el valor que tenga gender depende del checkbox elegido
+03:23:31	Santiago Inza:	Los tengo que dejar, saludos. Muy buena la clase.
+03:23:53	Joaquín Gómez:	igualmente
+03:24:15	[Tutor] José Antonio:	buenas noches gente para los que ya se van 😴, normalmente las primeras clases duran unos minutos mas por todo el contenido a ver
+03:24:17	Valentin Tur:	heterocromia
+03:24:22	Benjamín Sepúlveda:	heterocromia crep
+03:24:29	Facundo Rivera:	disculpa profe pero tengo q salir, muy buena clase
+03:24:50	Fede Prieto:	cuando van a subir esta clase?
+03:25:12	Guido:	creo que la suben al rato
+03:25:14	[Tutor] José Antonio:	normalmente aparece unas horas después de que twermina la clase, pero para mas seguro mañana ya debe aparecer
+03:25:46	leandro liquori:	en el caso que tenga la opción de mostrar contraseña?
+03:25:58	Rodrigo Penesi:	cuantos días tenemos para ver las clases aprox?
+03:26:13	[Tutor] José Antonio:	las tienen para siempre Rodrigo
+03:26:20	Rodrigo Penesi:	listo cumpa
+03:26:30	Guido:	cumpa aajajajaj
+03:26:36	Fede Prieto:	jjajajaa
+03:26:51	Franco Pereyra:	me pueden pasar el enlace?
+03:26:51	[Tutor] José Antonio:	actividades no obligatorias, son para que practiquen ustedes
+03:27:00	Valentin Tur:	profe y como se hace para que aparezca como encuadrado el formulario? o se encuadra solo?
+03:27:07	[Tutor] José Antonio:	https://docs.google.com/presentation/d/1s9gNwYwhufsH405YUwyKYb3KAjzZoV2-Hszwx5vC4KE/edit#slide=id.g13ee3dfba4a_0_662
+03:27:27	Fede Prieto:	Profe, en las clases de apoyo, para los becados son obligatorias asistir?
+03:27:36	[Tutor] José Antonio:	no son obligatorias
+03:27:39	Ailen Vera:	perfecto, muchas gracias profe. Saludos
+03:27:50	[Tutor] José Antonio:	las after class son opcionales pero sirven mucho para repasar
+03:28:10	[Tutor] José Antonio:	:o
+03:28:11	Fede Prieto:	Perfecto profe
+03:28:12	Jacob Mora Ramírez:	nicer
+03:28:13	Jacob Mora Ramírez:	nice
+03:28:18	Rodolfo Garavano:	Cuando seria el after class?
+03:28:27	Jacob Mora Ramírez:	El lunes
+03:28:29	Jacob Mora Ramírez:	5 de diciembre
+03:28:31	Lucas Labriola:	lunes a las 20
+03:28:48	Micaela Mareco:	El after class también se graba?
+03:28:49	Lucas Labriola:	es de 20 a 21?
+03:28:50	Franco Cirulli:	Me tengo que ir disculpas! Nos vemos buenas noches a todos!
+03:28:54	[Tutor] José Antonio:	si, también se graba
+03:29:02	[Tutor] José Antonio:	Buenas noches gente 😴
+03:29:08	Micaela Mareco:	Buenisimo! Para poder repasarlo tambien
+03:29:12	Christian Toppetti:	Profe, estoy haciendo un imput tipo number y puedo escribir letras tambien
+03:29:16	Lucas Labriola:	perfecto!
+03:29:21	Orlany Zapata:	cuando es la primera evaluación?
+03:29:26	Romina Gentile:	Excelente clase!!
+03:29:28	Agustin Garcia:	con el tema de la edad y la fecha de nac, al ingresar que tengo 24 pero en la fecha de nac pongo que naci en el 2022 por lo que veo lo toma como bien, como lo validamos
+03:29:49	Guido:	profe me pasa el link
+03:29:50	Guido:	ese
+03:29:52	Naika Rasquin:	Gracias profe buena clase
+03:29:52	Guido:	de plataforma
+03:29:55	Lucas Tedesco:	donde encontramos la plantilla para leerla luego
+03:30:03	Rodrigo Penesi:	https://docs.google.com/presentation/d/1s9gNwYwhufsH405YUwyKYb3KAjzZoV2-Hszwx5vC4KE/edit#slide=id.g13ee3dfba4a_0_662
+03:30:15	Anahí Calvagna:	Hasta el jueves profes, ya debo irme!
+03:30:17	Lucas Tedesco:	gracias
+03:30:34	leandro liquori:	se le puede poner max
+03:31:30	Juan Estellano:	y se puede personalizar la alerta para que ponga que es para mayores de 18?
+03:31:44	Ricardo Crausaz:	si tengo 20 años, no puedo tener como fecha de nacimiento 2022
+03:31:45	Gonzalo Pompei:	es necesario que todo este dentro de DIVs?
+03:31:51	Agustin Garcia:	Yo lo que quiero saber en realidad es que a la hora de poner la edad en este caso 24 la fecha de nacimiento tendría que ser en el 1998. Pero si ponemos 2022 lo toma como bien. Yo quiero que me salte un mensaje de error ya que no coincide la edad con la fecha de nacimiento
+03:31:55	Matias Roldan:	hasta formulario de contacto hacemos?
+03:31:57	Agustin Garcia:	Creo que fui mas claro jaja
+03:32:16	[Tutor] José Antonio:	si Juan, pero eso es mas de JS , también aplica para ti Agustin
+03:32:38	Juan Estellano:	ah perfecto
+03:32:39	Marcos Davila:	Muchas gracias, buenas noches!
+03:32:45	Lucas Labriola:	buenasn oches
+03:32:46	Lucas Aballay:	profe a lo que me referia con la preguntta anterior era si se puede compartir el link del server o algo asi para que otros puedan ingresar a la pagina
+03:32:55	[Tutor] José Antonio:	Buenas noches , que descansen 😴
+03:33:09	Orlany Zapata:	Buenisimo!
+03:33:15	Orlany Zapata:	Me encantó
+03:33:17	Rodrigo MARTEL:	pipipipi
+03:33:19	[Tutor] José Antonio:	no olviden valorar la clase 👍
+03:33:29	Orlany Zapata:	como se valora la clase=?
+03:33:38	leandro liquori:	en el video de formularios explica todas las tabulaciones con sus atributos?
+03:33:42	[Tutor] José Antonio:	aparece ahi un cuadrito que dice valorar
+03:33:43	Andre Abreo:	ok por las dudas entonces me pongo hacer los 5 wireframe, el header, el footer, los nav y el formulario??
+03:33:44	Jacob Mora Ramírez:	Gracias Profe!!
+03:33:46	Christian Toppetti:	Nos vemos el jueves profe
+03:33:47	guille faccini:	buenass nochesss
+03:33:51	Guido:	graciasssss muy buenoooooo
+03:33:51	Lucila Allende:	Saludos
+03:33:53	natalia mansilla:	buenas noches
+03:34:08	gonzalo woitaszen:	el lunes no puedo a esa hora
+03:34:19	[Tutor] Matías Ezequiel Espinosa:	lo podes ver grabado
+03:34:19	Valentin Tur:	geniaaaaaal, nos vemoss
+03:34:24	Lucas Aballay:	perfecto, nos vemos la próxima clase
+03:34:25	gonzalo woitaszen:	gracias
+03:34:25	Matias Roldan:	gracias!buenas noches!
+03:34:25	Agustin Garcia:	Buenas nochesss
+03:34:26	Rodrigo MARTEL:	buenas noches
+03:34:26	Micaela Mareco:	Buenas noches
+03:34:27	Guido:	lunes que hora?4
+03:34:28	Gonzalo Pompei:	buenas noches, gracias
+03:34:29	[Tutor] José Antonio:	a mimir 😴
+03:34:29	Christian Toppetti:	Buenas noches
+03:34:33	Rocío Capelli:	buenas noches
+03:34:34	Jairo Davila:	buenas noches
+03:34:35	gonzalo woitaszen:	buenas noches
+03:34:35	guille faccini:	excelente claseee
+03:34:36	Orlany Zapata:	Adios
+03:34:37	Carlos Martín Rugnia:	buenas noches!!
+03:34:39	Franco Pereyra:	buenas noches
+03:34:39	Guido:	por xoom¡?
+03:34:42	onelio vasquez:	Buenas noches
+03:34:42	Santiago Torres:	buenas noches Jose, gracias
+03:34:42	Luis Urán:	Buenas noches
+03:34:44	Joan Flores Guillen:	cuídense bye

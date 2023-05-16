@@ -1,0 +1,684 @@
+01:16:38	Christian Toppetti:	Profe, el código que vamos haciendo se puede subir a algún lado para que lo revisen?
+01:16:40	leandro liquori:	Okey eso todavía no lo vimos cierto? jaja
+01:16:43	[Tutor] José Antonio:	Hola hola gente, buenas tardes 👋
+01:16:53	Rodrigo Penesi:	buenas tardes
+01:16:55	guille faccini:	si a mi me cuesta todavía lo de los formularios
+01:16:56	Camila Besse:	sisi
+01:16:56	Franco Cirulli:	Buenas José!
+01:16:56	Valentin Tur:	si
+01:16:58	Juan Pablo Silveira Gomez:	si
+01:17:03	guille faccini:	hasta los table vine bien jaja
+01:17:04	Lucas Aballay:	hola  jose
+01:17:11	[Tutor] José Antonio:	no Christian, es hasta que sea la primera pre entrega que ya te revisan y te corrigen el codigo
+01:17:21	guille faccini:	ojala pueda pero lo mas seguro es que tenga que laburar
+01:17:48	Franco Cirulli:	Yo voy a asistir al after, estoy medio atrasado, voy a ponerme al dia hoy, vere las clases re grabada
+01:18:08	Franco Pereyra:	buenas
+01:18:17	[Tutor] José Antonio:	tienen el fin de semana para ver las clases grabadas o repasar un poco antes del after o incluso antes de la próxima clase 👍
+01:18:28	Rodrigo Penesi:	alguno me puede pasar el link de discord?
+01:18:29	Franco Cirulli:	si!
+01:18:43	Franco Cirulli:	Rodrigo
+01:18:44	Franco Cirulli:	https://discord.gg/VyH4HbAh
+01:19:06	guille faccini:	si yo hoy vi la hora y media de la clase anterior y no llegue a ver devuelta lo de los formularios,pero el repaso de ver la clase, sirvió mucho
+01:19:17	Guido:	la etiqueta es img?
+01:19:22	Franco Cirulli:	Si
+01:19:23	Dylan Marsili:	Si
+01:19:31	Guido:	ok
+01:19:34	Julio Vargas:	Buenas noches, disculpen la demora.
+01:20:05	Guido:	la imagen va dentro del header?
+01:20:33	Camila Besse:	puede ir donde vos quieras , mientras este dentro del body .. todo ok
+01:20:54	Guido:	oka
+01:21:10	[Tutor] José Antonio:	la img va donde sea, dentro del header o dentro del body
+01:21:33	Guido:	gracias
+01:21:38	Andre Abreo:	en el header te sirve poner una img porque seria tu logo
+01:22:05	Franco Cirulli:	Aca tambien se puede poner links no?
+01:22:17	Andre Abreo:	si
+01:22:18	Valentin Tur:	si, el enlace
+01:22:48	Julio Vargas:	./
+01:23:06	JOSE CORTES SIERRA:	Y si pongo ../ sirve?
+01:23:10	JOSE CORTES SIERRA:	O con solo un .
+01:23:20	[Tutor] José Antonio:	con un solo ./ Jose cortes
+01:23:39	[Tutor] José Antonio:	con dos .. , osea ../ estas  saliendo un nivel
+01:23:46	Guido:	se puede escribir texto adentro de la imagen?
+01:24:18	Joaquín Gómez:	esta es la clase de itroduccion al css?}
+01:24:25	Joaquín Gómez:	introduccion*
+01:24:31	Christian Toppetti:	etiquetas de linea
+01:24:32	Valentin Tur:	elementos en linea
+01:24:33	Enrique Cherot:	lineal
+01:24:34	Lucas Aballay:	porque son de linea
+01:24:34	Agustin Cabrera:	elemento de linea
+01:24:35	Andre Abreo:	son de linea
+01:24:35	Lucas Labriola:	son de linea
+01:24:36	Leandro Saubiette:	Elemento en linea
+01:24:37	Gonzalo Pompei:	en lineaa
+01:24:58	leandro liquori:	elemento de líneas, necesitas div para que salga uno abajo del otro?
+01:25:30	Thiago Marsili:	se separa en divs me parece
+01:26:18	Andre Abreo:	ah yo me tranque ahi probando... quería poner un lick aquí dentro de la imagen para el enlace pero me lo pone abajo de la img
+01:26:43	Guido:	a mi me pasaba lo mismo
+01:27:07	Alejandro Cuadrado:	que formatos de audio se aceptan? y cuales son los recomendados?
+01:27:56	Christian Toppetti:	Que hace code?, se me cerro el zoom justo
+01:28:16	[Tutor] José Antonio:	los que si son aceptados son mp3 para audio y mp4 para video Alejandro
+01:28:36	Diego Chavez:	solo ese tipo de archivos ??
+01:28:44	Diego Chavez:	mo3 yy mp4?
+01:28:46	Gonzalo Pompei:	controls
+01:28:47	Guido:	le falta el atributo
+01:28:48	Lucas Labriola:	están juntas?
+01:28:52	Lucas Labriola:	aaaaaa
+01:29:08	Guido:	controls también para imag y audio?
+01:29:21	Lucas Aballay:	uhhhh buenisimooo
+01:29:21	[Tutor] José Antonio:	controls solo para video y audio
+01:29:27	Guido:	perfecto
+01:29:35	Ailen Vera:	Buenas
+01:29:43	Ailen Vera:	porque va esa etiqueta? controls
+01:30:00	Santiago Inza:	Como se hace para manejar el tamaño de las imágenes.
+01:30:03	leandro liquori:	las etiquetas de audio y video, también puede ir en cualquier lado como la etiqueta img? dentro del body obviamente
+01:30:13	Guido:	para que pueda funcionar el audio y el video
+01:30:17	[Tutor] José Antonio:	si Leandro
+01:30:20	Diego Chavez:	el tamaño se modifica con css
+01:30:25	leandro liquori:	👍
+01:30:38	[Tutor] José Antonio:	asi como dice Diego, para el tamaño de las img se usa css
+01:30:38	Nicolas Fernandez:	Consulta profe, cuando queremos poner un video en el banner principal, sin controles, con loop infinito, como se haría?
+01:30:48	Benjamín Sepúlveda:	se puede modificar sin css
+01:30:53	Benjamín Sepúlveda:	a no xD
+01:30:59	Lucas Labriola:	la img del logo es manipulable también???
+01:31:01	Guido:	no es css la modificasion
+01:31:04	guille faccini:	si le agrego otro atributo, van a estar los dos activos?
+01:31:05	Fede Prieto:	Hola buenas tardes, disculpen la demora, estaba sin luz.
+01:31:05	Diego Chavez:	todo
+01:31:16	Franco Cirulli:	Lucas si, con css se puede cambiar el tamaño!
+01:31:34	Diego Chavez:	con css elijes la resolución
+01:31:50	Diego Chavez:	que tu desees darle
+01:32:10	Lucas Labriola:	aaaa gracias!
+01:32:12	Nicolas Fernandez:	Si le pongo a la etiqueta “Video” autoplay y no le pongo “Controls”, queda en loop infinito?
+01:32:21	Nicolas Fernandez:	Sin que puedan pausarlo ni nada?
+01:32:37	Guido:	pregunta también para poner la imagen puedo sacar la barra de código de una img copiarla y pegarla en el atributo?4
+01:32:53	[Tutor] José Antonio:	habría que probar Nicolas
+01:32:56	Guido:	en inspecionar elemento
+01:32:58	Andre Abreo:	no me funciono el video que enrute q raro
+01:33:07	Guido:	pone controls
+01:33:17	JOSE CORTES SIERRA:	Como es que se hacia para ajustar el código si era muy largo?
+01:33:18	Diego Chavez:	fíjate que tiop de archivo es
+01:33:18	Guido:	el atributo para que te funcione
+01:33:24	Andre Abreo:	con la etiqueta video y controls y solo el reproductor vacio me aparece
+01:33:28	Valentin Tur:	alt z Jose
+01:33:46	Anahí Calvagna:	Algo hice mal porque no pude poner ni video ni img ni audio 😞
+01:34:15	Ronny:	y no modifica en nada
+01:34:42	Santiago Torres:	Se puede poner en autplay un video iframe?
+01:34:45	Lucas Labriola:	entendido
+01:34:50	Guido:	si lo descargo?4
+01:34:57	Franco Cirulli:	Anahí, pusiste el controls?
+01:35:34	Lucas Labriola:	miedo
+01:35:35	Lucas Labriola:	xd
+01:35:42	Franco Cirulli:	Jaja
+01:36:30	Anahí Calvagna:	Sisi lo puse, igual voy a repasa la clase mañana mas despacio, gracias!
+01:36:55	Franco Cirulli:	Dale, sino pedinos ayuda en discord o wpp!
+01:37:09	Ramiro Guitart:	lo mejor es mirarla y no ir haciendo el código a la par, te atrasas
+01:37:16	Franco Pereyra:	profe como se comentaba el código?
+01:37:21	[Tutor] José Antonio:	Exacto como dice Ramiro
+01:37:28	Lucas Labriola:	alt + }
+01:37:38	guille faccini:	profeee si pongo varios atributos en img, van a estar todos activos no?control autoplay loot
+01:37:39	Franco Pereyra:	gracias
+01:37:40	Romina Gentile:	los tamaños de fotos y videos se configuran con css?
+01:37:47	Lucas Labriola:	si romi
+01:37:47	[Tutor] José Antonio:	si Romina
+01:37:51	Guido:	img
+01:37:52	Romina Gentile:	gracias!
+01:37:56	Nicolas Fernandez:	externo
+01:37:56	Guido:	excterno
+01:37:59	Rodrigo Penesi:	externo
+01:38:01	Mateo terren:	externo
+01:38:01	Ivan Fernandez:	externo
+01:38:04	Gonzalo Pompei:	absoluto
+01:38:06	Leandro Saubiette:	absoluto
+01:38:07	Matias Roldan:	iframe
+01:38:07	Jairo Davila:	absoluto
+01:38:26	Rocío Capelli:	absoluto
+01:38:33	Franco Cirulli:	Porque se genera ese link?
+01:38:46	[Tutor] José Antonio:	supongo es la imagen que tiene un link muy extenso
+01:38:50	[Tutor] José Antonio:	por la codificacion de la img
+01:38:54	Lisandro Flores:	ok
+01:38:56	Enrique Cherot:	Por si les sirve acá les dejo un link donde hay imágenes gratuitas y de calidad para descargar: https://unsplash.com/es
+01:39:20	Franco Cirulli:	Vamos al rio!
+01:39:51	Javier Saavedra:	crtl + } es en Windows y en mac como es??
+01:40:40	Mariano Alejandro Garcia:	alt izq + }
+01:40:52	Mariano Alejandro Garcia:	o alt der
+01:41:34	Diego Chavez:	parecido al pseudocodigo
+01:41:42	Diego Chavez:	me hizo acordar a eso
+01:41:57	Guido:	valor es el atributi=
+01:41:59	Guido:	?
+01:42:05	Diego Chavez:	sep
+01:42:28	Guido:	om abro la llave?
+01:42:30	Diego Chavez:	propiedad es tipo variable yy valor es el valor supongo
+01:42:31	Guido:	como
+01:42:41	Mariano Alejandro Garcia:	el valor es valor, value
+01:42:57	[Tutor] José Antonio:	solo presten atención gente, ahorita que el profe lo escriba en código sera mas claro
+01:45:36	Camila Besse:	hay que poner el link en el head
+01:45:43	Camila Besse:	para vincular el css
+01:45:47	[Tutor] José Antonio:	si
+01:46:04	Guido:	como pongo llave
+01:46:16	Luis Urán:	al lado de la ñ
+01:46:19	Camila Besse:	depende tu teclado, pero creo que se puede con alt+123
+01:46:20	Andre Abreo:	alt +  123 con eso haces llaves
+01:47:01	Enrique Cherot:	no están linkeados
+01:47:04	Matias Perrone:	No están vinculados
+01:48:04	Franco Cirulli:	Siempre sean ordenados eso si
+01:48:10	Diego Chavez:	es todo lo que este dentro de los paréntesis?
+01:48:12	Matias Roldan:	importa hacerlo al oden del documento HTML?
+01:48:25	Guido:	|escribo alado del h1 el corchete y no me aparece colors
+01:48:31	Lucas Labriola:	pero selecciona todos los H1?
+01:48:36	Camila Besse:	son llaves , no corchetes
+01:48:49	Sergio Ariel Riveros:	Cómo se la cantidad de píxeles que debo colocar?????
+01:49:07	[Tutor] José Antonio:	debe ser porque no lo guardaste como archivo .css Guido
+01:49:16	Guido:	aaaaaaaaaaaaaa
+01:49:23	Diego Chavez:	eso lo ves en el balsamiq
+01:49:27	Guido:	tengo que guardar .css?
+01:49:34	[Tutor] José Antonio:	Debes calcularlo tu Sergio, con la practica ira mejorando, es prueba y error basicamente, si no queda como quieres lo ajustas y asi
+01:50:15	Diego Chavez:	con el balsamiq no podes hacerlo
+01:50:22	Diego Chavez:	de sacar  los pixeles de ahi ?
+01:50:25	[Tutor] José Antonio:	si guido, tu archivo css debe ser extension .css
+01:50:34	Guido:	ok
+01:52:24	Matias Perrone:	Bien. Si yo tengo más de un H1 y quiero que tengan estilos diferentes aplicados, como se hace?
+01:52:37	Diego Chavez:	diferentes h1
+01:52:40	[Tutor] José Antonio:	con clases Matias, pero se vera mas adelante
+01:52:44	Nicolas Fernandez:	Diferentes clases
+01:52:47	Matias Perrone:	Ok, gracias
+01:52:53	[Tutor] José Antonio:	👍
+01:53:05	Lucas Labriola:	me aparece todas las palabras escritas
+01:53:10	Valentin Tur:	queda todo muy amontonado
+01:53:11	Lucas Labriola:	no el archivo .css
+01:53:53	Guido:	como se unen todas después?
+01:54:02	Jacob Mora:	perate
+01:54:03	Jacob Mora:	>v
+01:54:06	[Tutor] José Antonio:	que cosa guido?
+01:54:14	Guido:	el css con el html
+01:54:20	[Tutor] Matías Ezequiel Espinosa:	en el head
+01:54:32	[Tutor] Matías Ezequiel Espinosa:	a través de id, clases, ya veremos
+01:54:33	Matias Perrone:	En cada head linkeas el css, como mostró, pero en cada uno de los html
+01:54:33	[Tutor] José Antonio:	asi como vinculo esta mismo archivo de css, pones otro
+01:54:50	[Tutor] Matías Ezequiel Espinosa:	en cada HTML linkean 1 único css
+01:54:50	Guido:	oka
+01:54:59	[Tutor] José Antonio:	mas adelante ya se vera guido
+01:55:21	Guido:	gracuias profe
+01:55:25	Guido:	gracoias
+01:55:26	Alejandro Cuadrado:	prioriza el HTML?
+01:55:32	[Tutor] Matías Ezequiel Espinosa:	Chicos....los nombres por favor....nombre y apellido
+01:55:35	[Tutor] José Antonio:	prioriza el css
+01:55:44	Alejandro Cuadrado:	ok
+01:55:47	guille faccini:	Guillermo faccini
+01:55:50	[Tutor] José Antonio:	ya se vera poco a poco
+01:55:56	Nicolas Fernandez:	Nicolás Fernández
+01:56:00	[Tutor] Matías Ezequiel Espinosa:	no guille, que los pongan bien en zoom
+01:56:03	Guido:	Guido Delgadfo
+01:56:05	guille faccini:	ahh jajaj
+01:56:07	guille faccini:	joya
+01:56:08	Guido:	Guido Delgado
+01:56:19	[Tutor] José Antonio:	que se cambien los nombres correctamente en zoom chicos, asi como aparece en la plataforma
+01:56:25	[Tutor] José Antonio:	para tomarles correctamente la asistencia
+01:56:28	Nicolas Fernandez:	Yo creo q lo tengo bien, donde puedo ver?
+01:56:30	[Tutor] Matías Ezequiel Espinosa:	Guido, edítalo en zoom, yo solo leo Guido cuando mandas un mensaje por aqui
+01:57:52	Andre Abreo:	consulta de la primera manera entonces yo podría dedicarme a hacer back con html y otra persona el front con css independientemente?
+01:58:12	[Tutor] José Antonio:	no Andre
+01:58:23	[Tutor] José Antonio:	el front end es html, css y JS
+01:58:31	Santiago Inza:	Profe una consulta, puede ser >?
+01:58:36	Lucas Labriola:	se me pintan todos los h1
+01:58:39	Lucas Labriola:	no solo el que quiero
+01:58:40	Lucas Labriola:	:C
+01:58:50	Camila Besse:	tenes que usar clases para que no te pase eso Lucas
+01:58:52	[Tutor] José Antonio:	ese es el comportamiento normal Lucas
+01:58:59	Camila Besse:	ahora lo mostrara
+01:59:00	[Tutor] José Antonio:	ahorita veremos como para que solo sea un h1
+01:59:03	Ingrid Aguero Tello:	la manera ideal de hacerlo entonces es la primera explicada?
+01:59:03	Nicolas Fernandez:	Después se verá eso supongo con las clases de css
+01:59:05	Andre Abreo:	ah ok entonces si o si tengo que aprender html css y js
+01:59:17	Alejandro Cuadrado:	cuantas H se pueden utilizar? es infinito?
+01:59:30	Lucas Labriola:	gracias Josee
+01:59:34	[Tutor] José Antonio:	para frontend si, html, css, js y un framework ya sea react, vue, angular
+01:59:35	Lucas Aballay:	creo q esa es la idea del curso
+01:59:37	Camila Besse:	h1 a h6
+01:59:39	Andre Abreo:	no no
+01:59:43	Andre Abreo:	no lo decía por el curso
+01:59:49	Andre Abreo:	al reves no me sale el diseño bien
+01:59:50	Andre Abreo:	jaja
+01:59:55	Franco Cirulli:	podemos etiquetar las etiquetas? como?
+02:00:10	Andre Abreo:	porque después de este curso quiero hacer back
+02:00:25	Franco Cirulli:	No me equivoque
+02:00:32	Guido:	pero ese h1 es el de index?
+02:00:41	Guido:	o solo es otro arichivo?
+02:00:41	Ailen Vera:	css me suena a atomizar 🧐
+02:00:48	Franco Cirulli:	Ejemplo nombrar a los elementos, ejemplo al img, tengo 2, como le pongo img 1 img 2 para el css?
+02:01:00	[Tutor] José Antonio:	ahorita se vera eso Franco
+02:01:04	Enrique Cherot:	ahora lo explican
+02:01:04	[Tutor] José Antonio:	es con clases
+02:01:06	Enrique Cherot:	con id
+02:01:08	Enrique Cherot:	o clases
+02:01:15	Enrique Cherot:	discriminas uno
+02:01:17	Ricardo Crausaz:	id o class
+02:01:19	Enrique Cherot:	y luego lo llamas
+02:01:28	[Tutor] José Antonio:	id de preferencia se usa para js, es mejor usar clases para css
+02:02:55	leandro liquori:	como era para que no se corra tanto la horacion y que este adentro del tamaño de vsc, me olvide
+02:03:06	[Tutor] José Antonio:	alt + z
+02:03:10	[Tutor] José Antonio:	Leandro
+02:03:23	Enrique Cherot:	te dejaste el otro
+02:03:36	Dylan Marsili:	como hacer para traer el codigo arriba o abajo
+02:03:43	Dylan Marsili:	o para ponerlos adentro de otras etiquetas
+02:03:59	[Tutor] José Antonio:	alt + arriba
+02:04:06	[Tutor] José Antonio:	o abajo, con tus flechas de navegacion
+02:04:22	[Tutor] José Antonio:	para ponerlo dentro de otras etiquetas creo no se puede cx
+02:04:35	leandro liquori:	me lo borra con alt z nose porque
+02:04:36	Dylan Marsili:	nono
+02:04:39	Dylan Marsili:	me referia a eso
+02:04:44	Dylan Marsili:	gracias
+02:05:06	Leandro Saubiette:	Que diferencia hay para especificar hijos entre dejar el espacio o indicar el signo >. Por ej nav ul o nav > ul
+02:05:32	[Tutor] Matías Ezequiel Espinosa:	Ya vamos a ver las maneras de especificar
+02:06:58	Olinda Mayor:	y para qué se usan los padres ? osea p q escribo más código para cambiar el color si lo puedo hacer primero?
+02:07:14	Valentin Tur:	para contener
+02:07:18	Julio Vargas:	Si hubiera un h1 por fuera del main aplicaría otro selector, por ejemplo el color rojo.
+02:07:20	Julio Vargas:	?
+02:07:21	Enrique Cherot:	porque vas a tener 100 h1
+02:07:37	Gonzalo Pompei:	rojo
+02:07:38	Enrique Cherot:	rojo
+02:07:40	Mariano Alejandro Garcia:	verde
+02:07:40	JOSE CORTES SIERRA:	rojo
+02:07:41	Agustin Cabrera:	negro
+02:07:41	Matias Perrone:	Red
+02:07:42	Lucas Aballay:	negro
+02:07:42	Leandro Saubiette:	rojo
+02:07:42	Christian Toppetti:	red
+02:07:43	Lucas Labriola:	red
+02:07:45	Nicolas Fernandez:	No aparece (?)
+02:07:45	Ricardo Crausaz:	re
+02:07:45	Julio Vargas:	rojo
+02:07:48	Dylan Marsili:	rojo
+02:07:52	JOSE CORTES SIERRA:	No esta en el div
+02:07:55	Lucas Aballay:	ahhhhh
+02:07:56	Alejandro Cuadrado:	css
+02:07:59	Rodrigo Penesi:	el que no esta especificado
+02:08:05	Agustin Cabrera:	rojo jaja
+02:08:05	Ingrid Aguero Tello:	huerfano xD
+02:08:26	Enrique Cherot:	verde
+02:08:27	Valentin Tur:	verde
+02:08:28	Christian Toppetti:	verde
+02:08:28	Gonzalo Pompei:	verde
+02:08:29	Lucas Aballay:	verde
+02:08:30	Leandro Saubiette:	verde
+02:08:31	Nicolas Fernandez:	green
+02:08:31	JOSE CORTES SIERRA:	verde
+02:08:31	Lucas Labriola:	verde
+02:08:32	Ivan Fernandez:	verde
+02:08:32	Matias Perrone:	Verde
+02:08:32	Ailen Vera:	verde
+02:08:32	Juan Hernandez Lobato:	verde
+02:08:33	Ingrid Aguero Tello:	verde
+02:08:33	Dylan Marsili:	verde
+02:08:33	Fede Prieto:	verde
+02:08:34	Rodrigo Penesi:	verde
+02:08:37	Rodrigo Penesi:	porque esta fuera del main
+02:08:38	Mariano Alejandro Garcia:	green
+02:08:44	[Tutor] José Antonio:	👏
+02:09:01	Juan Hernandez Lobato:	ahi masomenosç
+02:09:04	[Tutor] José Antonio:	si no saben no pasa nada, poco a poco iran aprendiendo
+02:09:05	Fede Prieto:	y si usas el main es azul
+02:09:09	Lucas Labriola:	por eso se dice en cascada?
+02:09:09	Lucas Labriola:	jaajaj
+02:09:42	Julio Vargas:	por esa predominancia de la especificidad del selector es que se lo llama en cascada, no?
+02:10:14	Julio Vargas:	jajaj! Pregunte lo mismo, perdón.
+02:10:19	[Tutor] José Antonio:	si, es por eso, es porque si tienen dos h1 en css, el segundo se le va a aplicar a la pagina y no el primero
+02:10:22	[Tutor] Matías Ezequiel Espinosa:	la especificidad y la cascada son cosas diferentes
+02:10:37	Julio Vargas:	ok
+02:10:42	Ailen Vera:	El elemento padre entonces es el css ya que si modificamos un color desde ahí se modifica en toda la pagina? no hace falta hacer uno por uno
+02:10:48	Ailen Vera:	o nada que ver?
+02:10:53	[Tutor] José Antonio:	si tienen h1{color rojo} y luego tienen otro h1{color morado} , se va a aplicar el ultimo h1, el de color morado, por eso es cascada,
+02:10:59	Gonzalo Pompei:	el emmet no funciona para nada en CSS no?
+02:11:09	[Tutor] José Antonio:	lo de especifidad es lo que viene explicando el profe
+02:11:14	[Tutor] José Antonio:	no gonzalo
+02:11:22	Gonzalo Pompei:	ok grax
+02:11:23	[Tutor] Matías Ezequiel Espinosa:	el header en este HTML es el padre de h1 y div
+02:11:31	[Tutor] José Antonio:	nada que ver Ailen
+02:11:43	[Tutor] Matías Ezequiel Espinosa:	perdón, lei mal
+02:12:00	Christian Toppetti:	Eso va a afectar a todas las etiquetas que tengan foo de clase?
+02:12:06	Valentin Tur:	no se especifica el div antes? del .foo
+02:12:18	[Tutor] Matías Ezequiel Espinosa:	si cris
+02:12:28	[Tutor] José Antonio:	el padre simplemente es la etiqueta html que esta conteniendo nuestro elemento, si tenemos <div> <p>Hola</p> </div> , en este caso el padre es el div porque dentro tiene al p, el cual el p es el hijo
+02:12:35	Thiago Marsili:	pq esta adentro del div
+02:13:14	Ailen Vera:	Me refiero en cuanto a colores
+02:13:24	[Tutor] Matías Ezequiel Espinosa:	la especificidad es: si por ejemplo a cualquier etiqueta le dan clase mediante class o mediante id, lo que va a tomar es el id....para el que preguntaba de la especificidad
+02:13:50	[Tutor] Matías Ezequiel Espinosa:	No ailen
+02:14:06	[Tutor] Matías Ezequiel Espinosa:	el css solo es un archivo que permite dar estilos
+02:14:14	Nicolas Fernandez:	El color se puede poner en HEX también, cierto?
+02:14:19	[Tutor] Matías Ezequiel Espinosa:	Si Nico
+02:14:29	Nicolas Fernandez:	Perfect
+02:14:33	[Tutor] Matías Ezequiel Espinosa:	;)
+02:14:36	Ingrid Aguero Tello:	porque se modifico el párrafo?
+02:14:58	Romina Gentile:	como puedo poner comentarios en el archivo css? igual? pq no me saltan
+02:14:59	Lucas Aballay:	porque esta dentro del div pero no especificado en el css, creo
+02:15:31	Thiago Marsili:	y si ponemos h1 .foo va a ser mas pesada no?
+02:15:44	[Tutor] José Antonio:	/* This is a comment in CSS */ asi se ponen comentarios en css
+02:15:53	Romina Gentile:	gracias!
+02:15:56	[Tutor] Matías Ezequiel Espinosa:	Aca van a ver la especificidad
+02:16:05	[Tutor] Matías Ezequiel Espinosa:	el orden de*
+02:16:22	Luis Urán:	faa es id en el html
+02:16:24	Juan Fajardo:	#
+02:16:51	[Tutor] Matías Ezequiel Espinosa:	Magia
+02:17:25	Matias Roldan:	es el ancho d espadas
+02:17:35	guille faccini:	entonces lo mejor seria directamente seria usar id?
+02:17:41	guille faccini:	ahh justo explica ajja
+02:17:48	[Tutor] Matías Ezequiel Espinosa:	Si Ailen, pero en este caso eso lo definis mediante la precedencia
+02:17:52	Valentin Tur:	es unico
+02:17:57	[Tutor] Matías Ezequiel Espinosa:	si es mediante etiqueta es a todos
+02:18:03	[Tutor] José Antonio:	si, el id es unico
+02:18:04	Luis Urán:	Es posible seleccionar por clase pero sin que los cambios afecten a los elementos hijos?
+02:18:07	guille faccini:	claro
+02:18:10	[Tutor] Matías Ezequiel Espinosa:	perdón, era pv
+02:18:10	Luis Urán:	No se si se entiende
+02:18:39	[Tutor] José Antonio:	amm, pues si la clase afecta a los hijos si los va a modificar
+02:18:43	Agustin Cabrera:	ejemplo el MENU NAVEGADOR seria class ya que todas las vistas va aparecer igual cierto ?? 
+02:18:44	Nicolas Fernandez:	Quizás sirva para hacer alguna excepción cuando tenemos elementos iguales y en algun Elemento X quisiéramos cambiar solamente algún valor?
+02:18:53	[Tutor] José Antonio:	id se usa mas para JS
+02:18:58	[Tutor] José Antonio:	para css se usa clases
+02:19:04	Nicolas Fernandez:	oki
+02:20:43	Lisandro Flores:	Perdon pero me aparece que no tengo la asistencia.
+02:21:06	[Tutor] Matías Ezequiel Espinosa:	y ahora menos... xD, capaz no pasaron Lisan
+02:21:11	Matias Perrone:	En cambio dos ID no se pueden aplicar juntos a la misma etiqueta?
+02:21:13	Lisandro Flores:	jaja se
+02:21:16	[Tutor] José Antonio:	la asistencia aparece al final de la clase
+02:21:22	[Tutor] Matías Ezequiel Espinosa:	iguales no mati
+02:21:26	Lisandro Flores:	perfect gracias
+02:21:28	Ramiro Guitart:	hay break?
+02:21:29	[Tutor] José Antonio:	algunas veces sale inmediatamente pero normalmente sale al final de la clase
+02:22:40	Diego Chavez:	pero tira error
+02:22:53	Diego Chavez:	tiene el espacio
+02:23:52	Andre Abreo:	tenemos un id
+02:24:20	JOSE CORTES SIERRA:	Se puede el underline de otro color/
+02:24:22	JOSE CORTES SIERRA:	?
+02:24:40	[Tutor] Matías Ezequiel Espinosa:	ASISTENCIA PASADA ✅AUSENTES ❌:Antonela VistaliAntonela MangiapianiCarolina IglesiasEstephano Orbegoso
+02:24:54	Sergio Ariel Riveros:	Que lio, ya estoy mareado
+02:24:59	[Tutor] José Antonio:	ASISTENCIA PASADA, NO ENCONTRADOS :Lautaro GabrielliLautaro RudazMaria Fernanda Correa ParraMarllury RomeroRom BaragiolaRonny GonzalezSantiago DrozdScarlet GuerraSoledad ToroYoel PastorRevisen si tienen correctamente su nombre en zoomigual como en la plataforma
+02:25:03	Lucas Labriola:	mientras mas combinaciones tenga es mas pesado?
+02:25:17	[Tutor] José Antonio:	es normal Sergio, no lo tienen que entender todo a la primera vez
+02:25:58	Luis Urán:	Qué util ese selector specificity
+02:26:34	Christian Toppetti:	O sea, el primer numero es el id, el segundo la clase y el tercero es la etiqueta
+02:26:43	Lucas Labriola:	buenisimoo! graciass
+02:27:19	Olinda Mayor:	no entiendo q significa ni foo ni faa
+02:27:32	[Tutor] José Antonio:	foo es una clase
+02:27:35	[Tutor] José Antonio:	faa es un id
+02:27:55	[Tutor] José Antonio:	y asi se seleccionan en css, se mandan a llamar del html, . para clase y # para id
+02:27:57	Olinda Mayor:	gracias
+02:28:08	Valentin Tur:	es un nombre, vos le podes poner el nombre que quieras a la clase o id
+02:28:15	[Tutor] Matías Ezequiel Espinosa:	el h1 es el único que no puede usar mas de una vez por HTML ‼️
+02:29:14	Gonzalo Pompei:	amarillo
+02:29:15	Leandro Saubiette:	yellow
+02:29:16	Andre Abreo:	amarillo
+02:29:17	Valentin Tur:	amarillo
+02:29:18	Lucas Labriola:	amarillo
+02:29:19	Ricardo Crausaz:	yellow
+02:29:19	Lucas Aballay:	el ultimo
+02:29:20	Ivan Fernandez:	el amarillo
+02:29:30	Valentin Tur:	el ultimo que se pone
+02:31:31	Antonella Mangiapani:	holaa, ya pusieron asistencia?
+02:31:37	Dylan Marsili:	Si
+02:31:37	Dylan Marsili:	creo
+02:31:39	guille faccini:	si recién pasaron
+02:31:44	Dylan Marsili:	a mi ya me llego en la plataforma
+02:31:49	Enrique Cherot:	fíjate en la plataforma
+02:31:53	Enrique Cherot:	si te llegó el alerta
+02:32:09	Antonella Mangiapani:	nunca me llega el alerta
+02:32:15	Antonella Mangiapani:	😑
+02:32:50	Rodrigo Penesi:	ami aun no
+02:32:51	Rodrigo Penesi:	jaja
+02:32:57	Carla Peiovich:	a mi tampocoo
+02:33:24	[Tutor] José Antonio:	normalmente la alerta llega al final de la clase
+02:33:36	[Tutor] José Antonio:	eso si no aparecen en la lista de no encontrados que comparti
+02:34:19	Antonella Mangiapani:	me ha andando re mal internet, me pasarían la lista para ver si estoy?
+02:35:48	Santiago Inza:	En el proyecto hay varios archivos HTML; index, proyecto, equipo, etc. Como hacemos para especificar que tal atributo debe estar en proyecto y no en el index ? Se entiende la pregunta ? Gracias
+02:35:56	guille faccini:	ASISTENCIA PASADA ✅AUSENTES ❌:Antonela VistaliAntonela MangiapianiCarolina IglesiasEstephano Orbegoso
+02:36:11	guille faccini:	eso es lo que pasaron de ausentes
+02:36:12	Diego Chavez:	ese es el problema antonela
+02:36:19	Enrique Cherot:	Font family
+02:36:22	Diego Chavez:	tu nombre en zoom tiene 2 LL
+02:36:27	Diego Chavez:	y en la plataforma solo 1
+02:36:33	Diego Chavez:	por eso no te pasan asistencia
+02:37:00	Antonella Mangiapani:	no, tiene las dos ll
+02:37:10	Diego Chavez:	en la plataforma también
+02:37:12	Antonella Mangiapani:	está igual que acá
+02:37:12	Diego Chavez:	?
+02:37:17	Antonella Mangiapani:	si
+02:37:25	Diego Chavez:	háblalo con tu tutor
+02:37:30	guille faccini:	mandale msj al tutor mati y decile que estas presente
+02:38:08	Joaquín Gómez:	hay alguna manera de hacer el subrayado en solo palabras? perdon por la pregunta
+02:38:14	Lucas Labriola:	le saca el margen a todos porque lo escribiste en el principio??
+02:38:32	Julio Vargas:	Sigamos...
+02:38:33	Lucas Aballay:	sigamos
+02:38:36	Romina Gentile:	sigamos!
+02:38:37	Lucas Labriola:	seguimos
+02:38:37	Elizabeth Rivarola:	hasta el final
+02:38:38	Andre Abreo:	sigamos
+02:38:38	Rocío Capelli:	sigamos
+02:38:39	gonzalo woitaszen:	sigamos
+02:38:39	Joaquín Gómez:	ya esta seguimos
+02:38:40	Matias Perrone:	Metele nomas
+02:38:40	Fede Prieto:	sigamos
+02:38:40	JOSE CORTES SIERRA:	fuerte
+02:38:44	Veronica Araque Franco:	hasta el final
+02:38:48	natalia mansilla:	sigamos
+02:38:49	Santiago Torres:	Sigamos
+02:38:50	Anahí Calvagna:	Sigamos
+02:38:50	Joan Flores Guillen:	seguir
+02:38:51	guille faccini:	me fumo el puchito mientras seguimoooo
+02:38:53	Rodolfo Garavano:	Seguir
+02:38:54	Gonzalo Pompei:	meta si tiene con que
+02:38:55	Joaquín Gómez:	a mi tambien profe
+02:38:55	Leyser Almeyda:	seguimos
+02:38:55	Juan Hernandez Lobato:	sigamos
+02:38:59	[Tutor] José Antonio:	XD
+02:39:00	Elizabeth Rivarola:	🥵
+02:39:01	guille faccini:	jajajajja
+02:39:04	Dylan Marsili:	ajajjaa
+02:39:06	Enrique Cherot:	ya somos 2
+02:39:30	Franco Cirulli:	sigamos!!😇
+02:40:01	Nicolas Fernandez:	Q mal me caes guille, me quede sin puchitos y quiero ir a comprar jajajajajaja
+02:40:02	Franco Cirulli:	Llego tarde jaja
+02:40:26	guille faccini:	AJAJA nooo que cagada amigoooo
+02:40:59	Thiago Marsili:	el java script complementa el desarrollo web?
+02:41:16	Enrique Cherot:	le da interactividad a la web
+02:41:22	Enrique Cherot:	y es JavaScript todo junto
+02:41:29	Lucas Labriola:	que buena clase lpm
+02:41:32	[Tutor] José Antonio:	Si Thiago
+02:41:49	Benjamín Sepúlveda:	no fumen tabaco :c
+02:42:03	guille faccini:	see, igual la voy a tener que volver a ver por que se me cocino un poco el cerebro
+02:42:11	Franco Cirulli:	solo otra cosa🤨
+02:42:19	[Tutor] José Antonio:	si, es que es mucho contenido para asimilar en una clase
+02:42:28	Ramiro Guitart:	estoy igual guillote
+02:42:42	Elizabeth Rivarola:	🤧
+02:42:51	guille faccini:	😂
+02:43:50	Julio Vargas:	Las buenas practicas dan algún orden a las propiedades? Ejemplo, primero va a el color y después el size?
+02:44:19	Nicolas Fernandez:	Con las de Adobe también?
+02:44:53	Camila Besse:	p
+02:46:24	Enrique Cherot:	jaja
+02:46:26	Nicolas Fernandez:	Se puso goloso el profe
+02:46:31	Camila Besse:	jajajaaj
+02:46:38	Ramiro Guitart:	lol
+02:47:39	Andre Abreo:	que se tiene que hacer o se recomienda... se escribe primero en el css ej la class o se hace primero en el html y luego en el css?
+02:47:57	Enrique Cherot:	primero html
+02:47:59	[Tutor] José Antonio:	siempre primero el html
+02:48:02	[Tutor] José Antonio:	luego el css
+02:48:02	Enrique Cherot:	pero tenes que ir estructurando
+02:48:10	Enrique Cherot:	onda nav bar
+02:48:11	Enrique Cherot:	main
+02:48:22	Enrique Cherot:	lo separas y luego vas haciendo css por partes
+02:48:28	Andre Abreo:	ok
+02:48:42	[Tutor] José Antonio:	no todo el html , escribes un poco de html y luego lo modificas con css, luego otro poco con html y le das estilos con css y asi
+02:49:06	Alejandro Cuadrado:	si la Fuente no tiene el peso numeric, por defecto lleva al mas cercano? o simplemente no aparece?
+02:49:25	Luis Urán:	Cuántas propiedades css existen?
+02:51:11	[Tutor] José Antonio:	Hola Orlany, si esta correcto, si tienes asistencia, te debe llegar al final de la clase, ya esta ok
+02:54:06	Nicolas Fernandez:	El inherit no se usa?
+02:54:23	Andre Abreo:	ahhh yo estuve probando eso de center pero como lo hago responsive a todos los elementos … jaja me queda todo desordenado en el navegador
+02:57:04	Maria Mazzoni:	pero no deberìa heredar del padre ?
+02:57:45	Maria Mazzoni:	ah porque es otro tipo de elemento
+02:57:49	Thiago Marsili:	la lista no es un texto
+02:58:14	guille faccini:	entonces al class, yo le puedo dar la plabra que quiera para identificar y tener mas organización?
+02:58:16	Maria Mazzoni:	gracias!
+02:58:29	guille faccini:	perfecto
+02:58:47	guille faccini:	joyaa
+02:59:00	Rodolfo Garavano:	Si pone class "anchor" al UL ahorraría a ponerlos 1 x 1?
+02:59:07	Nicolas Fernandez:	class=“textito_de_abajo_del_footer”
+03:01:05	Lucas Labriola:	queda por abajo o por encima del otro texto?
+03:01:16	Christian Toppetti:	color de texto?
+03:01:22	Rodrigo Penesi:	el fondo
+03:01:23	guille faccini:	fondo
+03:01:23	Enrique Cherot:	background
+03:01:23	Leandro Saubiette:	Color de texto negro
+03:01:24	Christian Toppetti:	background-color seria?
+03:01:25	Thiago Marsili:	background color
+03:01:29	Leandro Saubiette:	Background-color
+03:01:39	Lucas Labriola:	jajajaja
+03:02:08	Lucas Labriola:	uff va tomando forma
+03:02:49	Elizabeth Rivarola:	♨️
+03:03:28	Christian Toppetti:	Y si queres poner el fondo de todo en negro es correcto hacer * { background-color: black}
+03:03:29	Christian Toppetti:	?
+03:03:32	Guido:	del head también entonces?
+03:03:38	Guido:	se cambia el color?
+03:04:02	Valentin Tur:	el head no se ve
+03:04:14	Andre Abreo:	head no del header
+03:06:07	Rodrigo Penesi:	header
+03:06:10	Rodrigo Penesi:	será?
+03:06:12	Lucas Aballay:	../
+03:06:13	Matias Roldan:	../
+03:06:13	JOSE CORTES SIERRA:	..
+03:06:13	Valentin Tur:	./
+03:06:15	Matias Perrone:	./
+03:06:15	Enrique Cherot:	../
+03:06:16	Juan Pablo Silveira Gomez:	../
+03:06:17	JOSE CORTES SIERRA:	../
+03:06:18	Enrique Cherot:	2 puntos
+03:06:18	Dylan Marsili:	../
+03:06:21	Joel Dominguez:	../
+03:06:22	Santiago Inza:	..
+03:06:23	Juan Hernandez Lobato:	../
+03:06:23	Rodrigo Penesi:	../
+03:06:28	Tomas Novas:	../
+03:06:32	Rodrigo Penesi:	por eso le decía header
+03:06:42	Rodrigo Penesi:	preguntaba si se podía cambiar el color del head
+03:07:02	[Tutor] José Antonio:	no, el head no se puede modificar
+03:07:05	[Tutor] José Antonio:	solo el header
+03:07:06	Santiago Torres:	Consulta, se puede aplicar un background a todo el body?
+03:07:13	[Tutor] José Antonio:	si Santiago
+03:07:25	guille faccini:	el body se cierra al finalizar todo lo que queremos llenar?
+03:07:45	Benjamín Sepúlveda:	me debo retirar perdon
+03:07:58	[Tutor] José Antonio:	no pasa nada Benjamin
+03:08:08	[Tutor] José Antonio:	no entiendo la pregunta guille
+03:08:25	guille faccini:	claro, el body, cuando se cierra?
+03:09:01	guille faccini:	si cierro un body, no abro otro body?
+03:09:03	Andre Abreo:	profe una consulta que varios teníamos cuando estábamos practicando el html .. le estábamos poniendo -br- para dar espacio entre los elementos visibles pero cual seria la alternativa para dar espacio entre textos e imágenes , etc
+03:09:24	[Tutor] José Antonio:	pues al final de todo, escribes la etiqueta <body> <main>aqui va tu html </main></body>
+03:09:41	[Tutor] José Antonio:	eso se vera mas adelante Andre
+03:09:43	guille faccini:	perfecto joyaa, gracias
+03:10:11	Andre Abreo:	ah ok pensé que era algo de css de lo que dio esta clase
+03:10:15	Franco Cirulli:	Ya tomaron asistencias?
+03:10:20	Dylan Marsili:	si
+03:10:23	guille faccini:	sisi
+03:10:26	Alejandro Cuadrado:	eso pasaba muchisimo en las paginas de los años 2000 XD
+03:10:26	[Tutor] José Antonio:	nop, creo lo veran la siguiente clase Andre
+03:10:37	Guido:	disculpen me tengo que ir yo tambein
+03:11:14	[Tutor] José Antonio:	adios gente, buenas noches para los que ya se van 😴, aunque le faltan 5 min a la clase 👀
+03:12:06	Elizabeth Rivarola:	🥴
+03:12:37	[Tutor] José Antonio:	resistan gente, pueden volver a ver la clase
+03:12:38	Ailen Vera:	y para bajarle la opacidad como se hace?
+03:12:39	Elizabeth Rivarola:	buena clase profe
+03:13:00	[Tutor] José Antonio:	con opacity Ailen
+03:13:06	Mariano Alejandro Garcia:	me voy yendo
+03:13:10	Mariano Alejandro Garcia:	saludos a todos
+03:13:17	Franco Cirulli:	Saludos
+03:13:23	guille faccini:	saludos buenas nochess
+03:13:24	Lucas Labriola:	entendido
+03:13:28	Rodrigo Penesi:	cada vez duermo menos practicando esta wea jaja
+03:13:35	[Tutor] José Antonio:	es poco a poco
+03:13:35	Rodrigo Penesi:	buena clase profe
+03:13:58	Elizabeth Rivarola:	gracias profe! muy buena la clase 💀
+03:14:17	Franco Cirulli:	Chau💀
+03:14:33	Elizabeth Rivarola:	luna de pluton
+03:14:44	Rocío Capelli:	consulta, como puedo reducir la imagen?
+03:14:45	Nicolas Fernandez:	A las 22 el break? 😛
+03:14:57	Rocío Capelli:	gracias!!
+03:15:00	Mariano Alejandro Garcia:	adios
+03:15:03	Mariano Alejandro Garcia:	gracias!
+03:15:07	guille faccini:	profee perdón la preg, que es lo que muestra body y que es lo que muestra main , body contiene a main?
+03:15:07	Lucas Aballay:	podemos poner una imagen en el body?
+03:15:10	[Tutor] José Antonio:	buenas noches gente 😴
+03:15:11	Marcos Davila:	Como puedo hacer que una imagen se me quede sobre la izquierda o sobre la derecha solamente
+03:15:13	Elizabeth Rivarola:	no va rápido, no 💀
+03:15:17	[Tutor] José Antonio:	si lLucas
+03:15:21	Lucas Aballay:	genial
+03:15:23	Lucas Aballay:	gracias
+03:15:27	Facundo Rivera:	buenas noches muy buena clase buen finde
+03:15:44	Mikaela Sanchez:	buenas noches!
+03:15:51	Elizabeth Rivarola:	el lunes hay clase?
+03:15:53	Matias Perrone:	Profe, cuando entré estabas hablando del afterclass, ya hay fecha?
+03:16:02	[Tutor] José Antonio:	el lunes hay after class
+03:16:12	Matias Perrone:	Mismo horario?
+03:16:21	Rodrigo Penesi:	20-21hs
+03:16:22	Alejandro Cuadrado:	el lunes al firme para la clase
+03:16:23	Rodrigo Penesi:	creo
+03:16:29	Matias Perrone:	👍
+03:16:33	Lucas Labriola:	de 20 a 22
+03:16:35	guille faccini:	profee perdón la preg, que es lo que muestra body y que es lo que muestra main , body contiene a main?
+03:16:41	Alejandro Cuadrado:	ya sta marcado en la web
+03:16:57	Matias Perrone:	Profe, no pude encontrar fecha de la primera entrega. Sabes cuando es?
+03:17:04	guille faccini:	claro, perfectooo
+03:17:06	Lucas Labriola:	buenisima la clase profe, buenas noches!!
+03:17:07	Jairo Davila:	buenas noches
+03:17:22	Elizabeth Rivarola:	gracias por toda la info profe!
+03:17:24	Nicolas Fernandez:	Buena clase profe! Nos vemos el martes!
+03:17:26	Matias Perrone:	Ah listo, muchas gracias!!
+03:17:28	guille faccini:	excelente clase, la voy a tener que volver a ver para darle un par de repasadas
+03:17:33	Andre Abreo:	ayer estuve hasta las 3am y ya hice los balsamiq y los 5 html prontos como para la entrega … estaba esperando esto de css para que tome color estetico
+03:17:36	Elizabeth Rivarola:	el 99% van a ver la repetición
+03:17:42	[Tutor] José Antonio:	buenas noches 😴
+03:18:00	Valentin Tur:	Buenas noches genteee
+03:18:02	gonzalo woitaszen:	buenas noches
+03:18:05	Enrique Cherot:	jaja si ya tengo dudas para el Lunes
+03:18:05	Franco Cirulli:	Bueno profe, buenas noches yo terminare de completar con las clases regrabada, ya valore su  clase! Nos vemos cuidece
+03:18:06	Rodrigo Penesi:	y la actividad profe
+03:18:08	Elizabeth Rivarola:	night
+03:18:13	Facundo Garcia Brunetti:	Bueno profe, nos vemos el lunes !
+03:18:18	Matias Roldan:	Gracias buenas noches!
+03:18:18	Carlos Martín Rugnia:	buenas noches !
+03:18:20	Christian Toppetti:	Buenísimo profe, buenas noches
+03:18:21	guille faccini:	buen finde profee,dudo que pueda estar el lunes igual, laburo de 20 a 00
+03:18:22	Ailen Vera:	buenas noches!
+03:18:24	Romina Gentile:	buenisiima clasee
+03:18:25	Elizabeth Rivarola:	valoren!
+03:18:26	Dylan Marsili:	Buenas noches!!
+03:18:29	Enrique Cherot:	Buenas noches!
+03:18:29	[Tutor] José Antonio:	valoren la clase gente
+03:18:30	Facundo Garcia Brunetti:	Buenas noches !
+03:18:32	natalia mansilla:	buenas noches
+03:18:34	guille faccini:	el after queda grabado no?
+03:18:35	Lucila Allende:	Buenas Noches
+03:18:37	Elizabeth Rivarola:	👍
+03:18:45	Juan Pablo Silveira Gomez:	buenas noches
+03:18:52	Lucas Aballay:	genial profe, nos vemos en el after, muy buena clase
+03:18:57	Matias Perrone:	Muchas gracias, buenas noches!!
+03:18:58	Elizabeth Rivarola:	el after queda grabada??
+03:19:00	Alejandro Cuadrado:	buenas noches!
+03:19:00	guille faccini:	buen findeee
+03:19:02	Joan Flores Guillen:	Buenas noches cuidense
+03:19:02	Luis Urán:	Igualmente
+03:19:04	guille faccini:	abrazooo
+03:19:06	Elizabeth Rivarola:	profeee el after
+03:19:07	Lucas Aballay:	chau a todos
+03:19:07	Leyser Almeyda:	buenas noches profe, hasta el lunes buen fin de semana
+03:19:08	Olinda Mayor:	Buenas noches, gracias
+03:19:09	Elizabeth Rivarola:	aaaa
+03:19:09	guille faccini:	excelente claseeee
+03:19:10	Mateo terren:	buen finde
+03:19:12	Rocío Capelli:	y que gane arg!!
+03:19:13	Elizabeth Rivarola:	nooooo
+03:19:14	Andre Abreo:	chau chau
+03:19:14	guille faccini:	VAMOOOOO
+03:19:17	Elizabeth Rivarola:	AAAAAA
+03:19:19	Matias Roldan:	vamoo
+03:19:20	Elizabeth Rivarola:	PROFEEEE
+03:19:20	Matias Perrone:	Vamos Argentinaaaa
+03:19:22	Maria Mazzoni:	chauu
+03:19:23	Juan Pablo Silveira Gomez:	vamo Uruguay mañana!!!
+03:19:24	Tomas Novas:	saludos
+03:19:24	guille faccini:	ABRAZOOO
